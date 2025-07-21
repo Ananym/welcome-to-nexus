@@ -28,6 +28,7 @@
   - [NPC Subpath Information](community/npc-subpath.md)
   - [Community Subpath Information](community/community-subpath.md)
   - [Carnage Events](community/carnage-events.md)
+  - [Community Events](community/community-events.md)
 
 - **Crafting & Economy**
 

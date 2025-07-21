@@ -1,6 +1,6 @@
 # Early Equipment
 
-As a fresh-faced adventurer, you'll need to update your equipment regularly to keep pace with your foes.
+As a new adventurer, you'll need to update your equipment regularly to keep pace with your foes.
 
 ## Helms
 
@@ -18,9 +18,9 @@ Early on, you'll want rings from the kingdom jewellery shops. Purple rings are a
 
 ## Weapons
 
-Warriors and rogues can collect early weapons from the smiths. Around level 20, it's currently recommended to ask around to be loaned a Military Fork, as these are much stronger than any other accessible option until much higher in level.
+Warriors and rogues can collect early weapons from the smiths. Around level 20, it helps to ask around to be loaned a Military Fork, as these are much stronger than any other accessible option until much higher in level.
 
-Mages and Poets don't gain much from their weapons besides a little will and mana, and generally won't notice much difference from upgrades. You can pick up a Wicked Staff at 50, and a Tuna Wizard Wand at 70.
+Mages and Poets don't gain much from their weapons besides a little will and mana, and generally won't notice much difference from upgrades. Will does help the success rate of some mage spells. You can pick up a Wicked Staff at 50, and a Tuna Wizard Wand at 70.
 
 ## Shields
 

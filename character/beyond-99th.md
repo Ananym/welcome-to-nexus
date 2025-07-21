@@ -41,7 +41,7 @@ If you want to pursue culture entirely through craft, Carpentry is regarded as t
 
 This mark has several taxing trials.
 
-The trial of wisdom requires that you have the 5th level of Sage. Sage is first available from the wilderness sage at level 90, and is upgradable every 45 real days thereafter.
+The trial of wisdom requires that you have the 5th level of Sage. Sage is first available from the wilderness sage at level 90, and is upgradable every 45 real days thereafter. It is recommended that you learn sage asap and keep on top of the wait timer, as this is often a significant barrier for aspiring ee-sans.
 
 The trial of skill requires that you amass 60 carnage wins, with at least 5 of each type. Acquaint yourself with the carnage schedule, look out for rapid one-round line-ups on Saturdays, look out for free wins on holidays, look out for bonuses throughout the day. Fox hunts especially are quick to attend.
 

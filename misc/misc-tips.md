@@ -9,3 +9,5 @@ Registered players at least level 30 and under 99 can collect Wony's Little Modu
 Spell requirements in the final levels and quests such as the celestial armors make heavy use of items most easily found as carnage rewards. A good way to find these is to ask for help before or during a Riches or Foxhunt event, as people often have no particular use for the prizes themselves and will be happy to help you.
 
 To adjust your hairstyle, you can visit one of the kingdom salons. Each has different colors and styles. To reconfigure your facial features, you can speak with the ladies found in rogue guilds. To dye your armor with basic dyes, you can visit the arena or your guild's training hall and look for War Paint. For a wider selection of dyes, you can request the help of a Muse, or seek out dye potions from elixirs and events.
+
+You can adjust your chat color palette using the menu in the lower left. Many players like to make sure "Shout" and "System" are set to different colours, to differentiate local sage messages from world shouts.
