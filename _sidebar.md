@@ -14,6 +14,7 @@
   - [Choosing an Alignment](character/choosing-an-alignment.md)
   - [Beyond Your 99th](character/beyond-99th.md)
   - [Karma](character/karma.md)
+  - [Mythic Alliances](character/mythic-alliances.md)
 
 - **Combat**
 
@@ -26,18 +27,13 @@
   - [Finding a Clan](community/finding-clan.md)
   - [NPC Subpath Information](community/npc-subpath.md)
   - [Community Subpath Information](community/community-subpath.md)
-
-- **Advanced Content**
-
-  - [Mythic Alliance Info](advanced/mythic-alliance-info.md)
-  - [Mythic Alliance Tips](advanced/mythic-alliance-tips.md)
-  - [Carnage Events](advanced/carnage-events.md)
-  - [Kruna](advanced/kruna.md)
+  - [Carnage Events](community/carnage-events.md)
 
 - **Crafting & Economy**
 
   - [Crafting](economy/crafting.md)
   - [Money](economy/money.md)
+  - [Kruna](economy/kruna.md)
 
 - **Miscellaneous**
 
