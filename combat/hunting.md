@@ -16,7 +16,8 @@ This is intended to be a bare minimum guide to each path in group play.
 
 - Poets have very little offense beyond the lowest levels - you'll soon need to find others to group with.
 - Maintain Harden Armor and Sanctuary on all group members. Harden Armor improves AC, while Sanctuary directly halves all incoming damage. Valor is only a noticeable difference at the very lowest levels.
-- You can safely skip learning the self-heals or multiple target heals - these generally aren't very useful. Use Invoke to maintain your own mana, use healing spells to keep your group alive. Later, you'll be expected to use Inspire to restore others' mana.
+- You can safely skip learning the self-heals or multiple target heals - these generally aren't very useful.
+- Use Invoke to maintain your own mana, use healing spells to keep your group alive. Later, you'll be expected to use Inspire to restore others' mana.
 - Once you learn Scourge, you can drastically increase the damage taken by enemies. Try to make sure every target your group intends to kill is scourged.
 - As a poet, it's important to understand the different ways to target your spells in order to play efficiently and respond quickly.
 
@@ -34,8 +35,9 @@ This is intended to be a bare minimum guide to each path in group play.
 
 - Mage's offense is reasonable while levelling, especially if you make use of the 4-way surrounding zap attacks.
 - Maintain Harden Armor and Sanctuary on yourself and your group members. Use Vex to cause enemies to take extra damage, unless a poet with Scourge is present.
-- Static and Paralyze can be used to stop enemies moving or attacking, useful for reducing incoming damage if it's too high to deal with. Blind, meanwhile, only prevents enemies from moving - but lasts much longer. Remove paralysis is a surprisingly important spell, as later on you may be expected to carefully adjust monster position into advantageous patterns for your group.
+- Static and Paralyze can be used to stop enemies moving or attacking, useful for reducing incoming damage if it's too high to deal with. Blind, meanwhile, only prevents enemies from moving - but lasts much longer. Remove paralysis is a surprisingly important spell, as later on you may want to carefully adjust monster position into advantageous patterns for your group.
 - Use wine or pipes to maintain your mana until you learn invoke. However, mage heals are not especially potent - you may still wish to carry your own healing items.
 - Hellfire is a powerful attack that scales as you train your mana after 99. You will want to use Sleep or Doze beforehand to multiply its damage. Using hellfire and invoke will cost a lot of health - don't feel obliged to keep yourself fully healed at all times. By keeping your distance from monsters and using your control spells, you can get away with only healing yourself enough to take a couple of hits.
+- Do not cast Hellfire at extremely low vitality - the recoil CAN kill you!
 - At the time of writing, a handful of orbs are available to 99+ mages from the Buyan incubator, free of charge. Orbs are items that cast spells on use without being consumed. These include scourge, a second invoke with half aethers, and a second attack spell which is more efficient to cast. You should always pick these up as they represent a powerful set of bonuses.
 - As a mage, it's important to understand the different ways of targeting your spells. Spell hotkey setup for mages is quite individual. Casting via mouse is worth learning for mage, as controlling monster positioning is easier if you don't have to spend time moving the reticule.
