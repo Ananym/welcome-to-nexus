@@ -1,0 +1,109 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <title>Welcome To Nexus</title>
+    <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
+    <meta name="description" content="Welcome To Nexus" />
+    <meta
+      name="viewport"
+      content="width=device-width, initial-scale=1.0, minimum-scale=1.0"
+    />
+    <link
+      rel="stylesheet"
+      href="//cdn.jsdelivr.net/npm/docsify@4/lib/themes/vue.css"
+    />
+    <style>
+      :root {
+        --theme-color: #cd853f; /* Bronze orange */
+        --accent-color: #cd853f;
+      }
+
+      .sidebar {
+        background-color: #f8f8f8;
+      }
+
+      .sidebar-nav > ul > li > a {
+        color: #cd853f;
+        font-weight: 600;
+      }
+
+      .sidebar-nav > ul > li > ul > li > a:hover {
+        color: #b8860b;
+      }
+
+      .app-name {
+        color: #cd853f !important;
+        font-weight: bold;
+      }
+
+      h1,
+      h2 {
+        color: #8b4513;
+      }
+
+      .markdown-section h1 {
+        border-bottom: 2px solid #cd853f;
+        padding-bottom: 10px;
+      }
+
+      .pagination-item-label {
+        color: #cd853f;
+      }
+
+      blockquote {
+        border-left: 4px solid #cd853f;
+        background-color: #faf5f0;
+      }
+
+      /* Reduce overall font size */
+      body {
+        font-size: 14px;
+      }
+
+      .markdown-section {
+        font-size: 14px;
+      }
+
+      /* Reduce sidebar line height */
+      .sidebar-nav ul li {
+        line-height: 1.2;
+      }
+
+      .sidebar-nav ul li a {
+        line-height: 1;
+        padding: 2px 0;
+      }
+    </style>
+  </head>
+  <body>
+    <div id="app"></div>
+    <script>
+      window.$docsify = {
+        name: "Welcome To Nexus",
+        repo: "",
+        loadSidebar: true,
+        autoHeader: true,
+        subMaxLevel: 0,
+        homepage: 'home.md',
+        search: {
+          maxAge: 86400000,
+          paths: "auto",
+          placeholder: "Search...",
+          noData: "No results found",
+        },
+        copyCode: {
+          buttonText: "Copy",
+          errorText: "Error",
+          successText: "Copied",
+        },
+      };
+    </script>
+    <!-- Docsify core -->
+    <script src="//cdn.jsdelivr.net/npm/docsify@4"></script>
+    <!-- Search plugin -->
+    <script src="//cdn.jsdelivr.net/npm/docsify/lib/plugins/search.min.js"></script>
+    <!-- Copy code plugin -->
+    <script src="//cdn.jsdelivr.net/npm/docsify-copy-code@2"></script>
+  </body>
+</html>
