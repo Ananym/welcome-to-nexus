@@ -1,5 +1,3 @@
-- [Home](/)
-
 - **Getting Started**
 
   - [Getting Around](basics/getting-around.md)
@@ -15,8 +13,7 @@
   - [Stats Overview](character/stats-overview.md)
   - [Choosing an Alignment](character/choosing-an-alignment.md)
   - [Beyond Your 99th](character/beyond-99th.md)
-  - [Karma Explanation](community/karma-explanation.md)
-  - [Karma Chart](community/karma-chart.md)
+  - [Karma](character/karma.md)
 
 - **Combat**
 
