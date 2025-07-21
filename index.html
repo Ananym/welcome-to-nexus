@@ -81,8 +81,22 @@
     <script>
       window.$docsify = {
         name: "Welcome To Nexus",
+        repo: "",
         loadSidebar: true,
+        autoHeader: true,
+        subMaxLevel: 0,
         homepage: "home.md",
+        search: {
+          maxAge: 86400000,
+          paths: "auto",
+          placeholder: "Search...",
+          noData: "No results found",
+        },
+        copyCode: {
+          buttonText: "Copy",
+          errorText: "Error",
+          successText: "Copied",
+        },
       };
     </script>
     <!-- Docsify core -->
