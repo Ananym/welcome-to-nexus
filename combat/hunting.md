@@ -11,15 +11,18 @@ This is intended to be a bare minimum guide to each path in group play.
 - Slash is realistically only a melee taunt, but still has its uses.
 - Berserk and Whirlwind will be underwhelming at first, but ramp up quickly as you gain vitality after 99. Make sure to align yourself with Ming-ken or Ohaeng, as unaligned or Kwi-sin whirlwind is extremely risky!
 - You will most likely want to skip learning the warrior self-heals, as consumable healing items are readily available and heal for much more.
+- The level 99 rages work differently from the furies. Rages can be recast after their cooldown to enhance the effects of the spell, granting a higher damage multiplier and a bigger armor class penalty. Each tier will require a higher mana cost to cast than the last.
 
 ## Poet
 
 - Poets have very little offense beyond the lowest levels - you'll soon need to find others to group with.
 - Maintain Harden Armor and Sanctuary on all group members. Harden Armor improves AC, while Sanctuary directly halves all incoming damage. Valor is only a noticeable difference at the very lowest levels.
 - You can safely skip learning the self-heals or multiple target heals - these generally aren't very useful.
+- There are a variety of utility spells as a poet that can be skipped if you want to streamline the levelling process.
 - Use Invoke to maintain your own mana, use healing spells to keep your group alive. Later, you'll be expected to use Inspire to restore others' mana.
 - Once you learn Scourge, you can drastically increase the damage taken by enemies. Try to make sure every target your group intends to kill is scourged.
 - As a poet, it's important to understand the different ways to target your spells in order to play efficiently and respond quickly.
+- Shortly after reaching level 99, you should be aware of the Restore quest. Restore is a mana-scaled heal that represents a significant part of a poet's kit. The quest is not too difficult, although you will need the help of a larger player. I recommend not bringing any items that will break on death, making sure you know remove blind and atone, and waiting until at least 20k vitality to avoid getting oneshot.
 
 ## Rogue
 
@@ -30,6 +33,7 @@ This is intended to be a bare minimum guide to each path in group play.
 - Snare trap will cause a monster to take more damage, useful if you have no casters with you to offer stronger curses. Amnesia causes monsters to ignore you, useful while alone to take on targets one at a time.
 - Rogue heal spells are stronger than those of warriors, and some can target allies - though you may not necessarily need to learn these in a hurry, as healing items are still much stronger.
 - At 99, you may wish to invest in a Polearm if you find yourself grouping with Mages. Weapons with range don't break invisibility, provided that you don't hit a target directly next to you. As the range also allows you to hit multiple targets, this can produce impressive damage output.
+- A rogue's level 99 cunning uses similar recast/tier mechanics as a warrior's rage, although it does not penalise your armor.
 
 ## Mage
 

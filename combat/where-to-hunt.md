@@ -10,7 +10,7 @@ ATG has some mechanics allowing you to hunt with allies of different strengths. 
 
 (The game is in fact completely broken by this system, which encourages staying in ATG5 as long as physically possible using microtransactions to store experience, and even taking a higher mark and reducing your stats to remain in the desired tier. This sucks for everyone involved.)
 
-The ATG tiers are as follows:
+The minimum stats to enter each ATG tier are as follows:
 1: L11
 2: L50
 3: L99
@@ -21,4 +21,4 @@ The ATG tiers are as follows:
 8: sam-san stats, 640/320
 -- sa-san stats doesn't get a tier,
 9: 2m/1m (million)
-10: too big.
+10: too big to recall
