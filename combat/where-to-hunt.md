@@ -1,8 +1,9 @@
 # Where to Hunt
 
 For the most part, you should allow the requirements of your spells to govern where you hunt as you progress through the early levels.
+Many of the normal kingdom caves have equivalents in Tangun, and Tangun also has a few unique caves of its own. You can reach Tangun by talking to the innkeepers. Monsters in tangun are generally slow to kill but reasonably rewarding, and some items are easier to find here.
 
-At times you may want to visit Mythic Nexus through the world map, which offers a variety of hunting caves at different levels.
+At times you may want to visit Mythic Nexus through the world map, which offers a variety of hunting caves at different levels. The normal monsters here drop only ambers (and less so than the aklak training grounds) but the bosses drop a variety of useful items. Mythic Nexus starts with Mythic Rabbit in the northeast, accessible from level 25.
 
 However, for the most part, when focusing on pure experience the correct cave is one of the Ancient Training Grounds. The most popular of these is west off Kugnae's west gate. This is a tiered cave and covers many levels. You can enter tier 1 at level 11, but you are unlikely to be able to fight effectively there until level 35ish.
 
