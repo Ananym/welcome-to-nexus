@@ -11,14 +11,18 @@ ATG has some mechanics allowing you to hunt with allies of different strengths. 
 (The game is in fact completely broken by this system, which encourages staying in ATG5 as long as physically possible using microtransactions to store experience, and even taking a higher mark and reducing your stats to remain in the desired tier. This sucks for everyone involved.)
 
 The minimum stats to enter each ATG tier are as follows:
-1: L11
-2: L50
-3: L99
-4: 40/20 (40,000 vitality or 20,000 mana)
-5: 80/40
-6: il-san stats, 160/80
-7: ee-san stats, 320/160
-8: sam-san stats, 640/320
--- sa-san stats doesn't get a tier,
-9: 2m/1m (million)
-10: too big to recall
+
+| Tier | Requirements                            |
+| ---- | --------------------------------------- |
+| 1    | Level 11                                |
+| 2    | Level 50                                |
+| 3    | Level 99                                |
+| 4    | 40k/20k vitality/mana                   |
+| 5    | 80k/40k vitality/mana                   |
+| 6    | 160k/80k vitality/mana (Il-san stats)   |
+| 7    | 320k/160k vitality/mana (Ee-san stats)  |
+| 8    | 640k/320k vitality/mana (Sam-san stats) |
+| 9    | 2m/1m vitality/mana                     |
+| 10   | Too big to recall                       |
+
+_Note: Sa-san stats doesn't get a dedicated tier_
