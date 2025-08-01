@@ -7,7 +7,7 @@ At times you may want to visit Mythic Nexus through the world map, which offers 
 
 However, for the most part, when focusing on pure experience the correct cave is one of the Ancient Training Grounds. The most popular of these is west off Kugnae's west gate. This is a tiered cave and covers many levels. You can enter tier 1 at level 11, but you are unlikely to be able to fight effectively there until level 35ish.
 
-ATG has some mechanics allowing you to hunt with allies of different strengths. You're able to enter your highest tier plus the two tiers underneath. Entering a lower tier will penalize your stats and experience gain. However, it can often be more effective to hunt in a lower-than-highest tier due to the lesser durability of the monsters.
+ATG has some mechanics allowing you to hunt with allies of different strengths. You're able to enter your highest tier plus the two tiers underneath. Entering a lower tier will penalize your stats and experience gain. However, it can often be more effective to hunt in a lower-than-highest tier due to the lower monster armor and vitality.
 
 (The game is in fact completely broken by this system, which encourages staying in ATG5 as long as physically possible using microtransactions to store experience, and even taking a higher mark and reducing your stats to remain in the desired tier. This sucks for everyone involved.)
 

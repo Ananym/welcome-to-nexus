@@ -12,6 +12,6 @@ Once you're in a clan, try to get to know people. You can reach clan chat by whi
 
 Once you're a little stronger, ask how you can help out - clans are more willing to support people who are interested in giving a little back.
 
-Clan halls can offer a convenient place to restock on supplies or quickly travel to other destinations. The 'map can help you navigate your clan hall - it may take you a little while to familiarize yourself with the entire layout.
+Clan halls can offer a convenient place to restock on supplies or quickly travel to other destinations. The 'm'ap can help you navigate your clan hall - it may take you a little while to familiarize yourself with the entire layout.
 
 By becoming a member of a clan, you represent that clan in public. Continue to act politely and respectfully to all if you wish to maintain good relationships with your new kin.

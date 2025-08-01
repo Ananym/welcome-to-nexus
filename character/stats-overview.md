@@ -10,17 +10,17 @@ Combat in NexusTK is governed by a handful of different statistics.
 
 **'Dam'** improves your base damage by a flat amount. This makes a big difference early on, but becomes quickly less important as you gain marks. Rogues get slightly more use out of Dam than warriors, as Dam's effect is multiplied by a rogue's invisibility whereas a warrior's damage originates from powerful ingresses that don't interact with Dam.
 
-**'Hit'** improves your ability to hit enemies with swings. This makes a big difference early on, but no longer matters much beyond your 99th insight.
+**'Hit'** improves your ability to hit enemies with swings. This makes a big difference early on, but no longer matters much beyond your 99th insight, once your max out your Might stat.
 
 **Might** improves both your ability to hit and your base damage, if only slightly. Having enough also enables you to equip certain weapons.
 
 **Grace** improves your ability to dodge incoming blows.
 
-**Will** improves your ability to cast certain spells without failing, and very slightly increases the damage of your basic zap attack spells.
+**Will** improves your ability to cast certain spells without failing (and very very slightly increases the damage of your basic zap attack spells).
 
 **Protection** gives offensive spells a chance to fail when used against you. This appears to be 10% per point of protection, capping at 70%, so there is no advantage going beyond 7 protection.
 
-**Regen/Healing** directly improves the amount of vitality you regenerate over time by a percentage. 1 regen improves your natural regeneration by 1%. There is no equivalent for mana. This stat is rarely significant outside niche solo scenarios.
+**Regen/Healing** directly improves the amount of vitality you regenerate over time by a percentage. 1 regen improves your natural regeneration by 1%. There is no equivalent for mana. This stat is usually not significant outside of niche solo scenarios.
 
 ## Stat Priorities
 
