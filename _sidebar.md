@@ -21,8 +21,8 @@
   - [Casting Spells](combat/casting-spells.md)
   - [Consumable Items](combat/consumable-items.md)
   - [Hunting](combat/hunting.md)
-  - [Orbs](combat/orbs.md)
   - [Where to Hunt](combat/where-to-hunt.md)
+  - [Orbs](combat/orbs.md)
 
 - **Community & Social**
 
