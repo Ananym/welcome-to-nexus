@@ -2,58 +2,92 @@
 
 A comprehensive list of shops and services found in the kingdoms of NexusTK.
 
-## Inns
-Purchase yellow scrolls to return here. Purchase simple items, or wine for mana recovery. Access your bank.
+### Inns
+- Purchase yellow scrolls to return here
+- Purchase simple items and wine for mana recovery  
+- Access your bank
 
-## Butcher
-Buys and sells various meats. Sell acorns for early coins. Different butchers have slightly different selections.
+### Butcher
+- Buys and sells various meats
+- Sell acorns for early coins
+- Different butchers have slightly different selections
 
-## Smith
-Sells early armor and weapons for warriors and rogues, and helms for everyone.
+### Smith
+- Sells early armor and weapons for warriors and rogues
+- Sells helms for everyone
 
-## Tailors and Seamstresses
-Sells clothes and robes for mages and poets, as well as simple clothing for anyone to wear.
+### Tailors and Seamstresses
+- Sells clothes and robes for mages and poets
+- Sells simple clothing for anyone to wear
 
-## Path Guilds
-Learn new spells, take on minor quests, read your path's info board for tips, restock on pipes and bear livers in the training hall. Tackle the celestial armor quests here starting level 66.
+### Path Guilds
+- Learn new spells
+- Take on minor quests
+- Read your path's info board for tips
+- Restock on pipes and bear livers in the training hall
+- Tackle the celestial armor quests here starting level 66
+- Complete the regular Wisdom test for a small karma bonus
 
-Complete the regular Wisdom test for a small karma bonus.
+**Special Guild Features:**
+- **Nagnang guilds**: Offer some quests unique to Nagnang's culture
+- **Rogue guilds**: Feature a lady who can help you change your facial features 
+  or even your gender
 
-**Nagnang guilds** offer some quests unique to Nagnang's culture.
+### Jewellery Shops
+- Buy basic rings for the early levels
+- Sell tarnished ambers here
+- Note: Regular ambers are usually worth more when sold to other adventurers
 
-**Rogue guilds** tend to feature a lady who can help you change your facial features, or even your gender.
+### Potion Shops
+- Buy potions (some useful, some useless)
+- Essential potions for removing poison or bolstering defences
+- Specialty wines available here
 
-## Jewellery Shops
-Buy basic rings for the early levels. You can sell tarnished ambers here, but regular ambers are usually worth selling to other adventurers instead.
+### Scroll Shops
+- Buy scrolls for removing poison or improving defence (similar to potions)
+- Moon paper for scribing (very expensive)
 
-## Potion Shops
-Buy potions, some of which are useless, some of which are vital for removing poison or bolstering your defences. Specialty wines can be found here.
+### Messenger Shops
+- Buy stationary: paper, ink, books, scrolls
+- Send items to others via the parcel system
+- Buy or cash-in cheques
 
-## Scroll Shops
-Buy scrolls that achieve similar results as potions in removing poison or improving your defence. Moon paper for scribing is also found here at great expense.
+### Salons
+- Change your hairstyle
+- Get new hair dye
+- Different kingdoms offer different styles and colours
 
-## Messenger Shops
-Buy stationary like paper, ink, books, scrolls. Send items to others via the parcel system. Buy or cash-in cheques.
+### Chapels
+- Make arrangements for engagement, marriage, and divorce
+- Buy the special "Love" ring that allows teleporting to your partner's side
 
-## Salons
-Change your hairstyle or get a new hair dye. Different kingdoms offer different styles and colours.
+### Marketplaces
+- Facilitates mass exchanges between banks
+- Also available at Kugnae gathering
+- Merchants occasionally hold public gatherings here
 
-## Chapels
-Make arrangements for engagement, marriage, and divorce. The special "Love" ring sold here will allow you to teleport to your partner's side.
+### Shamans
+- Restores your body after you perish
+- Follow your silver thread (F1/shift+F1) to be brought here instantly after death
+- Feature in several quests due to their storied lives
 
-## Marketplaces
-Facilitates mass exchanges between banks, also available at Kugnae gathering. Merchants occasionally hold public gatherings here.
-
-## Shamans
-Restores your body after you perish. By following your silver thread (F1/shift+F1) you can be brought here instantly to find your feet once more. Shamans live storied lives and feature in several quests.
-
-## Special NPCs
 
 ### Sunset Weaver, Shadow Dragon, Midnight Weaver
-Mysterious figures capable of drawing out your true potential. They'll let you trade experience directly for stat growth after you've attained your 99th insight.
+- Mysterious figures capable of drawing out your true potential
+- Trade experience directly for stat growth after reaching your 99th insight
 
-## Libraries
-Sells informational scrolls for some subpaths. Also features boards for histories, stories, and public records. The librarians are keen on pirate coins, and will let you trade these in for karma or item rewards.
+### Libraries
+- Sells informational scrolls for some subpaths
+- Features boards for histories, stories, and public records
+- Librarians trade pirate coins for karma or item rewards
 
-## Palaces
-Homes to the kingdom's royalty, and grand venues for events that concern the entire kingdom. Contains the Chronicles of the Wind boards, where you can stay informed on political events or the personal endeavours of the community. The kingdom greeter outside will allow you to become a citizen if you are currently Neutral, advertise your public events, or buy Wisdom clothes that unlock year by year.
+### Palaces
+- Homes to the kingdom's royalty
+- Grand venues for kingdom-wide events
+- Contains the Chronicles of the Wind boards for staying informed on:
+  - Political events
+  - Personal endeavours of the community
+- Kingdom greeter outside offers services:
+  - Become a citizen if currently Neutral
+  - Advertise your public events
+  - Buy Wisdom clothes that unlock year by year
