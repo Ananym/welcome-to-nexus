@@ -4,7 +4,7 @@ NexusTK's economy can be daunting and difficult to break into. Thankfully, NTK's
 
 For pocket money at the very beginning, you can sell Acorns to the kingdom butchers. Other players will also readily help you out if you explain what you're looking to buy.
 
-Registered characters above level 50 can collect Daily Coins from the tent in Buya Gathering. As these are needed for mark trials, they are worth a lot - although you yourself will need a large pile for your own trials. Coins can be collected every 11.5 hours, and can be collected on multiple characters. Characters on an account set up with automatic reregistration will receive two daily coins. There's a strong argument for making sure your account has four level 50 characters available to collect daily coins, as collecting coins has high returns for time spent as compared to manual gathering.
+For reliable income, registered characters above level 50 should collect [Daily Coins](daily-coins.md) - this is arguably the most important use of your time.
 
 Mythic Nexus and Ancient Training Grounds both drop plentiful ambers of several kinds. Ambers can be sold to players at a good price once you've amassed enough. As unregistered players are limited in the amount of gold they can carry, they can use banked ambers as a substitute.
 

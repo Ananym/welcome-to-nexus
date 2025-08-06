@@ -21,6 +21,7 @@
   - [Casting Spells](combat/casting-spells.md)
   - [Consumable Items](combat/consumable-items.md)
   - [Hunting](combat/hunting.md)
+  - [Orbs](combat/orbs.md)
   - [Where to Hunt](combat/where-to-hunt.md)
 
 - **Community & Social**
@@ -31,10 +32,11 @@
   - [Carnage Events](community/carnage-events.md)
   - [Community Events](community/community-events.md)
 
-- **Crafting & Economy**
+- **Economy**
 
   - [Crafting](economy/crafting.md)
   - [Money](economy/money.md)
+  - [Daily Coins](economy/daily-coins.md)
   - [Kruna](economy/kruna.md)
 
 - **Miscellaneous**
