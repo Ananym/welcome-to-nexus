@@ -13,6 +13,7 @@ That said, investing in crafting to some degree is required for some pursuits, a
 - Most clans provide easier ways to access some of the crafting options and locations
 - Different paths advance at slightly different rates through the skills
 - Crafting during the game-hours of the day that match your totem will give you a (very) slight boost to crafting experience gain
+- [Kruna](economy/kruna.md) crafting bags exist to allow you to hold more materials at a time
 
 ## Gathering
 
