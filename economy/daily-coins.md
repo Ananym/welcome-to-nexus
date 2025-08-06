@@ -18,7 +18,7 @@ Daily coins are a crucial source of income for newer players. They can be collec
 
 Daily coins are highly valuable because they are required to different degrees by two different mark trials (ee culture and sa minor quests). Demand for daily coins gives these reliable value despite the relatively low time investment in acquiring them relative to other sources of income.
 
-Daily coins are also used to access [Damaged Orbs](combat/orbs.md), and the experience bonuses that are available during periods of celebration.
+Daily coins are also used to access [Damaged Orbs](../combat/orbs.md), and the experience bonuses that are available during periods of celebration.
 
 ## Tips
 
