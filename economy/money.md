@@ -4,7 +4,7 @@ NexusTK's economy can be daunting and difficult to break into. Thankfully, NTK's
 
 For pocket money at the very beginning, you can sell Acorns to the kingdom butchers. Other players will also readily help you out if you explain what you're looking to buy.
 
-For reliable income, registered characters above level 50 should collect [Daily Coins](daily-coins.md) - this is arguably the most important use of your time.
+For reliable income, registered characters above level 50 should collect [Daily Coins](economy/daily-coins.md) - this is arguably the most important use of your time.
 
 Mythic Nexus and Ancient Training Grounds both drop plentiful ambers of several kinds. Ambers can be sold to players at a good price once you've amassed enough. As unregistered players are limited in the amount of gold they can carry, they can use banked ambers as a substitute.
 

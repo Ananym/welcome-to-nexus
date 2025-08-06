@@ -10,7 +10,7 @@ Orbs cast spells when used as items, but can also be added to your number keys b
 
 These orbs are intended to allow players to achieve more while solo by giving each path access to spells from other paths. These cannot be used while in a group, and will reduce your experience income and item drop rate by half for each one you are carrying while ungrouped.
 
-Acquired from the Incubator at Buya Gathering (north gate and head north). These cost 2 [Daily Coins](../economy/daily-coins.md) and don't last very long.
+Acquired from the Incubator at Buya Gathering (north gate and head north). These cost 2 [Daily Coins](economy/daily-coins.md) and don't last very long.
 
 Damaged orbs available to all include:
 

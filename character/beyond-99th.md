@@ -4,7 +4,7 @@ It is wise to look beyond your 99th insight to see what obstacles lie further in
 
 At your 99th insight, you will be able to improve your vitality, mana, might, grace and will in exchange for experience. Watch out - if you perish at level 99, you will lose half of all the experience you are carrying.
 
-Make sure you investigate [subpaths](../community/community-subpath.md), as some paths require a subpath to function effectively after 99.
+Make sure you investigate [subpaths](community/community-subpath.md), as some paths require a subpath to function effectively after 99.
 
 To join a totem subpath, or learn the warrior & rogue fighting techniques of a community subpath, you must sacrifice one billion experience.
 
