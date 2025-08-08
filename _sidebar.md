@@ -7,14 +7,18 @@
   - [Common Spell Components](basics/spell-components.md)
   - [Early Equipment](basics/early-equipment.md)
   - [Behaving Yourself](basics/behaving-yourself.md)
+  - [Registration](basics/registration.md)
 
 - **Character Development**
 
   - [Stats Overview](character/stats-overview.md)
+  - [Minor Quests](character/minor-quests.md)
   - [Choosing an Alignment](character/choosing-an-alignment.md)
   - [Beyond Your 99th](character/beyond-99th.md)
   - [Karma](character/karma.md)
   - [Mythic Alliances](character/mythic-alliances.md)
+  - [NPC Subpath Information](character/npc-subpath.md)
+  - [Community Subpath Information](character/community-subpath.md)
 
 - **Combat**
 
@@ -26,9 +30,8 @@
 
 - **Community & Social**
 
+  - [Finding Help](community/finding-help.md)
   - [Finding a Clan](community/finding-clan.md)
-  - [NPC Subpath Information](community/npc-subpath.md)
-  - [Community Subpath Information](community/community-subpath.md)
   - [Carnage Events](community/carnage-events.md)
   - [Community Events](community/community-events.md)
 
@@ -42,7 +45,7 @@
 - **Miscellaneous**
 
   - [Misc Tips](misc/misc-tips.md)
-  - [Finding Help](misc/finding-help.md)
+
 
 - **Detailed Game Mechanics**
   - [Weapon Damage/Hit Chance Cheat Sheet](mechanics/weapon-damage-cheat.md)
