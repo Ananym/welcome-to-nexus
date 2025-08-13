@@ -38,11 +38,11 @@ These include:
 
 ## Premium Orbs (Malgalod)
 
-For advanced players, Malgalod offers powerful orbs that cost gold and Malgal Insignias (gathered from Malgal soldiers).
+For advanced players, Malgalod offers powerful orbs that cost coins and Malgal Insignias (gathered from Malgal soldiers).
 
 The cost for premium orbs scales with your rank. These are purchased from blue NPCs in Malgalod.
 
-| Level Range | Insignias Required | Gold Cost |
+| Level Range | Insignias Required | Coin Cost |
 |-------------|-------------------|------------|
 | Pre-99      | 5                 | 20,000     |
 | 99-Ilsan    | 20                | 100,000    |

@@ -6,7 +6,7 @@ For pocket money at the very beginning, you can sell Acorns to the kingdom butch
 
 For reliable income, registered characters above level 50 should collect [Daily Coins](economy/daily-coins.md) - this is arguably the most important use of your time.
 
-Mythic Nexus and Ancient Training Grounds both drop plentiful ambers of several kinds. Ambers can be sold to players at a good price once you've amassed enough. As unregistered players are limited in the amount of gold they can carry, they can use banked ambers as a substitute.
+Mythic Nexus and Ancient Training Grounds both drop plentiful ambers of several kinds. Ambers can be sold to players at a good price once you've amassed enough. As unregistered players are limited in the amount of coins they can carry, they can use banked ambers as a substitute.
 
 Mythic Keys aren't too difficult to obtain from Mythic Key bosses as a warrior, mage, or rogue, and each should net a reasonable price - though some are in higher demand than others.
 

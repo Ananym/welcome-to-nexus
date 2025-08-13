@@ -73,7 +73,7 @@ Acquire a bunch of cloth. Visit the tailor shop in Sanhae village and say 'cloth
 
 ### Jewelling
 
-Acquire a bunch of crafted amber, as well as an enormous amount of gold. Visit Sel in the wilderness at 46/42 and say 'jewel'.  Each attempt will cost gold as well as amber. High rank jewellers can make a wide variety things, of which only diadems are seriously valuable. 
+Acquire a bunch of crafted amber, as well as an enormous amount of coins. Visit Sel in the wilderness at 46/42 and say 'jewel'.  Each attempt will cost coins as well as amber. High rank jewellers can make a wide variety things, of which only diadems are seriously valuable. 
 
 ## Mental Skills
 

@@ -6,7 +6,7 @@ As you may have noticed by now, you do not need a NexusTK account to make a char
 
 - Limited to a max level of 98
 - Cannot hold many items beyond the necessities (can't hold some of those, either)
-- Limited in how much gold you can carry
+- Limited in how many coins you can carry
 - Cannot enter subpath areas without help
 - Cannot access the <99 experience booster (Little Wony's Modulator)
 

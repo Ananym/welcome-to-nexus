@@ -9,7 +9,7 @@ All Kruna purchases can take roughly 5-10 minutes to arrive, at which point you 
 Utility items to be aware of:
 
 - Permanent extra inventory or bank slots
-- Consumable equipment restoration that repairs all equipped items without gold cost
+- Consumable equipment restoration that repairs all equipped items without coin cost
 - Consumable world shouts, letting you yell across all kingdoms on a 5 minute timer
 - Consumable layers of Item Protection to prevent fragile items breaking upon death
 - Temporary envelopes, letting you store experience beyond the natural cap for a period of time
