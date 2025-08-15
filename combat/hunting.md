@@ -11,7 +11,18 @@ This is intended to be a bare minimum guide to each path in group play.
 - Slash is realistically only a melee taunt, but still has its uses.
 - Berserk and Whirlwind will be underwhelming at first, but ramp up quickly as you gain vitality after 99. Make sure to align yourself with Ming-ken or Ohaeng, as unaligned or Kwi-sin whirlwind is extremely risky!
 - You will most likely want to skip learning the warrior self-heals, as consumable healing items are readily available and heal for much more.
-- The level 99 rages work differently from the furies. Rages can be recast after their cooldown to enhance the effects of the spell, granting a higher damage multiplier and a bigger armor class penalty. Each tier will require a higher mana cost to cast than the last.
+- The level 99 rages work differently from the furies. Rages can be recast after their cooldown to enhance the effects of the spell, granting a higher damage multiplier and a bigger armor class penalty. Each tier will require a higher mana cost to cast than the last. Chung Ryong's Rage 6 has a huge +50 AC penalty! Rage also amplifies the amount of durability lost on your weapons when swinging, making low-durability weapons harder to use at high ranks.
+
+Warrior Rage Tier minimum mana costs:
+
+| Tier | Rage | Stance |
+|------|------|--------|
+| 1    | 2,000 | ~3,000 |
+| 2    | 7,200 | ~10,000 |
+| 3    | 18,050 | ~21,000 |
+| 4    | 33,800 | ~37,000 |
+| 5    | 72,200 | ~76,000 |
+| 6    | 145,800 | ~152,000 |
 
 ## Poet
 
@@ -33,7 +44,17 @@ This is intended to be a bare minimum guide to each path in group play.
 - Snare trap will cause a monster to take more damage, useful if you have no casters with you to offer stronger curses. Amnesia causes monsters to ignore you, useful while alone to take on targets one at a time.
 - Rogue heal spells are stronger than those of warriors, and some can target allies - though you may not necessarily need to learn these in a hurry, as healing items are still much stronger.
 - At 99, you may wish to invest in a Polearm if you find yourself grouping with Mages. Weapons with range don't break invisibility, provided that you don't hit a target directly next to you. As the range also allows you to hit multiple targets, this can produce impressive damage output.
-- A rogue's level 99 cunning uses similar recast/tier mechanics as a warrior's rage, although it does not penalise your armor.
+- A rogue's level 99 cunning uses similar recast/tier mechanics as a warrior's rage, although it does not penalise your armor nor inflict additional durability damage.
+
+Rogue Cunning Tier minimum mana costs:
+
+| Tier | Cunning | Skill-up |
+|------|---------|----------|
+| 1    | 3,000   | 4,711    |
+| 2    | 4,200   | 4,711    |
+| 3    | 15,634  | 17,960   |
+| 4    | 46,658  | 53,646   |
+| 5    | 117,667 | 135,327  |
 
 ## Mage
 

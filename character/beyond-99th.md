@@ -1,93 +1,27 @@
 # Beyond your 99th
 
-It is wise to look beyond your 99th insight to see what obstacles lie further into your future. Many of these hurdles are made easier with some forward planning. The sheer number of hours spent training is rarely the limiting factor for moving forward.
+You should familiarise yourself with the progression system beyond 99, as many of the steps that will be required are made easier with some forward planning. The number of hours you spend training is rarely the limiting factor in moving forward.
 
 At your 99th insight, you will be able to improve your vitality, mana, might, grace and will in exchange for experience. Watch out - if you perish at level 99, you will lose half of all the experience you are carrying.
 
-Make sure you investigate [subpaths](character/community-subpath.md), as some paths require a subpath to function effectively after 99.
+## Subpaths
 
-To join a [totem subpath](character/npc-subpath.md), or learn the warrior & rogue fighting techniques of a community subpath, you must sacrifice one billion experience.
+Make sure you investigate subpaths, as some paths - fighters in particular, but also Mages beyond il-san - require a subpath to function effectively after 99. You can choose between [Community-lead Subpaths](character/community-subpath.md), which involve training under a guide of that subpath, or your path's totem-focused [NPC Subpath](character/npc-subpath.md) which is not dependent on community interaction. You don't need to be level 99 to start training for a community subpath, but only level 99 players can join an NPC subpath.
 
-If you can't make this sacrifice the moment you hit your 99th, you may wish to spend the experience on stats in the meantime and win a Bringer's Gift from a Riches carnage event. The Bringer's gift is available to anyone of the 99th insight and immediately awards 1b experience.
+To join an [NPC subpath](character/npc-subpath.md), or learn the warrior & rogue fighting techniques of a community subpath, you must sacrifice one billion experience. Be careful not to die or overspend your experience, or it may be a struggle to recover this amount!
 
-At certain milestones of strength, you can undertake trials to take a mark - these marks allow access to new spells and stronger equipment. You need only meet either the vitality or mana requirement to take a mark, not both.
+If you do find yourself in this situation, you can pick up a Bringer's Gift by winning a [Riches carnage event](community/carnage-events.md). The Bringer's gift is available to anyone of the 99th insight and immediately awards 1b experience.
 
-These marks are:
+## Spending experience
 
-- Il-san: 160/80 (160,000 vitality or 80,000 mana)
-- Ee-san: 320/160
-- Sam-san: 640/320
-- Sa-san: 1280/640
+Specific NPCs can improve your stats at the cost of experience. Most clans will have an NPC to offer this function - otherwise there is one found in each kingdom (e.g. Kugnae 78/187).
 
-## Bonhwa
+Might Will and Grace are all relatively cheap. Warriors and rogues should significantly invest (100+) in Might immediately and maximize it soon after. Mages should maximize their Will immediately. (It's not clear whether Poets see any meaningful benefit from Will, but they might as well.) Grace is cheap enough that everyone might as well maximize it at some point, but there's no great rush.
 
-To access these marks, you need to find the mysterious Bonhwa. Reaching Bonhwa involves fighting through a swarm of blinding ravens and then the Forever Tree, a passive enemy that has a huge amount of health. Find some strong help, then visit 19/92 in the Wilderness.
+The balance between vitality and mana investment is a personal choice, but common advice starting out for every path is enough vitality to not worry about dying and the rest into mana. Mana helps fighters hit higher breakpoints for their incremental Rage/Cunning spells, helps Poets keep casting and offer bigger Restores, helps mages hit harder. Mages can also commit to hunting in a group and focus on vitality early for a stress-free experience.
 
-Besides granting marks, Bonhwa will also let marked characters enchant certain weapons at the cost of 200m experience.  Mark-enchanted spikes, charms, surges, and bloods make for usable weapons in a pinch, and are also used as components for some spells and shields.
+You can find the tables for fighter mana breakpoints in [Hunting](combat/hunting.md).
 
-Bonhwa does also allow you to spend experience to raise your Might/Grace/Will beyond their natural limits. This doesn't really achieve anything useful.
+Poets specifically should be looking at picking up their [Restore](quests/restore.md) spell once they reach the ~25k vitality range to avoid being onehit in Tiger palace.
 
-## Available Marks
-
-### Il-san
-
-**Il-san** is available at 160k vitality or 80k mana.
-
-Its trials are straightforward and do not require a deep time investment:
-
-- Acquire and sacrifice 5 well-crafted white ambers
-- Acquire and sacrifice 600k coins
-- Acquire and sacrifice 1.2 billion experience
-- Slay the Spirit Rat boss in Mythic Rat (people love to help with this)
-
----
-
-### Ee-san
-
-**Ee-san** is available at 320k vitality or 160k mana, with at least Tiger karma.
-
-Its main hurdle is the trial of culture, which requires that you reach Master in carpentry, tailoring, metalwork, or jewelling. Alternatively, you can pass with merely Accomplished in crafting if you collect 800 [Daily Coins](economy/daily-coins.md) (converted into Daily coin leaves). As daily coins are freely traded between players, you can buy these from others to build your collection faster than just collecting daily coins personally. Daily coins are the more typical approach to this trial.
-
-If you want to pursue culture entirely through [crafting](economy/crafting.md), Carpentry is regarded as by far the most accessible (as carpentry skips the 'manufacturing' step), though be prepared to get through 25,000 or more Ginko wood before you reach your goal.
-
-Other trials for this mark include:
-
-- Another sacrifice of 1.2 billion experience
-- A sacrifice of 2 million coins
-- 6 carnage victories
-- A quest to slay both leaders of eight different mythic caves
-
----
-
-### Sam-san
-
-**Sam-san** is available at 640k vitality or 320k mana, with at least Angel tear karma.
-
-This mark has several taxing trials.
-
-The trial of wisdom requires that you have the 5th level of Sage. Sage is first available from the wilderness sage (125/7) at level 90 at a cost of 100k, and is upgradable every 45 real days thereafter. It is recommended that you learn sage asap and keep on top of the wait timer, as this is often a significant barrier for aspiring sam-sans.
-
-The trial of skill requires that you amass 60 [carnage](community/carnage-events.md) wins, with at least 5 of each type. Acquaint yourself with the carnage schedule, look out for rapid one-round line-ups on Saturdays, look out for free wins on holidays, look out for bonuses throughout the day. Fox hunts especially are quick to attend.
-
-The trial of strength requires that you complete all 6 possible [lesser alliances](character/mythic-alliances.md) and all 3 possible [greater alliances](character/mythic-alliances.md). This is a major undertaking. At the least, it will provide you with all the karma you require for the mark. Tackling some alliances early on can make this task less daunting.
-
-Other trials include:
-
-- A sacrifice of 2.4 billion experience
-- A sacrifice of 4 million coins
-
----
-
-### Sa-san
-
-**Sa-san** is available at 1280k vitality or 160k mana.
-
-It requires that you've finished both your Sun and Wind armor quests, and have either completed Staff of Elements or spent the karma to create your own Faerie Light.
-
-*Bonhwa will take your completed armors from you, but at the time of writing, you can restore them immediately using the Kruna 'Bonded Item Restore' from the Item Shop*
-
-You will also need to sacrifice 200k vitality or 100k mana, in addition to 10 billion experience. You must still meet the Sa-san stat requirement after sacrificing! However, for the stat sacrifice, other players are able to sacrifice stats to Bonhwa in your name.
-
-The trial of endurance requires you to have completed 400 minor quests. If you are meticulous with timing, two minor quests can be completed each day as the timer is 11.5 hours. At the time of writing, daily coins can be paid in to skip the minor quest delay timer at 4 coins per skip. If you are serious about reaching Sa-san in a timely fashion, you will want to make sure you complete your minor quests as often as possible, and collect daily coins regularly on all your characters.
-
-The trials of Skill and Persistence include significant combat quests that the community generally bands together to help people complete.
+For the future, you should familiarise yourself with the [Mark system](character/marks.md).
