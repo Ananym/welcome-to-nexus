@@ -6,7 +6,7 @@ At your 99th insight, you will be able to improve your vitality, mana, might, gr
 
 ## Subpaths
 
-Make sure you investigate subpaths, as some paths - fighters in particular, but also Mages beyond il-san - require a subpath to function effectively after 99. You can choose between [Community-lead Subpaths](character/community-subpath.md), which involve training under a guide of that subpath, or your path's totem-focused [NPC Subpath](character/npc-subpath.md) which is not dependent on community interaction. You don't need to be level 99 to start training for a community subpath, but only level 99 players can join an NPC subpath.
+Make sure you investigate subpaths, as some paths - fighters in particular - require a subpath to function effectively after 99. You can choose between [Community-lead Subpaths](character/community-subpath.md), which involve training under a guide of that subpath, or your path's totem-focused [NPC Subpath](character/npc-subpath.md) which is not dependent on community interaction. You don't need to be level 99 to start training for a community subpath, but only level 99 players can join an NPC subpath.
 
 To join an [NPC subpath](character/npc-subpath.md), or learn the warrior & rogue fighting techniques of a community subpath, you must sacrifice one billion experience. Be careful not to die or overspend your experience, or it may be a struggle to recover this amount!
 
