@@ -6,6 +6,7 @@
   - [Keyboard Shortcuts](basics/keyboard-shortcuts.md)
   - [Common Spell Components](basics/spell-components.md)
   - [Early Equipment](basics/early-equipment.md)
+  - [Death!](basics/death.md)
   - [Behaving Yourself](basics/behaving-yourself.md)
   - [Registration](basics/registration.md)
 
