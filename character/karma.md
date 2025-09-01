@@ -2,11 +2,11 @@
 
 ## What is Karma?
 
-Karma represents the virtue of your soul. It's influenced by quests and your interactions with others, and you will need to demonstrate enough of this virtue to harness divine powers like the celestial armors and Bonhwa's marks.
+Karma represents the virtue of your soul. It's influenced by quests and your interactions with others, and you will need to demonstrate enough of this virtue to e.g. complete your star/moon/sun/wind armor quests, take an [NPC subpath](character/npc-subpath.md), or earn your [Marks](marks.md).
 
-In practice, karma is represented by a single value. Some quests and interactions will grant karma, some will cost karma, and some will require that you have enough karma to continue.
+Karma is represented by a single value. Some quests and interactions will grant karma, some will cost karma, and some will require that you have enough karma to continue.
 
-Members of the Monk, Geomancer, and Diviner subpaths can peer into your soul and get an idea of your current karma level. Certain NPCs can also perform this service, but for a fee of 15k. These readings will represent your karma as an animal, corresponding to the tier your karma value is in.
+Members of the Monk, Geomancer, and Diviner subpaths can peer into your soul and get an idea of your current karma level. Certain NPCs can also perform this service, but for a fee of 15k (e.g. the lady in the Monk's Bodhi Sanctum on Dae Shore). These readings will represent your karma as an animal, corresponding to the tier your karma value is in.
 
 Your karma can fall as well as rise. If you drop to Snake tier, NPCs may refuse to talk to you until you redeem yourself - this is something the Monks can help you achieve.
 

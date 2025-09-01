@@ -19,7 +19,7 @@ That said, investing in crafting to some degree is required for some pursuits, a
 
 ### Woodcutting
 
-Buy (many) axes from Splinter at 136/188 in the Wilderness and swing them at trees in a grove, such as the one in south of the Wilderness at 111/178. There's no way to speed this up or decrease axe break rate.
+Buy (many) axes from Splinter at 136/188 in the Wilderness and swing them at trees in a grove, such as the one in south of the Wilderness at 111/178. Clans will usually have their own grove for you to use. There's no way to speed this up or decrease axe break rate.
 
 ### Mining
 
@@ -27,7 +27,7 @@ Buy a pick and shovel from Thane at 185/20 in the Wilderness. Walk around the ro
 
 ### Fishing
 
-Visit a fishing NPC (e.g. outside Kugnae's fox cave) and say 'fish'. Different combinations of rod and bait produce different results.
+Visit a fishing NPC (e.g. outside Kugnae's fox cave) and say 'fish'. Clans will often have their own fishing NPCs. Different combinations of rod and bait produce different results.
 
 ### Farming
 

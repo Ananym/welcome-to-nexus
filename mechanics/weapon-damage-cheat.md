@@ -4,9 +4,11 @@
 
 Only 'S' value is used - 'L' value has no known purpose.
 
-Roll weapon damage, halve it, multiply by ingress value
-Add might/8 and dam*2.5 and your path's base damage (9 for warriors, 7.5 for rogues)
-Multiply this sum by the fury multiplier and rogue invisible multipliers as appropriate.
+1. Roll weapon damage, halve it, multiply by ingress value
+
+2. Add might/8 and dam*2.5 and your path's base damage (9 for warriors, 7.5 for rogues)
+
+3. Multiply this sum by the fury multiplier and rogue invisible multipliers as appropriate.
 
 You can only ever have one fury multiplier and one ingress multiplier active at a time.
 

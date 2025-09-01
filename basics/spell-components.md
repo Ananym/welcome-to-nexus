@@ -6,7 +6,7 @@ This guide covers where to find the various items commonly needed to learn spell
 
 - **Antlers**: Deer - can be bought from guild training rooms
 - **Bear's livers**: Can be bought from guild training rooms
-- **Gold acorns**: Squirrels, especially Green squirrels south of Nagnang
+- **Gold acorns**: Squirrels, especially Green squirrels along the road off the southeast corner of Nagnang
 - **Snake meat**: Kugnae snake cave, Tangun snake cave
 - **Fine snake meat**: Tangun snake cave, brown snake boss in Kugnae snake cave
 - **Rat meat, ginseng and ginseng pieces**: Kugnae and Buya rat caves
@@ -25,8 +25,8 @@ This guide covers where to find the various items commonly needed to learn spell
 - **Topaz**: Tangun squid cave, or Kugnae & Buya rat caves from the centipedes deep inside
 - **Amethyst**: Tangun fox cave, or wolves in Buya fox cave
 - **Amber**: Mythic caves such as Mythic Rabbit. All ambers also drop from Kugnae's Ancient training grounds
-- **Dark amber**: Mythic bosses
-- **White amber**: Mythic bosses
+- **Dark amber**: Mythic bosses - *cannot be held while unregistered!*
+- **White amber**: Mythic bosses - *cannot be held while unregistered!*
 - **Stardrop**: Arctic ogres
 
 ## Consumables & Supplies

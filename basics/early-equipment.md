@@ -14,11 +14,17 @@ Warriors also have access to powerful Tiger armor in the early levels. Speak to 
 
 ## Hand items
 
-Early on, you'll want rings from the kingdom jewellery shops. Purple rings are a good all-round option. Red rings enhance a warrior's damage and ability to hit targets, at the cost of some armor class. Black rings for rogues massively improve defence and ability to hit, and should definitely be picked up. Starting around level 50, more options are available as loot from strong foes.
+Early on, you'll want rings from the kingdom jewellery shops. Purple rings are a good all-round option. Red rings enhance a warrior's damage and ability to hit targets, at the cost of some armor class. Black rings for rogues massively improve defence and ability to hit, and should definitely be picked up.
+
+Warriors should immediately pick up a pair of Ambrosia at level 55, which will take you all the way to il-san. Careful though, they'll break on death!
+
+Rogues likely want to stick to Whisper bracelets at 50 for armor class, although there are some riskier high damage options later on.
+
+Mages may want to pick up Holy Rings at 50 for the Will bonus which helps with static/paralysis rates, but it's not terribly important over purple rings. Poets similarly won't really notice any issues from sticking with purple rings the whole way.
 
 ## Weapons
 
-Warriors and rogues can collect early weapons from the smiths. Around level 20, it helps to ask around to be loaned a Military Fork, as these are much stronger than any other accessible option until much higher in level.
+Warriors and rogues can collect early weapons from the smiths. Around level 20 for warriors or ~25 for rogues, it helps to ask around to be loaned a Military Fork, as these are much stronger than any other accessible option until much higher in level.
 
 Mages and Poets don't gain much from their weapons besides a little will and mana, and generally won't notice much difference from upgrades. Will does help the success rate of some mage spells. You can pick up a Wicked Staff at 50, and a Tuna Wizard Wand at 70.
 

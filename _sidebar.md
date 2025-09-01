@@ -35,6 +35,7 @@
   - [Finding a Clan](community/finding-clan.md)
   - [Carnage Events](community/carnage-events.md)
   - [Community Events](community/community-events.md)
+  - [Legend Marks](community/legend.md)
 
 - **Economy**
 
