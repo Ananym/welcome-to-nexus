@@ -32,4 +32,4 @@ Among the most highly regarded marks, these show that a subpath or ministry has 
 
 ## Red marks
 
-When people say 'red marks' they are referring to jail marks and/or subpath derogetory marks, although other marks that happen to be red exist. Break the laws and you may earn a jail mark, which is a deeply unwelcome addition to your character and very hard to remove. Subpaths can also apply their own negative mark if they feel you truly deserve it, although these are very rare to acquire these days.
+When people say 'red marks' they are referring to jail marks and/or subpath derogatory marks, although other marks that happen to be red exist. Break the laws and you may earn a jail mark, which is a deeply unwelcome addition to your character and very hard to remove. Subpaths can also apply their own negative mark if they feel you truly deserve it, although these are very rare to acquire these days.
