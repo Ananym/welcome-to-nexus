@@ -9,6 +9,15 @@
   - [Behaving Yourself](basics/behaving-yourself.md)
   - [Registration](basics/registration.md)
 
+- **Combat**
+
+  - [Casting Spells](combat/casting-spells.md)
+  - [Consumable Items](combat/consumable-items.md)
+  - [Hunting](combat/hunting.md)
+  - [Where to Hunt](combat/where-to-hunt.md)
+  - [Death!](combat/death.md)
+  - [Orbs](combat/orbs.md)
+
 - **Character Development**
 
   - [Stats Overview](character/stats-overview.md)
@@ -21,15 +30,6 @@
   - [Mythic Alliances](character/mythic-alliances.md)
   - [NPC Subpath Information](character/npc-subpath.md)
   - [Community Subpath Information](character/community-subpath.md)
-
-- **Combat**
-
-  - [Casting Spells](combat/casting-spells.md)
-  - [Consumable Items](combat/consumable-items.md)
-  - [Hunting](combat/hunting.md)
-  - [Where to Hunt](combat/where-to-hunt.md)
-  - [Death!](combat/death.md)
-  - [Orbs](combat/orbs.md)
 
 - **Community & Social**
 
