@@ -1,6 +1,6 @@
 # Legend Marks
 
-*(Not to be confused with [Marks](character/marks.md).)
+\*(Not to be confused with [Marks](character/marks.md).)
 
 If you click on a player character and flip through their status window pages, you'll find their Legend. Players accumulate Legend Marks that serve to record their deeds in the Kingdoms.
 
@@ -8,7 +8,7 @@ These marks themselves are entirely cosmetic, although some of them represent ac
 
 Legend marks are, generally, permanent.
 
-Legend marks aren't neatly categorised in game, but there are the major sources -
+Legend marks aren't neatly categorised in game, but usually come from one of these major sources:
 
 ## Quest marks
 
