@@ -15,6 +15,7 @@
   - [Minor Quests](character/minor-quests.md)
   - [Choosing an Alignment](character/choosing-an-alignment.md)
   - [Beyond Your 99th](character/beyond-99th.md)
+  - [Equipment at 99+](character/99-equipment.md)
   - [Marks](character/marks.md)
   - [Karma](character/karma.md)
   - [Mythic Alliances](character/mythic-alliances.md)
