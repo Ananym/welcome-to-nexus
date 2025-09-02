@@ -24,6 +24,6 @@ The minimum stats to enter each ATG tier are as follows:
 | 7    | 320k/160k vitality/mana (Ee-san stats)  |
 | 8    | 640k/320k vitality/mana (Sam-san stats) |
 | 9    | 2m/1m vitality/mana                     |
-| 10   | Too big to recall                       |
+| 10   | 5m/2.5m vitality/mana                   |
 
 _Note: Sa-san stats doesn't get a dedicated tier_
