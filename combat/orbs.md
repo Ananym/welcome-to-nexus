@@ -1,5 +1,7 @@
 # Orbs
 
+If you're just starting out, this page won't matter to you yet! However, when you people mention orbs, here's what's going on.
+
 Orbs are temporary items that cast spells without being consumed, providing significant advantages in combat and utility. There are several different categories of orb, with different costs and uses.
 
 ## Using Orbs
@@ -35,7 +37,6 @@ These include:
 - Sul slash (a powerful single shot attack, similar to hellfire, scales differently)
 - Ripple (inflicts a status that causes some overkill damage to spread to nearby enemies)
 
-
 ## Premium Orbs (Malgalod)
 
 For advanced players, Malgalod offers powerful orbs that cost coins and Malgal Insignias (gathered from Malgal soldiers).
@@ -43,23 +44,26 @@ For advanced players, Malgalod offers powerful orbs that cost coins and Malgal I
 The cost for premium orbs scales with your rank. These are purchased from blue NPCs in Malgalod.
 
 | Level Range | Insignias Required | Coin Cost |
-|-------------|-------------------|------------|
-| Pre-99      | 5                 | 20,000     |
-| 99-Ilsan    | 20                | 100,000    |
-| Eesan       | 35                | 200,000    |
-| Samsan      | 50                | 300,000    |
-| Sasan       | 75                | 500,000    |
+| ----------- | ------------------ | --------- |
+| Pre-99      | 5                  | 20,000    |
+| 99-Ilsan    | 20                 | 100,000   |
+| Eesan       | 35                 | 200,000   |
+| Samsan      | 50                 | 300,000   |
+| Sasan       | 75                 | 500,000   |
 
 You should be aware of these premium orbs, but a few others exist.
 
 - **Warrior**
+
   - Fast Whirlwind Ripple - front/back whirlwind attack, short cooldown (24h duration)
   - Slow Whirlwind Ripple - front/back whirlwind attack, long cooldown (72h duration)
 
-- **Rogue** 
+- **Rogue**
+
   - Lethal Strike Ripple - front/back lethal strike attack (72h duration)
 
 - **Mage**
+
   - Self-Restore - mana-based self-heal (7d duration)
 
 - **Poet**
