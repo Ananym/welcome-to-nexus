@@ -39,9 +39,9 @@ Wind Armor is a separate quest. Wind armor offers some smaller stats, but genera
 
 **Rogues**: Level 99 rogues are in the rare position of benefiting meaningfully from Dam - they may wish to seek out high 'Dam' hand items like New Luck Amulets, which offer both Dam and AC. There are several cheaper options for rogues, from Black Rings which just offer AC, to Tuna wizard eyes which offer zero AC (recommended only with a mage!) but 5 dam, to Lucky silver coins which balance both.
 
-**Mages and Poets**: If you want to invest in AC, consider any "New" (level 99) vortex hand item for the -10 AC. For a cheaper option, consider Hamgyong Jelly Lumps for -7 AC, or just plain Purple rings for -5 AC.
+**Mages and Poets**: For a cheaper option, consider Hamgyong Jelly Lumps for -7 AC, or just plain Purple rings for -5 AC. You can also invest in several New vortex items if you want a chunkier mana bonus, but this isn't required.
 
-**For all paths**: You can find Corrupted rings for -12 AC. These are also break on death and slightly expensive. Not many people feel the need to invest in these but they are an option if you feel the need to push your AC further.
+**For all paths**: You can find Corrupted rings for -12 AC. These are also break on death and slightly expensive, while degrading your mana. Not many people feel the need to invest in these but they are an option if you feel the need to push your AC further.
 
 ## Shields
 
@@ -59,4 +59,4 @@ There is the Floret Pendant acquired from a Tangun quest for -1 AC, plus the rep
 
 **Rogues**: Cheap option, blood/nimble blade. Expensive option, cutlass skully. It doesn't hurt to carry a polearm (or featherlight) if hunting with a mage. Strictly speaking the 99 Rogue Etched Blade from the Taik'pae quest is the strongest level 99 weapon, but 99 through il-san generally doesn't last long enough for most people to be willing to wait for the ten days involved in the quest.
 
-**Casters**: Both poets and mages only really benefit from the mana on weapons, and weapons with large mana bonuses are very expensive and generally not affordable as a new player. A charm or surge will do just fine. As with rogues, the taik'pae etched weapons quest will let you access high-mana weapons with a low pricetag, but most people don't bother going to this level of effort for the 99-through-to-il-san period.
+**Casters**: Both poets and mages only really benefit from the mana on weapons, and weapons with large mana bonuses are very expensive and generally not affordable as a new player. A charm or surge will do just fine, as would NPC path weapons. As with rogues, the taik'pae etched weapons quest will let you access high-mana weapons with a low pricetag, but most people don't bother going to this level of effort for the 99-through-to-il-san period. Mages have a slightly stronger argument for chasing mana items than poets, since mages do benefit significantly from hitting the mana breakpoints where their attacks onehit monsters.
