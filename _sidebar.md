@@ -6,7 +6,6 @@
   - [Keyboard Shortcuts](basics/keyboard-shortcuts.md)
   - [Common Spell Components](basics/spell-components.md)
   - [Early Equipment](basics/early-equipment.md)
-  - [Death!](basics/death.md)
   - [Behaving Yourself](basics/behaving-yourself.md)
   - [Registration](basics/registration.md)
 
@@ -28,6 +27,7 @@
   - [Consumable Items](combat/consumable-items.md)
   - [Hunting](combat/hunting.md)
   - [Where to Hunt](combat/where-to-hunt.md)
+  - [Death!](combat/death.md)
   - [Orbs](combat/orbs.md)
 
 - **Community & Social**
@@ -53,7 +53,6 @@
 - **Miscellaneous**
 
   - [Misc Tips](misc/misc-tips.md)
-
 
 - **Detailed Game Mechanics**
   - [Weapon Damage/Hit Chance Cheat Sheet](mechanics/weapon-damage-cheat.md)
