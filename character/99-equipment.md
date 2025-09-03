@@ -7,11 +7,13 @@ There are really two primary goals here - as much AC as possible up to your pers
 Several details inform the thinking around AC:
 
 - Warriors can easily achieve -80 AC base, but their Rage spell (and some weapons) inflict an AC penalty - meanwhile they regularly set themselves to 10% vitality with whirlwind. This gives warriors good reason to invest in AC for hunting.
-- Other paths have weaker AC than warriors: generally, Warriors > Rogues > Mages > Poets.
+- Other paths have weaker base AC than warriors: generally, Warriors > Rogues > Mages > Poets.
 - Rogues can and usually should try to achieve -80 AC base, but this isn't too hard.
 - Mages do benefit from investing in AC for personal safety, but given the crowd-control power of mage spells, this is less important if you play well.
 - Poets do benefit from investing in AC for personal safety, especially if they prioritise buying mana over vitality. However, as the poet spell Harden Body renders them immune to all damage, it takes very little for them to stay safe in most caves.
 - In carnage events, as a rule any hard target will be cursed during an attack, which considerably degrades your AC. This is why people pay incredible amounts for the highest possible AC gear - pushing your AC far beyond the -80 cap will provide an effective buffer against curses. This factor largely does not affect typical hunting.
+- Similarly while hunting with a caster you will have ready access to Harden Armor for a -10 AC bonus, which can help you meet the -80 cap. However, in carnage events, this kind of protective spell is likely to be dispelled before a hard target takes an attack.
+- As explained in [Stats Overview](character/stats-overview.md), each point of AC is more valuable than the last (while under the cap) - going from -79 to -80 is relatively a much bigger effect than going from -69 to -70.
 
 ## Helms
 
@@ -31,13 +33,13 @@ If taking an NPC subpath, you may wish to delay these quests until after you are
 
 You will need to complete all of these quests eventually to finish your Mark progression. In the meantime, finish as many as required to meet your personal AC goals.
 
-Wind Armor is a separate quest. Wind armor offers some smaller stats, but generally nothing that matters, and has worse AC than sun.
+Wind Armor is a separate quest. Wind armor offers some smaller stats, but generally nothing that matters, and has worse AC than sun. Both Wind and Sun are ultimately necessary to take Sa-san, and Wind has a unique graphic, but doesn't offer much stats wise.
 
 ## Hands
 
 **Warriors**: Ambrosia. Powerful, but break on death - learn not to die!
 
-**Rogues**: Level 99 rogues are in the rare position of benefiting meaningfully from Dam - they may wish to seek out high 'Dam' hand items like New Luck Amulets, which offer both Dam and AC. There are several cheaper options for rogues, from Black Rings which just offer AC, to Tuna wizard eyes which offer zero AC (recommended only with a mage!) but 5 dam, to Lucky silver coins which balance both.
+**Rogues**: Level 99 rogues are in the rare position of benefiting meaningfully from Dam. They may wish to seek out high 'Dam' hand items like New Luck Amulets, which offer both Dam and AC. There are several cheaper options for rogues, from Black Rings which just offer AC, to Tuna wizard eyes which offer zero AC (recommended only with a mage!) but 5 dam, to Lucky silver coins which balance both. 'Dam' becomes quickly less important as you take il-san and so on.
 
 **Mages and Poets**: For a cheaper option, consider Hamgyong Jelly Lumps for -7 AC, or just plain Purple rings for -5 AC. You can also invest in several New vortex items if you want a chunkier mana bonus, but this isn't required.
 
@@ -45,7 +47,7 @@ Wind Armor is a separate quest. Wind armor offers some smaller stats, but genera
 
 ## Shields
 
-After completing your path-specific Nagnang guild quest, you can run the Nagnag Armory quest to earn your shield. Most people delay their first Nagnag armory run until 99+ to receive the 97+ shield with help from level 99 players. <99s, level 99 players, and il-san+ players will enter different tiers of Nagnag armory. Not everybody bothers to collect a shield immediately or update their shield for every mark, depending on how happy they are with their current AC investment.
+After completing your path-specific Nagnang guild quest, you can run the Nagnag Armory quest to earn your shield. Most people delay their first Nagnag armory run until 99+ to receive the 97+ shield with help from level 99 players. Players under 99, level 99 players, and il-san+ players will enter different tiers of Nagnag armory. Only rogues and expert mages can comfortably solo this quest - others will need to find friends. Not everybody bothers to collect a shield immediately or update their shield for every mark, depending on how happy they are with their current AC investment.
 
 ## Subaccessories
 
@@ -55,8 +57,12 @@ There is the Floret Pendant acquired from a Tangun quest for -1 AC, plus the rep
 
 ## Weapons
 
-**Warriors**: Cheap option, titanium blade. Expensive option, cutlass skully (BoD!). The level 99 flamespear has its uses but those uses are mostly 'leeching people in atg1/2', as a weapon in more typical caves it doesn't meaningfully outdo the cutlass. Notably the level 99 warrior etched spear from the taik'pae quest is dreadful, never make this thing. Similarly, both Chung Ryong scale and enchanted Chung Ryong scale are outclassed by the cheap titanium blade.
+**Warriors**: Cheap option, titanium blade. Expensive option, cutlass skully (BoD!). The level 99 flamespear has its uses but those uses are mostly 'leeching people in atg1/2'. In more typical caves it doesn't meaningfully outdo the cutlass. Notably the level 99 warrior etched spear from the taik'pae quest is dreadful, never make it. Similarly, both Chung Ryong scale and enchanted Chung Ryong scale are outclassed by the cheap titanium blade.
 
 **Rogues**: Cheap option, blood/nimble blade. Expensive option, cutlass skully. It doesn't hurt to carry a polearm (or featherlight) if hunting with a mage. Strictly speaking the 99 Rogue Etched Blade from the Taik'pae quest is the strongest level 99 weapon, but 99 through il-san generally doesn't last long enough for most people to be willing to wait for the ten days involved in the quest.
 
 **Casters**: Both poets and mages only really benefit from the mana on weapons, and weapons with large mana bonuses are very expensive and generally not affordable as a new player. A charm or surge will do just fine, as would NPC path weapons. As with rogues, the taik'pae etched weapons quest will let you access high-mana weapons at a low pricetag, but most people don't bother going to this level of effort for the 99-through-to-il-san period. Mages have a slightly stronger argument for chasing mana items than poets, since mages do benefit significantly from hitting the mana breakpoints where their attacks onehit monsters.
+
+**Carnages**: It's worth knowing about defensive weapons for carnages, as extra points of AC can be more valuable than extra stats in some cases. Examples of weapons that provide decent AC at 99 include the Hyun Moo's life lance, poet charms, and fox blades.
+
+The other applicable stat in carnages is Protection - you want to shoot for seven protection to make it harder for enemies to curse you. Each point is quite valuable but more than seven does nothing. Sources of protection at 99 include amber casques (2), mage/rogue/warrior shields (2), many hand items, cutlass skullies (2) and Sunrise fans (5), where sunrise fans also provide -3 AC.

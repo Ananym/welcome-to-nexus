@@ -8,7 +8,7 @@ Combat in NexusTK is governed by a handful of different statistics.
 
 **AC**, or armor class, directly reduces incoming damage. Negative AC is better: -60 AC will reduce incoming damage by 60%. AC caps in effect at -80 for players, but you may wish to go lower to pre-emptively counteract curses in the arena or penalties from warrior rages. Monster AC caps in effect at -95. AC also influences a target's chance to dodge incoming blows.
 
-**'Dam'** improves your base damage by a flat amount. This makes a big difference early on, but becomes quickly less important as you gain marks. Rogues get slightly more use out of Dam than warriors, as Dam's effect is multiplied by a rogue's invisibility whereas a warrior's damage originates from powerful ingresses that don't interact with Dam.
+**'Dam'** improves your base damage by a flat amount. This makes a big difference early on, but becomes quickly less important as you gain [marks](character/marks.md). Rogues get slightly more use out of Dam than warriors, as Dam's effect is multiplied by a rogue's invisibility whereas a warrior's damage originates from powerful ingresses that don't interact with Dam.
 
 **'Hit'** improves your ability to hit enemies with swings. This makes a big difference early on, but no longer matters much beyond your 99th insight, once your max out your Might stat.
 
