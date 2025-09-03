@@ -5,6 +5,7 @@ This is intended to be a bare minimum guide to each path in group play.
 ## Warrior
 
 - Always cast Backstab and Flank, and try to position yourself to hit multiple enemies.
+- Consider using taunt to get a monster's attention to ensure you hit as many targets as possible.
 - Only cast the strongest fury you have among Wolf's Fury, Tiger's Fury, Dragon's fury, Chung Ryong's rage, or your subpath rage.
 - Enchant/Infuse/Ingress and beyond directly multiply your weapon damage - only cast the strongest one you have. These have no duration, but you'll need to recast them if you change weapon or move through a loading screen (including entering ATG).
 - Bless and Potence are useful during the early levels, but you won't notice much difference after your 99th.
@@ -15,13 +16,13 @@ This is intended to be a bare minimum guide to each path in group play.
 
 Warrior Rage Tier minimum mana costs:
 
-| Tier | Rage | Stance |
-|------|------|--------|
-| 1    | 2,000 | ~3,000 |
-| 2    | 7,200 | ~10,000 |
-| 3    | 18,050 | ~21,000 |
-| 4    | 33,800 | ~37,000 |
-| 5    | 72,200 | ~76,000 |
+| Tier | Rage    | Stance   |
+| ---- | ------- | -------- |
+| 1    | 2,000   | ~3,000   |
+| 2    | 7,200   | ~10,000  |
+| 3    | 18,050  | ~21,000  |
+| 4    | 33,800  | ~37,000  |
+| 5    | 72,200  | ~76,000  |
 | 6    | 145,800 | ~152,000 |
 
 ## Poet
@@ -49,7 +50,7 @@ Warrior Rage Tier minimum mana costs:
 Rogue Cunning Tier minimum mana costs:
 
 | Tier | Cunning | Skill-up |
-|------|---------|----------|
+| ---- | ------- | -------- |
 | 1    | 3,000   | 4,711    |
 | 2    | 4,200   | 4,711    |
 | 3    | 15,634  | 17,960   |
