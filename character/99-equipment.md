@@ -63,6 +63,10 @@ There is the Floret Pendant acquired from a Tangun quest for -1 AC, plus the rep
 
 **Casters**: Both poets and mages only really benefit from the mana on weapons, and weapons with large mana bonuses are very expensive and generally not affordable as a new player. A charm or surge will do just fine, as would NPC path weapons. As with rogues, the taik'pae etched weapons quest will let you access high-mana weapons at a low pricetag, but most people don't bother going to this level of effort for the 99-through-to-il-san period. Mages have a slightly stronger argument for chasing mana items than poets, since mages do benefit significantly from hitting the mana breakpoints where their attacks onehit monsters.
 
-**Carnages**: It's worth knowing about defensive weapons for carnages, as extra points of AC can be more valuable than extra stats in some cases. Examples of weapons that provide decent AC at 99 include the Hyun Moo's life lance, poet charms, and fox blades.
+## Carnages
 
-The other applicable stat in carnages is Protection - you want to shoot for seven protection to make it harder for enemies to curse you. Each point is quite valuable but more than seven does nothing. Sources of protection at 99 include amber casques (2), mage/rogue/warrior shields (2), many hand items, cutlass skullies (2) and Sunrise fans (5), where sunrise fans also provide -3 AC.
+**AC**: It's worth knowing about defensive weapons for carnages, as extra points of AC can be more valuable than extra stats in some cases. Examples of weapons that provide decent AC at 99 include the Hyun Moo's life lance, poet charms, and fox blades.
+
+**Protection**: The other applicable stat in carnages is Protection - you want to shoot for seven protection to make it harder for enemies to curse you. Each point is quite valuable but more than seven does nothing. Sources of protection at 99 include amber casques (2), mage/rogue/warrior shields (2), many hand items, cutlass skullies (2) and Sunrise fans (5), where sunrise fans also provide -3 AC.
+
+Beyond AC and Protection, vitality for everyone and mana for non-warriors are both beneficial to boost, especially since carnages will cap your base stats at the top end of the carnage tier and gear can push you over that cap. However, gear that grants large amounts of stats is typically expensive beyond the taik'pae weapons.
