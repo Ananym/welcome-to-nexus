@@ -4,7 +4,7 @@ As a new adventurer, you'll need to update your equipment regularly to keep pace
 
 ## Helms
 
-Kingdom smith shops sell helms for males and helmets for females. These aren't level restricted - buy the best you can afford. Beyond an earth helm, look into a totem helm or clan helm once you're registered for a slight upgrade.
+Kingdom smith shops sell helms for males and helmets for females. These aren't level restricted - buy the best you can afford. Beyond an earth helm, look into a totem helm or clan helm once you're [registered](basics/registration.md) for a slight upgrade.
 
 ## Armor
 
