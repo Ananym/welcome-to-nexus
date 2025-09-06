@@ -28,7 +28,7 @@ Some paths get more use out of these than others.
 
 ## Mage Orbs
 
-Mages specifically have access to a handful of low-cost orbs that don't have the damaged drawbacks, effectively acting as additional spells. Mages should pick these up when they become useful, but they do need to be re-collected regularly. They are free.
+Mages specifically have access to a handful of orbs that don't have the damaged drawbacks, effectively acting as additional spells. Mages should pick these up when they become useful, but they do need to be re-collected regularly. They are free.
 
 These include:
 

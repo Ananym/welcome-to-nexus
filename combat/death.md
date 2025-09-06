@@ -14,7 +14,7 @@ In practice, nobody exposes their expensive items to this risk - instead players
 
 _This system can sound unfriendly, but in practice avoiding death is not hard with a little practice and a lot of red potions._
 
-As for the damaged but surviving gear, most items can be repaired for gold at a kingdom smith. However, some items are prohibitively expensive to repair, and you may wish to use a friendly Sam-san Warrior's repair spell or an Item Restore kruna consumable to dodge this fee.
+As for the damaged but surviving gear, most items can be repaired for gold at a kingdom smith. However, some items are prohibitively expensive to repair, and you may wish to use a friendly Sam-san Warrior's repair spell or an Item Restore kruna consumable to dodge this fee. Less commonly these days, some items are completely impossible to repair via NPC or via Item Restore, for which you must use a Warrior's repair spell.
 
 ## Experience
 

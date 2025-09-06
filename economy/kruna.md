@@ -28,3 +28,5 @@ You can also buy registration codes via the Kruna store, for gifting purposes. I
 Kruna trading takes place via gifting. Your account must be at least three months old to send gifts. There is an additional fee for sending gifts.
 
 Note that while selling Kruna is very lucrative compared to simply gathering crafting materials or collecting mythic boss drops, there are many billions of coins in the NexusTK economy. Trying to become 'rich' by NTK standards through the sale of Kruna alone would cost you an incomprehensible amount of money, so mind that you don't get taken advantage of.
+
+If you end up with Kruna cosmetics that you no longer wish to spend bank space on, you can permanently destroy them by feeding them to mysterious Gelapod in the Wilderness, (106/16).

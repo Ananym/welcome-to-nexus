@@ -1,12 +1,12 @@
 # Crafting
 
-*Lmao don't*
+_Lmao don't_
 
 The current state of crafting is not a path to making money or useful items, and involves an enormous amount of time and resources to make much progress. It is entirely viable to completely ignore crafting beyond the bare minimum, and this does have to be my recommendation.
 
 There is one profession that produces an item with genuine value: the diadem, produced by jewellers, which boasts the strongest armor class of any helm. As this item is effectively best in slot and incredibly difficult to make, the demand/supply is there for it to hold its worth. Reaching the point of even attempting to craft one of these will cost many hundreds of millions of coins.
 
-That said, investing in crafting to some degree is required for some pursuits, and it doesn't hurt to reach a level where you can produce basic goods that people often need like metal, cloth, fine steel daggers. Gaining experience in crafting involves repeatedly performing that skill - for manufacturing and refining, only successes count. 
+That said, investing in crafting to some degree is required for some pursuits, and it doesn't hurt to reach a level where you can produce basic goods that people often need like metal, cloth, fine steel daggers. Gaining experience in crafting involves repeatedly performing that skill - for manufacturing and refining, only successes count.
 
 - You can only specialise in one manufacturing skill, others will be capped at a certain rank
 - You can only devote yourself to one refining skill, you must devote to practice a refining skill at all
@@ -14,12 +14,13 @@ That said, investing in crafting to some degree is required for some pursuits, a
 - Different paths advance at slightly different rates through the skills
 - Crafting during the game-hours of the day that match your totem will give you a (very) slight boost to crafting experience gain
 - [Kruna](economy/kruna.md) crafting bags exist to allow you to hold more materials at a time
+- Only 'successful' crafting attempts while manufacturing or refining actually grant crafting experience - so it is usually best to focus on the easiest options.
 
 ## Gathering
 
 ### Woodcutting
 
-Buy (many) axes from Splinter at 136/188 in the Wilderness and swing them at trees in a grove, such as the one in south of the Wilderness at 111/178. Clans will usually have their own grove for you to use. There's no way to speed this up or decrease axe break rate.
+Buy (many) axes from Splinter at 136/188 in the Wilderness and swing them at trees in a grove, such as the one in south of the Wilderness at 111/178. Clans will usually have their own grove for you to use. There's no way to speed this up or decrease axe break rate besides increasing your woodcutting skill. Trees that have been alive longer will take longer to chop down, but are more likely to provide more wood.
 
 ### Mining
 
@@ -27,7 +28,7 @@ Buy a pick and shovel from Thane at 185/20 in the Wilderness. Walk around the ro
 
 ### Fishing
 
-Visit a fishing NPC (e.g. outside Kugnae's fox cave) and say 'fish'. Clans will often have their own fishing NPCs. Different combinations of rod and bait produce different results.
+Visit a fishing NPC (e.g. outside Kugnae's fox cave) and say 'fish'. Clans will often have their own fishing NPCs. Different combinations of rod and bait produce different results. Repeated fishing will occasionally cost you a point of vitality.
 
 ### Farming
 
@@ -35,11 +36,11 @@ Visit Ssal in Kugnae at 111/140 and buy a basic sickle. Walk around the farm gro
 
 ### Wool, ambers, etc
 
-There's no gathering skill for these. Kill sheep for wool, various creatures for ambers.
+There's no gathering skill for these. Kill sheep in the Wilderness for wool, various creatures for ambers.
 
 ## Manufacturing
 
-*The game considers these skills "Manufacturing", even though you are not manufacturing finished goods but instead refining raw materials into refined materials...*
+_The game considers these skills "Manufacturing", even though you are not manufacturing finished goods but instead refining raw materials into refined materials..._
 
 ### Smelting
 
@@ -47,7 +48,7 @@ Acquire a bunch of ore - when starting out, low and medium grade ore will be nea
 
 ### Weaving
 
-Acquire a bunch of wool. Acquire fine weaving tools (made by carpenters, effectively valueless) Visit Yon in the Wilderness at 44/30 and say 'weave'.
+Acquire a bunch of wool. Acquire fine weaving tools (made by carpenters, effectively valueless). Visit Yon in the Wilderness at 44/30 and say 'weave'.
 
 ### Gemcutting
 
@@ -55,9 +56,9 @@ Acquire a bunch of ambers. Visit Sel in the Wilderness at 46/42 and say 'gem'. T
 
 ## Refining
 
-*To start using a refining skill, you must first specialise with the appropriate NPC for that skill*
+_To start using a refining skill, you must first specialise with the appropriate NPC for that skill_
 
-*Some products of refining skills can be sold to NPCs to partially recoup losses.*
+_Some products of refining skills can be sold to NPCs to partially recoup losses._
 
 ### Metalworking
 
@@ -73,11 +74,11 @@ Acquire a bunch of cloth. Visit the tailor shop in Sanhae village and say 'cloth
 
 ### Jewelling
 
-Acquire a bunch of crafted amber, as well as an enormous amount of coins. Visit Sel in the wilderness at 46/42 and say 'jewel'.  Each attempt will cost coins as well as amber. High rank jewellers can make a wide variety things, of which only diadems are seriously valuable. 
+Acquire a bunch of crafted amber, as well as an enormous amount of coins. Visit Sel in the wilderness at 46/42 and say 'jewel'. Each attempt will cost coins as well as amber. High rank jewellers can make a wide variety things, of which only diadems are seriously valuable.
 
 ## Mental Skills
 
-*Only mages and poets can participate in these skills, and can only pick one.*
+_Only mages and poets can participate in these skills, and can only pick one._
 
 ### Scribing
 
@@ -89,7 +90,7 @@ Ascend Scribe's mountain in the vale and talk to the Sage. Alchemy produces cons
 
 ## Cooking
 
-*Everyone can do these, I believe they're not counted as any other skill type.*
+_Everyone can do these, I believe they're not counted as any other skill type._
 
 ### Food Preparation
 
