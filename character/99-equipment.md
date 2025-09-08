@@ -59,14 +59,31 @@ There is the Floret Pendant acquired from a Tangun quest for -1 AC, plus the rep
 
 **Warriors**: Cheap option, titanium blade. Expensive option, cutlass skully (BoD!). The level 99 flamespear has its uses but those uses are mostly 'leeching people in atg1/2'. In more typical caves it doesn't meaningfully outdo the cutlass. Notably the level 99 warrior etched spear from the taik'pae quest is dreadful, never make it. Similarly, both Chung Ryong scale and enchanted Chung Ryong scale are outclassed by the cheap titanium blade.
 
-**Rogues**: Cheap option, blood/nimble blade. Expensive option, cutlass skully. It doesn't hurt to carry a polearm (or featherlight) if hunting with a mage. Strictly speaking the 99 Rogue Etched Blade from the Taik'pae quest is the strongest level 99 weapon, but 99 through il-san generally doesn't last long enough for most people to be willing to wait for the ten days involved in the quest.
+At il-san+, cutlass skullies become a less realistic option as a warrior's rage causes increased durability damage that scales with the damage multiplier and will rapidly deplete the skully's low durbaility. Instead, there are several sensible options - the Taik'pae etched spear (with its ten day wait), the mark-appropriate Slog's Club (quite accessible), or your mark-appropriate PC path weapon (while CR Scales remain consistently terrible, PC path weapons are usually not far behind the Etched Spear at lower ranks).
+
+**Rogues**: Cheap option, blood/nimble blade. Expensive option, cutlass skully. It doesn't hurt to carry a polearm (or featherlight) if hunting with a mage. Strictly speaking the 99 Rogue Etched Blade from the Taik'pae quest is the strongest level 99 weapon if you have a caster to provide the curse that the skully sometimes casts, but 99 through il-san generally doesn't last long enough for most people to be willing to wait for the ten days involved in the quest.
+
+Rogues at higher marks often do invest in their Taik'pae etched blade, as the rogue etched blade is always a potent weapon. However, a shortcut exists at il-san in the Light Broadsword carnage prize, which actually deals just as much damage. At higher ranks, enchanted bloods or nimble blades are generally not too far behind.
 
 **Casters**: Both poets and mages only really benefit from the mana on weapons, and weapons with large mana bonuses are very expensive and generally not affordable as a new player. A charm or surge will do just fine, as would NPC path weapons. As with rogues, the taik'pae etched weapons quest will let you access high-mana weapons at a low pricetag, but most people don't bother going to this level of effort for the 99-through-to-il-san period. Mages have a slightly stronger argument for chasing mana items than poets, since mages do benefit significantly from hitting the mana breakpoints where their attacks onehit monsters.
 
+### Enchantment
+
+Certain weapons, at certain points, can be enchanted to boost their power.
+These include the level 95 path weapons (spikes, bloods, charms, surges) and both PC and NPC path unique weapons. Enchant a weapon by accumulating 200m experience, then making it past the Forever Tree to meet [Bon-hwa](character/marks.md).
+
+You can first do this at 'Enchanted' stats, kind of a midway milestone to il-san at 80k vitality or 40k mana. Higher enchantments are available after taking each mark. Weapons enchanted in this way are bonded to you, although it is also possible for base (non-marked) Enchanted weapons to drop rarely from strong mythic leaders.
+
+This system offers a budget and instant way to acquire a weapon. For warriors it is usually worth investing in better equipment, for rogues their enchanted weapons are servicable, and for casters an enchanted weapon may be perfectly sufficient. Enchanted weapons are also required for higher ranked Nagnag armory shields and learning some marked spells. It's often sensible to bring a couple of 95 weapons and extra experience when taking your mark to make sure you're prepared for your spells and new shield!
+
 ## Carnages
 
-**AC**: It's worth knowing about defensive weapons for carnages, as extra points of AC can be more valuable than extra stats in some cases. Examples of weapons that provide decent AC at 99 include the Hyun Moo's life lance, poet charms, and fox blades.
+**AC**: It's worth knowing about defensive weapons for carnages, as extra points of AC can be more valuable than extra stats in some cases. Examples of weapons that provide decent AC at 99 include the Hyun Moo's life lance, poet charm weapons, sunrise fans, and fox blades.
 
 **Protection**: The other applicable stat in carnages is Protection - you want to shoot for seven protection to make it harder for enemies to curse you. Each point is quite valuable but more than seven does nothing. Sources of protection at 99 include amber casques (2), mage/rogue/warrior shields (2), many hand items, cutlass skullies (2) and Sunrise fans (5), where sunrise fans also provide -3 AC.
 
-Beyond AC and Protection, vitality for everyone and mana for non-warriors are both beneficial to boost, especially since carnages will cap your base stats at the top end of the carnage tier and gear can push you over that cap. However, gear that grants large amounts of stats is typically expensive beyond the taik'pae weapons.
+Beyond AC and Protection, vitality for everyone and mana for non-warriors are both beneficial to boost, especially since carnages will cap your base stats at the top end of the carnage tier and gear can push you over that cap. However, gear that grants large amounts of stats is typically expensive beyond the Taik'pae weapons.
+
+## Exploring
+
+Arkanis hosts a useful tool for exploring equipment options at [https://bils.ca/itemdb](https://bils.ca/itemdb), which will let you query by slot and requirement then sort by property.
