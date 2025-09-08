@@ -10,7 +10,7 @@ This guide covers where to find the various items commonly needed to learn spell
 - **Snake meat**: Kugnae snake cave, Tangun snake cave
 - **Fine snake meat**: Tangun snake cave, brown snake boss in Kugnae snake cave
 - **Rat meat, ginseng and ginseng pieces**: Kugnae and Buya rat caves
-- **Fine Rabbit Meat**: Mythic rabbit sentries
+- **Fine Rabbit Meat**: Mythic rabbit sentries (reach a room late into the cave, and wander into one of the random invisible fall spots to reach the guardroom)
 - **Tiger's hearts**: Can be bought at butchers such as the one on Hausson
 
 ## Equipment & Weapons
@@ -38,8 +38,11 @@ This guide covers where to find the various items commonly needed to learn spell
 
 ## Fox Items
 
-- **All kinds of fox fur**: Kugnae, Buya and Tangun fox caves
+- **Regular and Red Fox fur**: Kugnae, Buya and Tangun fox caves
+- **Light Fox Fur**: Kugnae and Tangun fox caves
 - **Fox blade, fox tail**: Nine-tails fox bosses in all fox caves
+
+_You will need to experiment which cave is fastest for your level and path. I expect Tangun to be fastest for most things at higher levels when your damage output is higher, while at earlier levels the kingdom caves may be faster._
 
 ## Mythic Items
 

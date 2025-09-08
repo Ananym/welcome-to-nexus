@@ -10,7 +10,7 @@ PC Subpaths also have their own unique spells - some of these are just for fun, 
 
 Participating in a PC subpath is a very rewarding experience - you'll develop friendships and specialised knowledge, and enjoy some unique playstyle benefits. However, community subpaths ask a lot in return. You'll need to form a relationship with a subpath guide and undergo training to enter, and you'll likely be expected to be able to act in-character. The kinds of activities involved in training and the level of strictness around roleplaying varies among the subpaths.
 
-You need to be level 50 to join a PC subpath, but as training takes time, it's never too early to start.
+You need to be level 50 to join a PC subpath, but as training takes time, it's never too early to start. Go for it as early as possible!
 
 The process for joining each subpath is different, but some general hints:
 

@@ -55,7 +55,9 @@ Both poet and mage invoke aethers are meaningfully reduced by choosing any align
 ## Sanctuary
 
 Reduces all incoming damage by 50%, independent of the AC calculation.
+
 Baekho's cunning (specifically) offers a reduced effect, scaling with cunning stage. This does not stack with actual sanctuary, but cannot be dispelled.
+
 The warrior spell Hoche and Scrolls of protection additionally grant a very minor non-stacking sanctuary effect at 10% reduction.
 
 ## Rage and Durability
@@ -64,11 +66,9 @@ Chung Ryong's Rage (and counterparts) cause increased weapon durability loss. Yo
 
 ## Warrior Overflow
 
-Berserk, whirlwind, and siege (and slash, and throwing axe) all cause overflow. Excess damage dealt beyond the primary target's effective hitpoints is increased 20% and distributed evenly among surrounding targets.
+Berserk, whirlwind, and siege (and slash, and throwing axe) all cause overflow. Excess damage dealt beyond the primary target's effective hitpoints is increased by 20% and distributed evenly among surrounding targets.
 
-Testing using target creatures with very small numbers of hitpoints shows an improvement closer to 18% due to rounding.
-
-An older post on this board suggests the multiplier is 10%. It does appear to be 20% at the moment - perhaps it was adjusted at some point.
+An older post on this board suggests the multiplier is 10%. It does appear to be 20% at the moment - perhaps it was adjusted at some point. There is some confusing behaviour that drops this percentage to ~18% when overflowing very low health enemies - maybe this can be ascribed to rounding errors, but I'm not so sure it's exactly that.
 
 ## Berserk / Feral Berserk
 
@@ -76,4 +76,4 @@ Vanilla berserk does 0.75*current vitality in damage with 12s aethers,
 
 Feral berserk does 0.85*current vitality in damage with 16s aethers.
 
-Vanilla berserk does more damage over time at the cost of being slightly less healing-efficient. I personally prefer vanilla berserk.
+Vanilla berserk does more damage over time at the cost of being slightly less healing-efficient. I personally prefer vanilla berserk, but it comes entirely down to personal taste.

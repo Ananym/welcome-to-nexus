@@ -14,7 +14,7 @@ Gold acorns are valuable to clans, but you'll need to seek out Green Squirrels t
 
 Gathering skills like woodcutting and mining can offer an income independent of your strength, but they take a huge time investment to reach a level that would come close to rivalling other methods. Killing sheep in the wilderness for their wool, however, is fairly accessible to anyone with a few levels under their belt, and may be a reasonable option depending on current prices.
 
-Consider attending any of the advertised community events. Check the Community events board to see if there's anything upcoming. These assorted games can award tidy sums, or better, to the lucky or skilled winners.
+Consider attending any of the advertised [community events](community/community-events.md). Check the Community events board regularly to see if there's anything upcoming, or listen out for shouts and sages. These assorted games can award tidy sums, or better, to the lucky or skilled winners.
 
 Certain pieces of equipment in NexusTK are extremely expensive. You shouldn't let this bother you - these items are never required to progress at a reasonable rate. Only when you are highly familiar with the kingdoms would you want to consider making this kind of investment.
 
@@ -24,7 +24,7 @@ Mages and Poets are much less reliant on equipment, and if well-practiced can fu
 
 If you're on good terms with your clan, they may be willing to lend you some equipment that otherwise wouldn't be affordable to you - provided they trust you enough to make sure the equipment is returned before you take a break.
 
-Selling Kruna store items to players using the gift system can get you plenty of coin for day to day expenses if you're not inclined to farm. However, your account must be at least three months old to gift Kruna, and this would be very expensive if you're trying to afford a high value item.
+Selling [Kruna](economy/kruna.md) store items to players using the gift system can get you plenty of coin for day to day expenses if you're not inclined to farm. However, your account must be at least three months old to gift Kruna, and this would be very expensive if you're trying to afford a high value item.
 
 True wealth comes from patience - the most highly prized items are often temporary event rewards. If you make sure you complete every large game-wide event that comes past - ideally on multiple characters - the rewards are often worth a substantial amount further down the road.
 

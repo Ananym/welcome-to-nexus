@@ -10,7 +10,7 @@ It's worth just speaking your question out loud at a place where people gather -
 
 Anyone can access the /tutors chat channel, where any available tutor can get back to you directly. Tutors will do their best to help you with any topic, but won't necessarily give you free coins or items. You can also send a letter to your path tutors for detailed questions.
 
-You can send widespread messages using the free world shout orb available at the inns, which is usable once an hour. However, its mana cost at the time of writing may make it unusable in the earlier levels.
+If you are [Registered](basics/registration.md), you can send widespread messages using the free world shout orb available at the inns. This can be used once an hour. However, its mana cost at the time of writing may make it unusable in the earlier levels for some paths.
 
 For more involved questions, you can consider making a post on the Community board.
 There are also unofficial out-of-game resources, such as the NexusTK community discord server.

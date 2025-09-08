@@ -2,6 +2,9 @@
 
 This is intended to be a bare minimum guide to each path in group play.
 
+?> **Opinion Alert:**
+NexusTK is a deeply social game. Modern MMO players will be used to trying to do as much solo as possible, and will be reluctant to putting effort into finding hunting partners. This will not serve you in NTK - not only is playing NTK alone incredibly dull, it's also meaningfully slower than playing with others. I massively encourage you to embrace what the game was made for and put a lot of effort into finding others to group with at every possible opportunity.
+
 ## Warrior
 
 - Always cast Backstab and Flank, and try to position yourself to hit multiple enemies.

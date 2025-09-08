@@ -19,7 +19,7 @@ It's a good idea for everyone, but especially warriors, to carry emergency heali
 
 Herb pipes are the primary mana restorative, sold by your path's guild hall. Other pipes are available, but nothing provides more mana per slot than the basic herb pipes.
 
-Poets and mages will learn "invoke" naturally to supply their mana needs. Rogues will learn "Chance" at ee-san which allows them to invoke. Besides that, warriors and pre-ee rogues are dependent on a poet's "inspire" once they outgrow pipes. However, in the cases where a poet is not available, Scrolls of Invocation can be used to allow anyone to invoke. These are crafted by players practicing Scribing. You can only carry six at once. However, they are still recommended if you need to hit your highest level of rage or cunning while by yourself.
+Poets and mages will learn "invoke" naturally to supply their mana needs. Rogues will learn "Chance" at ee-san which allows them to invoke. Besides that, warriors and pre-ee rogues are dependent on a poet's "inspire" once they outgrow pipes. However, in the cases where a poet is not available, Scrolls of Invocation can be used to allow anyone to invoke. These are crafted by players practicing [Scribing](economy/crafting.md?id=scribing). You can only carry six at once. However, they are still recommended if you need to hit your highest level of rage or cunning while by yourself.
 
 ## Status
 

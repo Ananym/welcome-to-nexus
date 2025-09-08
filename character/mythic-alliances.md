@@ -2,13 +2,13 @@
 
 ## Overview
 
-Whether it's to improve your karma or to satisfy the requirements for your third mark, you will need to complete some Mythic Alliances sooner or later.
+Whether it's to improve your karma or to satisfy the requirements for your third [mark](character/mark.md), you will need to complete some Mythic Alliances sooner or later.
 
 You can complete 6 lesser alliances, followed by 3 greater alliances. The third mark of strength, Sam-san, requires all three greater alliances to be completed. Beyond that, you can take on a Sublime alliance - though these currently serve no purpose besides additional karma.
 
 Mythic alliances involve meeting a Mythic leader, accepting his request, then slaying the required enemies and returning to the leader with the necessary items. Despite being 'alliances', this will not change the behaviour of the creatures in the cave.
 
-Finding the leader in most mythic caves involves falling into the guardroom by stepping onto a randomly selected tile in particular rooms. Once you arrive at the guardroom, you can make your way through a door to visit the leader. Mythic Rat is slightly different, in that you can reach the leader without needing to fall. Mythic Tiger is especially tricky as you can fall into many other rooms besides the guardroom.
+Finding the leader in most mythic caves involves falling into the guardroom by stepping onto a randomly selected tile in particular rooms. In most caves these tiles are one-use-only, and your allies will need to find another invisible fall tile. Once you arrive at the guardroom, you can make your way through a door to visit the leader. Mythic Rat is slightly different, in that you can reach the leader without needing to fall. Mythic Tiger is especially tricky as you can fall into many other rooms besides the guardroom, although these fall spots can last multiple uses.
 
 Once at the leader, say the name of that cave's enemy out loud to start a lesser alliance. The enemy pairings are rabbit - rooster, monkey - tiger, dog - dragon, rat - horse, snake - pig, ox - sheep. If you've finished all your lesser alliances and have reached the rank of il-san, you can instead say "Greater" to start a greater alliance.
 
@@ -32,7 +32,7 @@ You can start all your Lesser Alliances at the same time - the kill counters don
 
 Save a little time by starting your first Greater Alliance immediately with the leader with which you finished your six Lesser Alliances.
 
-By exchanging Daily Coins at the incubator, you can pick up 'damaged orbs' letting you cast spells from other paths. They can't be used in groups and massively penalize experience and drop rates, but they can be a powerful tool for Alliances.
+By exchanging Daily Coins at the incubator, you can pick up '[damaged orbs](combat/orbs.md)' letting you cast spells from other paths. They can't be used in groups and massively penalize experience and drop rates, but they can be a powerful tool for Alliances.
 
 To take your third mark of strength, you need six Lesser and three Greater Alliances. That's a total of 126 boss kills - not to mention all the trips through guardrooms! Consider starting your alliances early so you're not faced with a gigantic hurdle at Sam-san.
 
@@ -44,4 +44,4 @@ Mythic Nexus is often populated by others working on their own alliances. Use Sa
 
 At busy times, there may be a group of adventurers coordinating to check different Mythic caves and share different bosses. Joining these groups when they're running can be an efficient way to make progress.
 
-Mythic bosses respawn approximately every few minutes. However, this is a periodic check rather than a time since the boss was last slain - it's entirely possible for a boss to respawn moments after it died, if you managed to kill it just before the periodic check.
+Mythic bosses respawn approximately every 40-60 minutes. However, this is a periodic check rather than a time since the boss was last slain - it's entirely possible for a boss to respawn moments after it died, if you managed to kill it just before this periodic check.

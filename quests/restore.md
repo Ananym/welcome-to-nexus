@@ -37,6 +37,8 @@ Make sure you're grouped with your helper, then run/fight your way through the p
 
  Reach the room "Rose Palace" (which is not the final room). Find Storm (he's a white, slightly pink-hued Tiger wearing brown clothing - confirm his name by rightclicking). Scourge him, let your helper take his attention (it helps not to run away from him!) and help your helper kill him.
 
+ Storm has quite a long respawn time. If you reach Rose Palace and he genuinely isn't there, you may want to come back in a few hours. If you attempt this quest in the hours after a daily reset, he may not have spawned yet. After unlocking yourself for Tiger Palace, the unlocked state will last fifteen realtime hours.
+
  If you die in the process, you may still get the kill credit as long as you're nearby and grouped when Storm is killed, but I would be reluctant to count on this.
 
 Immediately leave and visit the old man and his dog in the Wilderness (57/8). Talk to the dog to receive your restore.

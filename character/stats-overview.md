@@ -2,6 +2,8 @@
 
 Combat in NexusTK is governed by a handful of different statistics.
 
+_Please appreciate that NexusTK's core systems were designed in ~1996 for a very different game, one that generally stayed below level 99. Many of the mechanisms behind these stats start to break down beyond 99, and the decisions behind monster stats and gear stats have not always been well-founded._
+
 **Vitality and Mana** allow you to take hits and cast spells. They also directly determine the power of your strongest techniques like Whirlwind and Hellfire.
 
 **Weapon damage** - the damage range on your current weapon. Only used for normal swings. The 'S' value is always applicable, the 'L' value has no known purpose. Warrior and rogue ingresses directly multiply your weapon damage.
@@ -10,7 +12,7 @@ Combat in NexusTK is governed by a handful of different statistics.
 
 **'Dam'** improves your base damage by a flat amount. This makes a big difference early on, but becomes quickly less important as you gain [marks](character/marks.md). Rogues get slightly more use out of Dam than warriors, as Dam's effect is multiplied by a rogue's invisibility whereas a warrior's damage originates from powerful ingresses that don't interact with Dam.
 
-**'Hit'** improves your ability to hit enemies with swings. This makes a big difference early on, but no longer matters much beyond your 99th insight, once your max out your Might stat.
+**'Hit'** improves your ability to hit enemies with swings. This makes a big difference early on, but no longer matters much beyond your 99th insight, once you max out your Might stat.
 
 **Might** improves both your ability to hit and your base damage, if only slightly. Having enough also enables you to equip certain weapons.
 

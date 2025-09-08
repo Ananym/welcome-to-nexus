@@ -9,7 +9,7 @@ However, for the most part, when focusing on pure experience the correct cave is
 
 ATG has some mechanics allowing you to hunt with allies of different strengths. You're able to enter your highest tier plus the two tiers underneath. Entering a lower tier will penalize your stats and experience gain. However, it can often be more effective to hunt in a lower-than-highest tier due to the lower monster armor and vitality.
 
-(The way this system has been implemented has been deeply unhealthy for the game, as it encourages staying in ATG5 as long as physically possible using microtransactions to store experience - and even taking a higher mark and reducing your stats to remain in the desired tier. This sucks for everyone involved except for Kru, who benefit from all the extra envelope sales.)
+?> **Opinion Alert**: The way this system has been implemented has been deeply unhealthy for the game, as it encourages staying in ATG5 as long as physically possible using microtransactions to store experience - and even taking a higher mark and reducing your stats to remain in the desired tier. This style of hunting predominantly using your fighter's lower caves is extremely dull and creates hunting dead-zones at higher ranks. This sucks for everyone involved except for Kru, who benefit from all the extra envelope sales.
 
 The minimum stats to enter each ATG tier are as follows:
 

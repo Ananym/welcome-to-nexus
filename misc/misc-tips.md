@@ -2,6 +2,8 @@
 
 A series of tips that don't fit elsewhere.
 
+* At levels <15, veteran players are used to using the Thirsty Ogres in the southwest corner of Mythic Nexus to level up, as they have exactly one hitpoint and reward plentiful experience.
+
 * Once [Registered](basics/registration.md), remember to pick up the Fragile Orb of World Shout from the inns once you have enough mana to cast it (different paths will reach this point at different levels). This orb costs nothing and will let you send a gamewide message once an hour.
 
 * A beautiful tree stands at the North end of Mythic Nexus, as a memorial to HealerOfDoom. The tree can heal you and bestow you with long-lived defensive spells via the 'Dianecht's Follain' option. These spells will be stripped if you enter Ancient Training Grounds, but are useful if you find yourself fighting elsewhere. There is some minimum mana required to use these effects.
@@ -16,4 +18,10 @@ A series of tips that don't fit elsewhere.
 
 * Explore the Kruna shop's cosmetic offerings by trying them on with Shift-F9!
 
+* Rapidly use consumables by holding Ctrl+letter.
+
 * Alt-t to toggle transparency is handy for navigating dense areas.
+
+* NTK runs on 8:1 speed relative to real time, which helps to know to understand in-game dates.
+
+* You can bond yourself to another through Marriage or (same sex) Blood Oath - visit a chapel or seek out the barbarians. Marriage takes a little time, and divorcing will cost you some stats, but will allow you and your partner to teleport to one another even in places that block summon and approach. This does come in handy for Mythic Alliances.
