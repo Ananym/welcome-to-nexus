@@ -16,7 +16,7 @@ There are several ways to target in NexusTK.
 
 By default, cast your spell, use the arrow keys to cycle the reticule to your target, then press enter. Press Esc to cancel the cast. Press Home while targeting to snap the reticule back to yourself.
 
-To target by mouse, it's recommended to turn on "Simple Click" in the options tab. Cast your spell then click on your target. It's possible to cast the same spell in succession by holding the spell button and clicking multiple times on multiple targets. You can walk by holding right click - it may help to disable "Right click look" with Shift+R to avoid inspecting creatures and items instead of walking.
+To target by mouse, it's recommended that you turn on "Simple Click" in the options tab. Cast your spell then click on your target. It's possible to cast the same spell in succession by holding the spell button and clicking multiple times on multiple targets. You can walk by holding right click - it may help to disable "Right click look" with Shift+R to avoid inspecting creatures and items instead of walking.
 
 There are some helper functions to make targeting more convenient.
 

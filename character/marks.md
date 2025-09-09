@@ -13,7 +13,7 @@ These marks are:
 
 To access these marks, you need to find the mysterious Bonhwa. Reaching Bonhwa involves fighting through a swarm of blinding ravens and then the Forever Tree, a passive enemy that has a huge amount of health. Find some strong help, then visit 19/92 in the Wilderness.
 
-Besides granting marks, Bonhwa will also let marked characters enchant certain weapons at the cost of 200m experience.  Mark-enchanted spikes, charms, surges, and bloods make for usable weapons in a pinch, and are also used as components for some spells and shields.
+Besides granting marks, Bonhwa will also let marked characters enchant certain weapons at the cost of 200m experience. This is first available before il-san, at 80k/40k. Enchanted spikes, charms, surges, and bloods make for varyingly usable weapons in a pinch, and are also used as components for spells and shields. For more on enchanting, see [Equipment](character/99-equipment.mdid=enchantment).
 
 Bonhwa does also allow you to spend experience to raise your Might/Grace/Will beyond their natural limits. This doesn't really achieve anything useful.
 
@@ -55,13 +55,11 @@ Other trials for this mark include:
 
 This mark has several taxing trials.
 
-The trial of wisdom requires that you have the 5th level of Sage. Sage is first available from the wilderness sage (125/7) at level 90 at a cost of 100k, and is upgradable every 45 real days thereafter. It is recommended that you learn sage asap and keep on top of the wait timer, as this is often a significant barrier for aspiring sam-sans.
+- The trial of wisdom requires that you have the 5th level of Sage. Sage is first available from the wilderness sage (125/7) at level 90 at a cost of 100k, and is upgradable every 45 real days thereafter. It is recommended that you learn sage asap and keep on top of the wait timer, as this is often a significant barrier for aspiring sam-sans.
 
-The trial of skill requires that you amass 60 [carnage](community/carnage-events.md) wins, with at least 5 of each type. Acquaint yourself with the carnage schedule, look out for rapid one-round line-ups on Saturdays, look out for free wins on holidays, look out for bonuses throughout the day. Fox hunts especially are quick to attend.
+- The trial of skill requires that you amass 60 [carnage](community/carnage-events.md) wins, with at least 5 of each type. Acquaint yourself with the carnage schedule, look out for rapid one-round line-ups on Saturdays, look out for free wins on holidays, look out for bonuses throughout the day. Fox hunts especially are quick to attend.
 
-The trial of strength requires that you complete all 6 possible [lesser alliances](character/mythic-alliances.md) and all 3 possible [greater alliances](character/mythic-alliances.md). This is a major undertaking. At the least, it will provide you with all the karma you require for the mark. Tackling some alliances early on can make this task less daunting.
-
-Other trials include:
+- The trial of strength requires that you complete all 6 possible [lesser alliances](character/mythic-alliances.md) and all 3 possible [greater alliances](character/mythic-alliances.md). This is a major undertaking. At the least, it will provide you with all the karma you require for the mark. Tackling some alliances early on can make this task less daunting.
 
 - A sacrifice of 2.4 billion experience
 - A sacrifice of 4 million coins
@@ -70,14 +68,16 @@ Other trials include:
 
 ### Sa-san
 
-**Sa-san** is available at 1280k vitality or 160k mana.
+**Sa-san** is available at 1280k vitality or 640k mana.
 
-It requires that you've finished both your Sun and Wind armor quests, and have either completed Staff of Elements or spent the karma to create your own Faerie Light.
+- You must have finished both your Sun and Wind armor quests
 
-*Bonhwa will take your completed armors from you, but at the time of writing, you can restore them immediately using the Kruna 'Bonded Item Restore' from the Item Shop*
+_Bonhwa will take your completed armors from you, but at the time of writing, you can restore them immediately using the Kruna 'Bonded Item Restore' from the Item Shop_
 
-You will also need to sacrifice 200k vitality or 100k mana, in addition to 10 billion experience. You must still meet the Sa-san stat requirement after sacrificing! However, for the stat sacrifice, other players are able to sacrifice stats to Bonhwa in your name.
+- You must have either completed Staff of Elements or spent the karma to create your own Faerie Light.
 
-The trial of endurance requires you to have completed 400 minor quests. If you are meticulous with timing, two minor quests can be completed each day as the timer is 11.5 hours. At the time of writing, daily coins can be paid in to skip the minor quest delay timer at 4 coins per skip. If you are serious about reaching Sa-san in a timely fashion, you will want to make sure you complete your minor quests as often as possible, and collect daily coins regularly on all your characters.
+- You will also need to sacrifice 200k vitality or 100k mana, in addition to 10 billion experience. You must still meet the Sa-san stat requirement after sacrificing! However, for the stat sacrifice, other players are able to sacrifice stats to Bonhwa in your name.
 
-The trials of Skill and Persistence include significant combat quests that the community generally bands together to help people complete.
+- The trial of endurance requires you to have completed 400 minor quests. If you are meticulous with timing, two minor quests can be completed each day as the timer is 11.5 hours. At the time of writing, daily coins can be paid in to skip the minor quest delay timer at 4 coins per skip. If you are serious about reaching Sa-san in a timely fashion, you will want to make sure you complete your minor quests as often as possible, and collect daily coins regularly on all your characters.
+
+- The trials of Skill and Persistence include significant combat quests that the community generally bands together to help people complete.
