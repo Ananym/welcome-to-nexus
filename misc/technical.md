@@ -30,7 +30,7 @@ However, you can make this issue massively less likely by setting NTK to Large A
 
 ## Unthemed Cursor
 
-NTK should include a themed cursor, but seemingly the animation files for this cursor are missing from the current NTK installer. Thankfully you can just put the files back. Download the scary .zip directly from welcometonexus.net here: [Cursor animations archive](files/Cursor.zip). Place the "Cursor" folder inside into the NexusTK installation directory, at the same level as NexusTK.exe - cursor should be restored.
+NTK should include a themed cursor, but seemingly the animation files for this cursor are missing from the current NTK installer. Thankfully you can just put the files back. Download the scary .zip directly from welcometonexus.net here: [Cursor animations archive](https://welcometonexus.net/misc/files/Cursor.zip). Place the "Cursor" folder inside into the NexusTK installation directory, at the same level as NexusTK.exe - cursor should be restored.
 
 ## Freezing on Second Monitor
 
