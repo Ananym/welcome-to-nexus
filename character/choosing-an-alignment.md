@@ -10,18 +10,24 @@ There are three alignments to choose from:
 
 - Ming-ken, life-aligned
 
-  Tends to have bold effects. Found in the Islets east of Buya. Fighter attack visuals modelled after animal claws.
+  Found in the Islets (29, 85), east of Buya. Tends to have bold effects. Fighter attack visuals modelled after animal claws.
+
   For poets, their resurrection spell becomes a 5-way AoE. This is helpful in some niche circumstances and unhelpful in some niche circumstances.
+
   For warriors, their Whirlwind is modified to the safe version, dropping you to 10% of your vitality instead of a flat 10.
+
+  Some arena players aren't fond of the Ming-ken heal effect, which obscures the target when cast repeatedly.
 
 - Ohaeng, balance-aligned
 
-  Found in the Wilderness between Buya and Kugnae.
+  Found in the Wilderness, (78/185). 
+  
   For warriors, their Whirlwind is modified to the safe version, dropping you to 10% of your vitality instead of a flat 10.
 
 - Kwi-sin, death-aligned
 
-  Tends to have spookier effects.
+  Found in Arctic Village (56, 21). Tends to have spookier effects.
+  
   For warriors, their whirlwind gets a slight damage boost, but continues to drop you to a flat 10 vitality, making it poorly compatible with living.
 
 Choosing an alignment is not an initially arduous process - visit the shrine, complete the quiz, then visit your guildmaster and announce the name of your alignment out loud.
