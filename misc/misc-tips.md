@@ -25,3 +25,7 @@ A series of tips that don't fit elsewhere.
 * NTK runs on 8:1 speed relative to real time, which helps to know to understand in-game dates.
 
 * You can bond yourself to another through Marriage or (same sex) Blood Oath - visit a chapel or seek out the barbarians. Marriage takes a little time, and divorcing will cost you some stats, but will allow you and your partner to teleport to one another even in places that block summon and approach. This does come in handy for Mythic Alliances.
+
+* Every year after your character's creation date, you can pick up a new set of Wisdom Clothes by paying 100k to a kingdom's palace greeter. Jail marks will prevent you from accessing these.
+
+* You can access the Friends List through the Menu button or by pressing F3. Listing names in here will highlight them in the Ctrl+w Heroes board if present. Additionally, if the character also has your name in their friends list, you will both be notified in the status box whenever the other comes online.
