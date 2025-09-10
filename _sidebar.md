@@ -54,6 +54,7 @@
 - **Miscellaneous**
 
   - [Misc Tips](misc/misc-tips.md)
+  - [Technical Troubleshooting](misc/technical.md)
 
 - **Detailed Game Mechanics**
   - [Weapon Damage/Hit Chance Cheat Sheet](mechanics/weapon-damage-cheat.md)
