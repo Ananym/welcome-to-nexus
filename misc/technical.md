@@ -10,19 +10,19 @@ Within windows compatability settings you can also override standard dpi scaling
 
 ## "MiniDumpWriteDump"
 
-![MiniDumpWriteDump error](img/minidumpwritedump.jpg)
+<img src="img/minidump.jpg" alt="MiniDumpWriteDump error" style="filter: drop-shadow(0 4px 8px rgba(0, 0, 0, 0.3));" />
 
 NTK's copy of the dbghlp.dll is trying to invoke a function in your graphics drivers that doesn't exist. Luckily you can simply delete the copy of dbghlp.dll in the NexusTK install directory - the client will instead use your system's normal copy of dbghlp, which shouldn't exhibit this issue.
 
 ## "MSVCR100.dll"
 
-![MSVCR error](img/mscvr.jpg)
+<img src="img/mscvr.jpg" alt="MSVCR error" style="filter: drop-shadow(0 4px 8px rgba(0, 0, 0, 0.3));" />
 
 Fix this by installing the Visual C++ 2010 Redistributable Package. You can find this linked from the same page as the client download on <www.nexustk.com>.
 
 ## "MapViewOfFile"
 
-![MapViewOfFile error](img/mapviewoffile.jpg)
+<img src="img/mapviewoffile.jpg" alt="MapViewOfFile error" style="filter: drop-shadow(0 4px 8px rgba(0, 0, 0, 0.3));" />
 
 NTK wants to load this entire file into a single continuous piece of memory. However, the system hasn't given NTK a big enough single continuous piece of memory to do this. Doing just about anything with your computer, including a reboot, may be enough to rearrange your computer's memory enough to allow NTK to map this file.
 
@@ -30,7 +30,7 @@ However, you can make this issue massively less likely by setting NTK to Large A
 
 ## Unthemed Cursor
 
-NTK should include a thematic cursor, but seemingly the animation files for this cursor are missing from the current NTK installer. Thankfully you can just put the files back. Download the scary .zip directly from welcometonexus.net here: [Cursor Animations archive](files/Cursor.zip) and place the "Cursor" folder inside into the NexusTK installation directory, at the same level as NexusTK.exe.
+NTK should include a themed cursor, but seemingly the animation files for this cursor are missing from the current NTK installer. Thankfully you can just put the files back. Download the scary .zip directly from welcometonexus.net here: [Cursor animations archive](files/Cursor.zip). Place the "Cursor" folder inside into the NexusTK installation directory, at the same level as NexusTK.exe - cursor should be restored.
 
 ## Freezing on Second Monitor
 
