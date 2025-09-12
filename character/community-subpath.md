@@ -14,7 +14,7 @@ You need to be level 50 to join a PC subpath, but as training takes time, it's n
 
 The process for joining each subpath is different, but some general hints:
 
-Start by examining their posts on the subpaths board. Try to track down their scroll from a library, their public area, or one of the subpath members. (You do need to be registered to hold the subpath scrolls.) Learn the basics of the path from their scroll, then politely make yourself known to one of the subpath guides. Some subpaths accept direct applications, some subpaths will invite you when they feel you are ready.
+Start by examining their posts on the [subpaths board](community/boards.md). Try to track down their scroll from a library, their public area, or one of the subpath members. (You do need to be registered to hold the subpath scrolls.) Learn the basics of the path from their scroll, then politely make yourself known to one of the subpath guides. Some subpaths accept direct applications, some subpaths will invite you when they feel you are ready.
 
 PC subpath overview:
 

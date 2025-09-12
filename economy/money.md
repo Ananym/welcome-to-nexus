@@ -14,7 +14,7 @@ Gold acorns are valuable to clans, but you'll need to seek out Green Squirrels t
 
 Gathering skills like woodcutting and mining can offer an income independent of your strength, but they take a huge time investment to reach a level that would come close to rivalling other methods. Killing sheep in the wilderness for their wool, however, is fairly accessible to anyone with a few levels under their belt, and may be a reasonable option depending on current prices.
 
-Consider attending any of the advertised [community events](community/community-events.md). Check the Community events board regularly to see if there's anything upcoming, or listen out for shouts and sages. These assorted games can award tidy sums, or better, to the lucky or skilled winners.
+Consider attending any of the advertised [community events](community/community-events.md). Check the [Community events board](community/boards.md) regularly to see if there's anything upcoming, or listen out for shouts and sages. These assorted games can award tidy sums, or better, to the lucky or skilled winners.
 
 Certain pieces of equipment in NexusTK are extremely expensive. You shouldn't let this bother you - these items are never required to progress at a reasonable rate. Only when you are highly familiar with the kingdoms would you want to consider making this kind of investment.
 

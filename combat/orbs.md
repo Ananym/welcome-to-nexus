@@ -1,6 +1,6 @@
 # Orbs
 
-If you're just starting out, this page won't matter to you yet! However, when you people mention orbs, here's what's going on.
+If you're just starting out, this page won't matter to you yet! However, when you see people mention orbs, here's what's going on.
 
 Orbs are temporary items that cast spells without being consumed, providing significant advantages in combat and utility. There are several different categories of orb, with different costs and uses.
 
@@ -72,6 +72,6 @@ You should be aware of these premium orbs, but a few others exist.
 Value for money varies by path:
 
 - Mage: Self-restore orb is potent for solo play and still convenient in groups
-- Poet: Extra restore orb is extremely strong at all stages
+- Poet: Extra restore orb is extremely strong at all stages, but not strictly required early in the progression given ATG's bias towards swing damage rather than vital attack damage.
 - Rogue: Lethal strike ripple orb becomes mandatory for damage later in the progression
 - Warrior: Whirlwind orbs are fun but considerably less impactful than your basic swings until the top end of the progression.

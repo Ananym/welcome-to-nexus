@@ -12,5 +12,5 @@ Anyone can access the /tutors chat channel, where any available tutor can get ba
 
 If you are [Registered](basics/registration.md), you can send widespread messages using the free world shout orb available at the inns. This can be used once an hour. However, its mana cost at the time of writing may make it unusable in the earlier levels for some paths.
 
-For more involved questions, you can consider making a post on the Community board.
+For more involved questions, you can consider making a post on the [Community board](community/boards.md).
 There are also unofficial out-of-game resources, such as the NexusTK community discord server.

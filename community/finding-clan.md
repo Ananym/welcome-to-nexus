@@ -2,7 +2,7 @@
 
 It's widely recommended that you join one of the kingdoms' clans to find friends and support. The clans have different cultures and specialize in different things - but all are welcoming to new players, provided you are polite and friendly.
 
-You can find clans on the Clans & Ministries board. You may also see them advertised in sages, or attend one of their community events. Approach any member of a clan to express your interest in joining.
+You can find clans on the [Clans & Ministries board](community/boards.md). You may also see them advertised in sages, or attend one of their community events. Approach any member of a clan to express your interest in joining.
 
 Clans have different requirements for joining, but most are very accessible. You need to reside in the same kingdom as the clan you intend to join - it is possible to change your citizenship, however, which is a process that your new clan will generally be happy to help you with.
 

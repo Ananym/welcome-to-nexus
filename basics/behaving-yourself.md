@@ -8,7 +8,7 @@ There are several laws you must be mindful of, including:
 - Do not make references to drugs or mature content,
 - Do not use automation tools.
 
-A more exhaustive list is available on the Law board.
+A more exhaustive list is available on the [Law board](community/boards.md).
 Breaching any of these can result in harsh penalties.
 
 NexusTK is a social environment - you will need to rely on others to succeed, and your reputation is important.

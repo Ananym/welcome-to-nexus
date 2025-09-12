@@ -14,7 +14,7 @@ Your karma can fall as well as rise. If you drop to Snake tier, NPCs may refuse 
 
 Because the reading of karma is an imprecise art, this chart of karma levels isn't perfect. However, it should give you an idea of the effort required between where you are and where you want to be.
 
-The smallest unit of karma recognised by the community is the pirate coin, as pirate coins can be directly exchanged for karma with librarians. Pirate coins are acquired through quests on Gogoon island, as well as some temporary events.
+The smallest unit of karma recognised by the community is the pirate coin, as pirate coins can be directly exchanged for karma with librarians. Pirate coins are acquired through quests on [Gogoon](misc/Gogoon.md) island, as well as some temporary events.
 
 New characters appear to start at the low end of Cat, so this is taken as zero.
 
@@ -45,7 +45,7 @@ Some ways to bolster your karma are only available once. These include:
 - Talking to Majhum about the Dusk Shaman during the [Nagnag armory quest](https://www.nexusatlas.com/quests/nagnagsshieldsquest.php) (reaching this point technically does not require completing your path's Nagnang Guild quest)
 - Weaving a magical net during the Wind armor quest
 - Specializing in a manufacturing skill
-- The nonrepeatable quests on Gogoon island, particularly [Zuhair's Important Letter](https://www.nexusatlas.com/quests/gogoon-npc-largequests.php) (scroll to the bottom)
+- The nonrepeatable quests on Gogoon island, particularly [Zuhair's Important Letter](misc/gogoon.md)
 - Mythic alliances, of which you can complete 6 Lessers, 3 Majors, and 1 Sublime
 
 In general, aiding Chu Rua, talking to Majhum, and finishing the Important Letter quest will give you enough karma / pirate coins to reach Ox, which is an important breakpoint for the watcher's blessing required by [NPC subpaths](character/npc-subpath.md). You may wish to delay your path celestial armor quests until after receiving this blessing, as those quests do consume karma to complete.

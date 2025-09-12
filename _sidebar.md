@@ -33,6 +33,7 @@
 
 - **Community & Social**
 
+  - [Bulletin Boards](community/boards.md)
   - [Finding Help](community/finding-help.md)
   - [Finding a Clan](community/finding-clan.md)
   - [Carnage Events](community/carnage-events.md)
@@ -53,10 +54,13 @@
 
 - **Miscellaneous**
 
+  - [Gogoon](misc/gogoon.md)
   - [Misc Tips](misc/misc-tips.md)
   - [Technical Troubleshooting](misc/technical.md)
+  - [TODO](misc/todo.md)
 
 - **Detailed Game Mechanics**
+
   - [Weapon Damage/Hit Chance Cheat Sheet](mechanics/weapon-damage-cheat.md)
   - [Stats and Spells Cheat Sheet](mechanics/stats-spells-cheat.md)
   - [Polearm Cheat Sheet](mechanics/polearm-cheat.md)
