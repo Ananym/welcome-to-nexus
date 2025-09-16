@@ -1,6 +1,10 @@
 # Ee-san Trial of Strength
 
-The Ee-san trial of strength is a necessary part of taking your second [mark](character/marks.md). Bon-hwa will ask you to kill both leaders of eight specific mythic caves. You can revisit Bon-hwa to mark any kills you've made as complete - this page will explain why this is necessary and how often you should turn in.
+The Ee-san trial of strength is a necessary part of taking your second [mark](character/marks.md). Bon-hwa will ask you to kill both leaders of eight specific mythic caves, in any order.
+
+Those caves are Rabbit, Monkey, Rooster, Dog, Horse, Rat, Ox, Pig.
+
+You can revisit Bon-hwa to mark any kills you've made as complete - this page will explain why this is necessary and how often you should turn in.
 
 All of NTK's 'kill this' quests besides alliances work on a single kill tracker system. However, as Ee-san asks you to kill so many different creatures, the limits of the kill tracker complicate this task.
 

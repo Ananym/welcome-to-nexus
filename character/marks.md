@@ -45,7 +45,7 @@ Other trials for this mark include:
 - Another sacrifice of 1.2 billion experience
 - A sacrifice of 2 million coins
 - 6 carnage victories
-- A quest to slay both leaders of eight different mythic caves
+- [Ee Strength](quests/ee-strength.md): A quest to slay both leaders of eight different mythic caves
 
 ---
 
