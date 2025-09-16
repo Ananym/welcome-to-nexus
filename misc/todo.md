@@ -22,7 +22,7 @@ Ideally Nmail/discord Astrael with some bullet points (or full text if you're fe
 
 - Taik'pae
 
-  Probably deserves a quest page given the importance of these weapons. Tips for coal, where to source component items, advice on when to pursue this quest.
+  Written, but still needs item explanations
 
 - Vita attack scaling details
 

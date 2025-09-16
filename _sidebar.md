@@ -51,6 +51,7 @@
 
   - [Ee Strength](quests/ee-strength.md)
   - [Restore](quests/restore.md)
+  - [Taik'pae's Etched Weapons](quests/etched-weapons.md)
 
 - **Miscellaneous**
 

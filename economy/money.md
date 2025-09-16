@@ -18,7 +18,7 @@ Consider attending any of the advertised [community events](community/community-
 
 Certain pieces of equipment in NexusTK are extremely expensive. You shouldn't let this bother you - these items are never required to progress at a reasonable rate. Only when you are highly familiar with the kingdoms would you want to consider making this kind of investment.
 
-The Etched Weapons repeatable quest offered by Kinung's Taik'pae will offer you reasonably competitive bonded weapons. This quest involves a ten day wait, however, so it is best to plan ahead. There are also other accessible weapons available at most points, such as Titanium blades and Slog's clubs for warriors, enchanted bloods or nimble blades for rogues.
+The [Etched Weapons](quests/etched-weapons.md) repeatable quest offered by Kinung's Taik'pae will offer you reasonably competitive bonded weapons. This quest involves a ten day wait, however, so it is best to plan ahead. There are also other accessible weapons available at most points, such as Titanium blades and Slog's clubs for warriors, enchanted bloods or nimble blades for rogues.
 
 Mages and Poets are much less reliant on equipment, and if well-practiced can function perfectly well - if not necessarily optimally - in a group with no equipment beyond the bare minimum.
 
