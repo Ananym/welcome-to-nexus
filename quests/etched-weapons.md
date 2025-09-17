@@ -27,37 +27,37 @@ Find Taik'pae on the top floor(??) of his tent on the east shore of Kinung (83, 
 - Talk to Taik'pae, promise him a Walsuk special
 - Travel to Walsuk Tavern, say "Walsuk's special", then "Ingredients"
 - Bring her:
-  - 3 Peas
-  - 1 Grilled Beef
-  - 1 Noodles
-  - 2 Salt blocks
+  - 3 Peas - [Farming](economy/crafting?id=farming)
+  - 1 Grilled Beef - [Preparing Beef](economy/crafting?id=food-preparation)
+  - 1 Noodles - [Chefs](economy/crafting?id=cheffing)
+  - 2 Salt blocks - Drop and pick up [cloth](economy/crafting?id=weaving) across Dae shore, over and over
 - Say "Ingredients" again, wait 30 real minutes, say "Ingredients again"
 - Take the special to Taik'pae to complete the first step
 
 - Taik'pae will ask for:
-  - 1 Lucky coin
-  - 1 Pink Mugunghwa
-  - 1 Pebble
-  - 3 Fine Metal
+  - 1 Lucky coin - Mythic rabbit bosses
+  - 1 Pink Mugunghwa - Walk around Tangun (4, 217)
+  - 1 Pebble - Walk around Trapper's Paradise (9, 5), found at Wilderness (53, 34)
+  - 3 Fine Metal - [Smelting](economy/crafting?id=smelting)
 - Bring him everything, then talk to him again about Distillation
 
 - Talk to Panaeda in Tangun Potion Room (15, 115)
 - Bring Panaeda:
-  - 1 Star powder
-  - 1 Moon powder
-  - 1 Sun powder
-  - 1 Purified water
-  - 3 Stardrop
-  - 1 Powdered yellow amber
+  - 1 Star powder - Kugnae arena shop
+  - 1 Moon powder - Kugnae arena shop
+  - 1 Sun powder - Kugnae arena shop
+  - 1 Purified water - Mythic tiger boss (requires falling into Revenge)
+  - 3 Stardrop - e.g. Arctic Ogres
+  - 1 Powdered yellow amber - [Alchemy](economy/crafting?id=alchemy)
 - Talk to her again, wait 30 real minutes, and collect Frothy Distiller
 - Return to Taik'pae, talk to him to give him the distiller, then return in ten real days!
 
 - Taik'pae will ask you for 120 pieces of hot coal, see below.
 - Then, bring to Taik'pae:
-  - 1 Titanium Lance
-  - 2 Gold ore
-  - 2 Silver ore
-  - 1 Well crafted dark amber
+  - 1 Titanium Lance - 63 Mantis/Ogres
+  - 2 Gold ore - [Mining](economy/crafting?id=mining), rarely
+  - 2 Silver ore - [Mining](economy/crafting?id=mining), rarely
+  - 1 Well crafted dark amber - [Gemcutting](economy/crafting?id=gemcutting)
 - Finally, pay a chunk of coins (scales with mark) to Mananana downstairs for a diamond
 - Return to Taik'pae to collect your weapon
 

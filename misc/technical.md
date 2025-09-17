@@ -18,7 +18,7 @@ NTK's copy of the dbghlp.dll is trying to invoke a function in your graphics dri
 
 ![MSVCR error](img/mscvr.jpg)
 
-Fix this by installing the Visual C++ 2010 Redistributable Package. You can find this linked from the same page as the client download on <www.nexustk.com>.
+Fix this by installing the Visual C++ 2010 Redistributable Package. You can find this linked from the same page as the client download on https://www.nexustk.com.
 
 ## "MapViewOfFile"
 
@@ -40,7 +40,7 @@ This is a tricky one. It seems to apply mostly to people who already had the cli
 
 There are many possible causes of connection issues.
 
-Blocked ports are a common one. Commercial / hotel networks will often block nonstandard ports. NTK requires ports 2000 through 2004, as far as I am aware. You can check your outward port access with <http://portquiz.net:2000/> etc, adjusting the port in the URL to confirm. If you fail to fetch this page on any port, that port is likely blocked. If you can't do anything about this, you can use a proxy or vpn on a non-blocked port to tunnel NTK's traffic past the block. Free http proxies can be found from places like <https://proxyscrape.com/free-proxy-list> and plugged into windows proxy settings - but don't expect any privacy or connection quality when using something like this! A reputable paid service may be more advisable.
+Blocked ports are a common one. Commercial / hotel networks will often block nonstandard ports. NTK requires ports 2000 through 2004, as far as I am aware. You can check your outward port access with http://portquiz.net:2000/ etc, adjusting the port in the URL to confirm. If you fail to fetch this page on any port, that port is likely blocked. If you can't do anything about this, you can use a proxy or vpn on a non-blocked port to tunnel NTK's traffic past the block. Free http proxies can be found from places like https://proxyscrape.com/free-proxy-list and plugged into windows proxy settings - but don't expect any privacy or connection quality when using something like this! A reputable paid service may be more advisable.
 
 ## Other startup issues
 
