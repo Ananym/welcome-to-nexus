@@ -66,6 +66,9 @@ _Expect this page to grow..._
 - "Bonsu"
   - Bonus [Carnage](community/carnage-events.md) event, i.e. held off-schedule
 
+- Sades
+  - Crusades, a specific type of balanced carnage event (players reduced to same base stats)
+
 - Sc
   - Scourge, a curse spell
   - (Looking for / aiming to join a group as someone focusing on cursing mobs)
