@@ -8,7 +8,7 @@ _Expect this page to grow..._
 |----------|-------------|--------|--------|---------|--------|
 | **Warrior**  |  Chung Ryong | Fury | Assault | Barrage | Champion |
 | **Warrior** | Barbarian | Berserker | Savage | Beast | Behemoth |
-| **Warrior** | Do | HwarangDo | Sulsa-Do | Jeong-Do, Jung-Do | Wonhwa |
+| **Warrior** | Do | HwarangDo | Sulsa-Do | Jeong-Do | Wonhwa |
 | **Warrior** | Chongun | Sonbae | Kysh'itra | Musadan | Samurang |
 | **Rogue** | Baekho | Cunning | Swift | Shikari | Marauder |
 | **Rogue** | Spy | Mercenary | Assassin | Saboteur | Emissary |
@@ -36,6 +36,7 @@ _Expect this page to grow..._
 - WS
   - World shout, message to the entire game
   - Available via kruna consumables or once hourly via the free world shout orb from the inns
+  - OR, "Wisdom star", a celebration event with bonus exp available (these days, costs [daily coins](economy/daily-coins.md))
 
 - Whisper
   - Direct message a player, on the " key
@@ -97,7 +98,7 @@ _Expect this page to grow..._
 ## Items
 
 - SotB
-  Skull of the Beast, high Dam helm
+  - Skull of the Beast, high Dam helm
 
 - Envelopes
   - [Kruna](economy/kruna.md) item used for storing experience beyond the natural limit
@@ -105,16 +106,16 @@ _Expect this page to grow..._
   - (Enveloping: collecting **many** envelopes to later sell all at once to skip parts of the game)
 
 - FS
-  Flame spear, warrior asmodi weapon
+  - Flame spear, warrior asmodi weapon
 
 - FL
-  Featherlight, rogue asmodi weapon
+  - Featherlight, rogue asmodi weapon
 
 - FB
-  Flameblade, fancy cosmetic weapon
+  - Flameblade, fancy cosmetic weapon
 
 - SWP
-  Sun war plate, absolute best warrior armor
+  - Sun war plate, absolute best warrior armor
 
 - TP, TP Set
   - Weapon from [Taik'pae](quests/etched-weapons.md)
