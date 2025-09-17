@@ -58,6 +58,7 @@
   - [Gogoon](misc/gogoon.md)
   - [Misc Tips](misc/misc-tips.md)
   - [Voice Commands](misc/voice-commands.md)
+  - [Terminology](misc/terminology.md)
   - [Technical Troubleshooting](misc/technical.md)
   - [TODO](misc/todo.md)
 
