@@ -4,7 +4,7 @@ NexusTK has a rudimentary in-game forum found by pressing 'b'. This will bring u
 
 Not all boards will be available immediately - several only unlock at level 50(?).
 
-Some boards, such as the law boards, aren't open for public post and are only there for public information.
+Some boards, such as the law boards, aren't open for public posting and are only there for public information.
 
 Your character's personal mailbox is also found in this list.
 
@@ -19,7 +19,7 @@ Your character's personal mailbox is also found in this list.
 - **Community Events**: Used to advertise upcoming clan, subpath, ministry and carnage events.
 - **Dreams**: For players to post suggestions for game improvement. Responses are rare.
 - **Your clan board**: After joining a clan, you can access your clan-specific board here.
-- **Scum**: Readonly board where people punished for breaking the law are (sometimes) named
+- **Scum**: Read-only board where people punished for breaking the law are (sometimes) named
 - **Rambling Thoughts**: "Everything else", general discussion, somewhat more relaxed rules than Community
 
 Some of these boards can also be accessed via http://boards.nexustk.com/ (no https version).

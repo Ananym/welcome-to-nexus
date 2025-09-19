@@ -12,7 +12,7 @@ Only 'S' value is used - 'L' value has no known purpose.
 
 You can only ever have one fury multiplier and one ingress multiplier active at a time.
 
-Because Dam's flat bonus is not multiplied by ingress, its effect quickly becomes insigifcant as weapon damage and ingress values increase throughout progression. Rogues have lower ingress values and higher multipliers, so they get slightly more mileage out of Dam.
+Because Dam's flat bonus is not multiplied by ingress, its effect quickly becomes insignificant as weapon damage and ingress values increase throughout progression. Rogues have lower ingress values and higher multipliers, so they get slightly more mileage out of Dam.
 
 This table shows the damage boost from equipping a Skull of the Beast on various characters in standard gear:
 

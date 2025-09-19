@@ -20,7 +20,7 @@ Many marks originate from historic events, in which case, 'you had to be there'.
 
 ## Subpath Quest marks
 
-Many subpaths offer a number of community quests - some ran by guides, some implemented as NPC quests - which include legend marks as a reward. Not all of these may be available at any given time. You can explore the Subpaths section of the [bulletin board](community/boards.md) to see what's on offer.
+Many subpaths offer a number of community quests - some run by guides, some implemented as NPC quests - which include legend marks as a reward. Not all of these may be available at any given time. You can explore the Subpaths section of the [bulletin board](community/boards.md) to see what's on offer.
 
 ## Subpath Event marks
 

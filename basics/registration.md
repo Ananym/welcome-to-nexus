@@ -8,7 +8,7 @@ As you may have noticed by now, you do not need a NexusTK account to make a char
 - Cannot hold many items beyond the necessities (can't hold some of those, either)
 - Limited in how many coins you can carry
 - Cannot enter subpath areas without help
-- Cannot access the <99 experience booster from [Minor Quests](character/minor-quests.md)(Little Wony's Modulator)
+- Cannot access the <99 experience booster from [Minor Quests](character/minor-quests.md) (Little Wony's Modulator)
 
 ## How to Register
 

@@ -1,6 +1,6 @@
 # Etched Weapons
 
-The Etched Weapons are generally decent weapons that can be reliably acquired via repeatable quest, allowing players to equip themselves without needing to deal with a huge price tag. However, the quest itself is involves a ten day real time wait and some tedious steps. Some trade-loving players will sell you a full set of the required items for a lump sum. The weapons themselves (acquired this way) cannot be traded.
+The Etched Weapons are generally decent weapons that can be reliably acquired via repeatable quest, allowing players to equip themselves without needing to deal with a huge price tag. However, the quest itself involves a ten day real time wait and some tedious steps. Some trade-loving players will sell you a full set of the required items for a lump sum. The weapons themselves (acquired this way) cannot be traded.
 
 Like almost all weapons worth using, these will Break on Death and require [kruna](economy/kruna.md) item protections to hunt with.
 

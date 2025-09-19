@@ -5,7 +5,7 @@ Restore is a poet-only spell acquired through a quest. Restore is a powerful man
 ## Requirements
 
 - Level 99
-- Speaks Dog language (follow the start of the [NPC Subpath](character/npc-subpath.md]) guide)
+- Speaks Dog language (follow the start of the [NPC Subpath](character/npc-subpath.md) guide)
 - Trigram Keyset for yourself and helper
 
 ## Recommendations
@@ -33,7 +33,7 @@ Make sure you're grouped with your helper, then run/fight your way through the p
 - Make sure to keep HB up at all times, as the Tigers do cast damaging spells at times.
 - Consider using a mount item before entering each room to help you slip through.
 - Otherwise, normal poet play - you will need to atone both yourself and your ally when cursed, remove blind when blinded, scourge targets that need to be killed to pass through.
-- If you are poisoned, you can purge it using remove poison, or you can ignore it and communicate using group chat (whisper to !!) to bypass the poison's affect on speech.
+- If you are poisoned, you can purge it using remove poison, or you can ignore it and communicate using group chat (whisper to !!) to bypass the poison's effect on speech.
 
  Reach the room "Rose Palace" (which is not the final room). Find Storm (he's a white, slightly pink-hued Tiger wearing brown clothing - confirm his name by rightclicking). Scourge him, let your helper take his attention (it helps not to run away from him!) and help your helper kill him.
 

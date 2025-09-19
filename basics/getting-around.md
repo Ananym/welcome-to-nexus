@@ -33,5 +33,5 @@ Experienced adventurers can traverse the kingdoms in the blink of an eye. Here a
   Anyone can ride horses roaming the kingdoms. A reliable source is the northwest corner of Kugnae. Face the horse and press 'r'.
 
 * **Permanent mounts**
-  [Registered](basics/registration.md) characters can hold permanent mount-summoning items from the [Kruna store](misc/kruna.md). Some are tradable and highly valued, but work exactly the same. Clans or friends may give or lend you a basic mount.
+  [Registered](basics/registration.md) characters can hold permanent mount-summoning items from the [Kruna store](economy/kruna.md). Some are tradable and highly valued, but work exactly the same. Clans or friends may give or lend you a basic mount.
 

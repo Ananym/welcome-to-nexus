@@ -26,7 +26,7 @@ _Please appreciate that NexusTK's core systems were designed in ~1996 for a very
 
 ## Stat Priorities
 
-For the most part, weapon damage is valued most highly for warriors and rogues while they hunt using basic swings. AC is still important for keeping incoming damage to a managable level, especially for warriors who take penalties to AC while raging.
+For the most part, weapon damage is valued most highly for warriors and rogues while they hunt using basic swings. AC is still important for keeping incoming damage to a manageable level, especially for warriors who take penalties to AC while raging.
 
 Beyond that, AC is paramount in the arena. The way AC scales means each point of negative AC is more relatively impactful than the last, so the strongest possible defensive items are very highly prized.
 

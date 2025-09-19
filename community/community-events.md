@@ -1,6 +1,6 @@
 # Community Events
 
-You may notice Community Events being advertised via global messages or on the [Community Events board](community/boards.md). Attend them! Community events are among the best things NexusTK has to offer, when ran well. These events are typically held by clans, subpaths, or ministries, and can be extremely lucrative if you win. They cover a range of games from casual to serious, luck to skill.
+You may notice Community Events being advertised via global messages or on the [Community Events board](community/boards.md). Attend them! Community events are among the best things NexusTK has to offer, when run well. These events are typically held by clans, subpaths, or ministries, and can be extremely lucrative if you win. They cover a range of games from casual to serious, luck to skill.
 
 You may not be equipped to participate in every event, as some depend on knowing certain spells. You can always ask the host if the event is appropriate for you via whisper. Even if you can't participate yourself, it's still entertaining to spectate and chat.
 

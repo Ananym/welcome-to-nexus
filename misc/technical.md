@@ -4,7 +4,7 @@
 
 There's a display settings utility in the NexusTK install directory that can toggle between fullscreen, windowed at different resolutions, and between different rendering methods. See what works best for you.
 
-Windows Compatability settings for the client exe can also help with some display issues - try Windows 8 compatability mode and "use legacy display ICC color management".
+Windows Compatibility settings for the client exe can also help with some display issues - try Windows 8 compatability mode and "use legacy display ICC color management".
 
 Within windows compatability settings you can also override standard dpi scaling settings, as these don't always play nicely with NTK's rendering, particularly for fonts.
 

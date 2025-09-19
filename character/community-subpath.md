@@ -6,7 +6,7 @@ Both PC and NPC subpaths offer spells beyond the regular path spell list. Some o
 
 PC Subpaths also have their own unique spells - some of these are just for fun, some of these do provide utility in hunting or arena events. These spells are to at least some extent considered secret, and you will not find them listed publicly.
 
-(At the time of writing, PC warriors have extra vita attacks useful in arenas but much worse swing damage at Sam-san and beyond than NPC warriors. This kind of discrepency is not shared by any other path.)
+(At the time of writing, PC warriors have extra vita attacks useful in arenas but much worse swing damage at Sam-san and beyond than NPC warriors. This kind of discrepancy is not shared by any other path.)
 
 Participating in a PC subpath is a very rewarding experience - you'll develop friendships and specialised knowledge, and enjoy some unique playstyle benefits. However, community subpaths ask a lot in return. You'll need to form a relationship with a subpath guide and undergo training to enter, and you'll likely be expected to be able to act in-character. The kinds of activities involved in training and the level of strictness around roleplaying varies among the subpaths.
 

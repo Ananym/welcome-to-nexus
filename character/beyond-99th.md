@@ -2,7 +2,7 @@
 
 At your 99th insight, you will be able to improve your vitality, mana, might, grace and will in exchange for experience. Watch out - if you perish at level 99, you will lose half of all the experience you are carrying.
 
-Your next steps from here involve taking [Marks](character/marks.md), starting with il-san which can be taken at 160k vitality or 80k mana. However, you should familiarise yourself with the mark requirements early - stats are rarely the obstacle for higher marks, and knowing the requirements in advance helps a lot!
+Your next steps from here involve taking [Marks](character/marks.md), starting with il-san which can be taken at 160k vitality or 80k mana. However, you should familiarize yourself with the mark requirements early - stats are rarely the obstacle for higher marks, and knowing the requirements in advance helps a lot!
 
 ## Subpaths
 

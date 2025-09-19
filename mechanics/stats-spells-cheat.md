@@ -62,7 +62,7 @@ The warrior spell Hoche and Scrolls of protection additionally grant a very mino
 
 ## Rage and Durability
 
-Chung Ryong's Rage (and counterparts) cause increased weapon durability loss. Your weapon will lose durability equal to Rage's current multiplier times the number of targets hit. This makes more fragile wepaons like skullies hard to use once you can cast higher tier rages.
+Chung Ryong's Rage (and counterparts) cause increased weapon durability loss. Your weapon will lose durability equal to Rage's current multiplier times the number of targets hit. This makes more fragile weapons like skullies hard to use once you can cast higher tier rages.
 
 ## Warrior Overflow
 

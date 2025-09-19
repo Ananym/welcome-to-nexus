@@ -24,7 +24,7 @@ Buy (many) axes from Splinter at 136/188 in the Wilderness and swing them at tre
 
 ### Mining
 
-Buy a pick and shovel from Thane at 185/20 in the Wilderness. Walk around the rocky ground, dropping and picking up your shovel on every spot, until a popup prompts you to drop and pick up your axe. Clans cannot currently have mining fields.
+Buy a pick and shovel from Thane at 185/20 in the Wilderness. Walk around the rocky ground, dropping and picking up your shovel on every spot, until a popup prompts you to drop and pick up your pick. Clans cannot currently have mining fields.
 
 ### Fishing
 
@@ -66,15 +66,15 @@ Acquire a bunch of metal. Visit a Kingdom smith. Say 'metal'. If prompted for mo
 
 ### Carpentry
 
-Acquire a bunch of wood. Visit Splinter in the wilderness at 136/188 and say 'wood'. If prompted for more materials, saying 'no' will produce Wood Scraps, which have their own uses. Weaving tools are considered the most efficient way to advance. High rank carpenters can produce several ranks of polearm.
+Acquire a bunch of wood. Visit Splinter in the wilderness at 136/188 and say 'wood'. If prompted for more materials, saying 'no' will produce Wood Scraps, which have their own uses. Weaving tools are considered the most efficient way to advance. High rank carpenters can produce several ranks of polearms.
 
 ### Tailoring
 
-Acquire a bunch of cloth. Visit the tailor shop in Sanhae village and say 'cloth'. High rank tailors can produce several ranks of defensive fan.
+Acquire a bunch of cloth. Visit the tailor shop in Sanhae village and say 'cloth'. High rank tailors can produce several ranks of defensive fans.
 
 ### Jewelling
 
-Acquire a bunch of crafted amber, as well as an enormous amount of coins. Visit Sel in the wilderness at 46/42 and say 'jewel'. Each attempt will cost coins as well as amber. High rank jewellers can make a wide variety things, of which only diadems are seriously valuable.
+Acquire a bunch of crafted amber, as well as an enormous amount of coins. Visit Sel in the wilderness at 46/42 and say 'jewel'. Each attempt will cost coins as well as amber. High rank jewellers can make a wide variety of things, of which only diadems are seriously valuable.
 
 ## Mental Skills
 

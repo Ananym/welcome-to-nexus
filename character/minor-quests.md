@@ -2,7 +2,7 @@
 
 Minor quests are randomly generated quests that involve you tracking down a specific creature and slaying one of their number.
 
-- To accept a minor quest, say "quest" out loud to your path guildmaster (Clan NPCs or the Buya Incubator attendent can also help with this)
+- To accept a minor quest, say "quest" out loud to your path guildmaster (Clan NPCs or the Buya Incubator attendant can also help with this)
 - You can look up the location of your target at [NexusAtlas](https://nexusatlas.com/quests/minorquestlocations.php)
 - You can confirm the target's name in your status box with ';' while facing or Right click (shift+r to toggle right click look)
 - Poets might struggle to deal with bigger targets by themselves

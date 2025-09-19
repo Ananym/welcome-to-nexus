@@ -2,7 +2,7 @@
 
 ## Overview
 
-Whether it's to improve your karma or to satisfy the requirements for your third [mark](character/mark.md), you will need to complete some Mythic Alliances sooner or later.
+Whether it's to improve your karma or to satisfy the requirements for your third [mark](character/marks.md), you will need to complete some Mythic Alliances sooner or later.
 
 You can complete 6 lesser alliances, followed by 3 greater alliances. The third mark of strength, Sam-san, requires all three greater alliances to be completed. Beyond that, you can take on a Sublime alliance - though these currently serve no purpose besides additional karma.
 

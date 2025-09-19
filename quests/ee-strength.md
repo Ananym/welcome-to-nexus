@@ -22,4 +22,4 @@ When you go to turn in a quest, the entire kill list is scanned for the right sp
 
 While you stay logged in, the kill tracker has no practical length limit. However, when you log out, or go through a server transition (e.g. entering ATG, entering a carnage) the kill tracker is truncated to only the top ten entries.
 
-As such, you could complete Ee-strength in a single shot if you stayed logged in without changing server for every single kill (Tested!). Of course, this is not realistic for most. Bearing in mind the two boss species of each mythic cave plus the several smaller species, if you want to be sure you never lose credit for a boss kill during ee strength you should return to Bonhwa after every two pairs of bosses to turn them in.
+As such, you could complete Ee-strength in a single shot if you stayed logged in without changing server for every single kill (Tested!). Of course, this is not realistic for most. Bearing in mind the two boss species of each mythic cave plus the several smaller species, if you want to be sure you never lose credit for a boss kill during ee strength you should return to Bon-hwa after every two pairs of bosses to turn them in.

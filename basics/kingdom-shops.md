@@ -48,7 +48,7 @@ A comprehensive list of shops and services found in the kingdoms of NexusTK.
 - Moon paper for scribing (very expensive)
 
 ### Messenger Shops
-- Buy stationary: paper, ink, books, scrolls
+- Buy stationery: paper, ink, books, scrolls
 - Send items to others via the parcel system
 - Buy or cash-in cheques
 

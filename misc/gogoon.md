@@ -24,7 +24,7 @@ For the moment I'm only going to cover the one you came here for.
 
 ### Important Letter
 
-Once in Gogoon, find and speak to Zuhair in the north side of the village, 66/106. Talk to him, agree to deliver his letter. (Saying No may involve a long ooldown period? I don't remember if this was addressed..)
+Once in Gogoon, find and speak to Zuhair in the north side of the village, 66/106. Talk to him, agree to deliver his letter. (Saying No may involve a long cooldown period? I don't remember if this was addressed..)
 
 You now need to visit every NPC in the village in reverse alphabetical order, which I am going to shamefully copy and paste from [NexusAtlas](https://www.nexusatlas.com/quests/gogoon-npc-largequests.php):
 

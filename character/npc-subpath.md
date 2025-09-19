@@ -2,7 +2,7 @@
 
 Join a totem subpath if you have no interest in joining one of the community subpaths. The totem subpaths are quick to join and ask very little of you, but don't have the same to offer in terms of spell variety or social opportunities.
 
-(At the time of writing, PC warriors have extra vita attacks useful in arenas but much worse swing damage at Sam-san and beyond than NPC warriors. This kind of discrepency is not shared by any other path.)
+(At the time of writing, PC warriors have extra vita attacks useful in arenas but much worse swing damage at Sam-san and beyond than NPC warriors. This kind of discrepancy is not shared by any other path.)
 
 To begin, you'll need to speak the language of dogs.
 

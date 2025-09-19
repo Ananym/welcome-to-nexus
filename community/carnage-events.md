@@ -1,6 +1,6 @@
 # Carnage Events
 
-The Carnage department host a number of competitive games for the community, both on a regular schedule and randomly throughout the day. You can find the schedule posted on the boards outside the various Kingdom arenas and Buyan stables.
+The Carnage department hosts a number of competitive games for the community, both on a regular schedule and randomly throughout the day. You can find the schedule posted on the boards outside the various Kingdom arenas and Buyan stables.
 
 ## Riches
 
