@@ -74,5 +74,5 @@ Tips:
 - Personally, I like withdrawing one coal/dust at a time. More keypresses, but by avoiding dealing with quantity, every iteration is identical and more mindless.
 - Clear slot a and b in inventory
 - Set text macros to "/s Give my Coal back" and "/s Give my Flash dust back"
-- Hit both macros, make your hot coal
+- Hit both macros, make your hot coal (use tab to move button selection to 'ok' without needing the mouse)
 - Either haul each full stack to Taik'pae as you go, or drop it where you are and haul at the end.
