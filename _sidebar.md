@@ -53,11 +53,16 @@
   - [Restore](quests/restore.md)
   - [Taik'pae's Etched Weapons](quests/etched-weapons.md)
 
+<!-- - **Carnages - Very WIP**
+
+  - [Client & Server Behaviour](behaviour.md) -->
+
 - **Miscellaneous**
 
   - [Gogoon](misc/gogoon.md)
   - [Misc Tips](misc/misc-tips.md)
   - [Voice Commands](misc/voice-commands.md)
+  - [Client/Server Behaviour](misc/client-server-behaviour.md)
   - [Terminology](misc/terminology.md)
   - [Technical Troubleshooting](misc/technical.md)
   - [TODO](misc/todo.md)

@@ -2,7 +2,7 @@
 
 If you're just starting out, this page won't matter to you yet! However, when you see people mention orbs, here's what's going on.
 
-Orbs are temporary items that cast spells without being consumed, providing significant advantages in combat and utility. There are several different categories of orb, with different costs and uses.
+Orbs are temporary items that cast spells without being consumed, providing significant advantages in combat and utility. There are several different categories of orb, with different costs and uses. No orbs can be used in [Carnages](community/carnage-events.md).
 
 ## Using Orbs
 
@@ -28,11 +28,11 @@ Some paths get more use out of these than others.
 
 ## Mage Orbs
 
-Mages specifically have access to a handful of orbs that don't have the damaged drawbacks, effectively acting as additional spells. Mages should pick these up when they become useful, but they do need to be re-collected regularly. They are free.
+Mages specifically have access to a handful of completely free orbs that don't have the damaged drawbacks, effectively acting as additional spells. Mages should pick these up when they become useful, but they do need to be re-collected regularly.
 
 These include:
 
-- Invoke (another one, on separate lower cooldown)
+- Invoke (an additional invoke, on a separate lower cooldown)
 - Scourge (armor curse equivalent to poet scourge but slower to cast)
 - Sul slash (a powerful single shot attack, similar to hellfire, scales differently)
 - Ripple (inflicts a status that causes some overkill damage to spread to nearby enemies)
@@ -67,7 +67,7 @@ You should be aware of these premium orbs, but a few others exist.
   - Self-Restore - mana-based self-heal (7d duration)
 
 - **Poet**
-  - Restore - reduced mana cost restore (7d duration)
+  - Restore - additional restore with reduced mana cost (7d duration)
 
 Value for money varies by path:
 
