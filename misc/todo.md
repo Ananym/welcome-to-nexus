@@ -20,12 +20,10 @@ Ideally Nmail/discord Astrael with some bullet points (or full text if you're fe
 
   Roleplay conventions in NTK, the bar for subpaths, advice on developing a character, accessing community roleplay, value of subpath public quests
 
-- Taik'pae
-
-  Written, but still needs item explanations
-
 - Vita attack scaling details
 
-- Server tick rate for movement, spells, healouts, etc
+- Trading
+
+  Explanation of Exchange, Mass Exchange
 
 - ??? Suggest pages!
