@@ -4,7 +4,7 @@ Gogoon is a tropical island off the east coast. The tribespeople offer quests wh
 
 ## Reaching Gogoon via Ferry
 
-The original way to reach Gogoon is via the Ferry. Travel east of Kugnae to Dae Shore, then find the entrance to the ferry in the northwest corner. 
+The original way to reach Gogoon is via the Ferry. Travel east of Kugnae to Dae Shore, then find the entrance to the ferry in the northwest corner.
 
 The ferry departs every fifteen minutes - crew will appear and act out a scene in the leadup to the journey. The journey itself takes a few minutes.
 
@@ -12,7 +12,7 @@ While the ferry usually reaches the island, occasionally you will be shipwrecked
 
 ## Watersocks Shortcut
 
-A shortcut was later added to reach Gogoon in a hurry. Again travel to Dae shore, then to the southwest corner, where you can find a small boat to Kinung. On the east shore of Kinung (88,60) is a captain who will take you to Gogoon instantly if you can supply a green potion (southeast Kugnae alchemist shop) and 10k coins.
+A shortcut was later added to reach Gogoon in a hurry. Again travel to Dae shore, then to the southeast corner, where you can find a small boat to Kinung. On the east shore of Kinung (88,60) is a captain who will take you to Gogoon instantly if you can supply a green potion (southeast Kugnae alchemist shop) and 10k coins.
 
 ## Getting home
 
