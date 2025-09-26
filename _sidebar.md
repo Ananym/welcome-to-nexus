@@ -36,9 +36,12 @@
   - [Bulletin Boards](community/boards.md)
   - [Finding Help](community/finding-help.md)
   - [Finding a Clan](community/finding-clan.md)
-  - [Carnage Events](community/carnage-events.md)
   - [Community Events](community/community-events.md)
   - [Legend Marks](community/legend.md)
+
+- **Carnages**
+  - [Carnage Events](carnages/carnage-events.md)
+  - [Carnage Combat Tips](carnages/carnage-tips.md)
 
 - **Economy**
 

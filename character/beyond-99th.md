@@ -10,7 +10,7 @@ Make sure you investigate subpaths, as some paths - fighters in particular - req
 
 To join an [NPC subpath](character/npc-subpath.md), or learn the warrior & rogue fighting techniques of a community subpath, you must sacrifice one billion experience, which you'll have already by the time you reach level 99. Be careful not to die or spend all your experience, or it may be a struggle to recover this amount!
 
-If you do find yourself in this situation, you can pick up a Bringer's Gift by winning a [Riches carnage event](community/carnage-events.md). The Bringer's gift is available to anyone of the 99th insight and immediately awards 1b experience.
+If you do find yourself in this situation, you can pick up a Bringer's Gift by winning a [Riches carnage event](carnages/carnage-events.md). The Bringer's gift is available to anyone of the 99th insight and immediately awards 1b experience.
 
 ## Spending experience
 

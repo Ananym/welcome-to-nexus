@@ -57,7 +57,7 @@ This mark has several taxing trials.
 
 - The trial of wisdom requires that you have the 5th level of Sage. Sage is first available from the wilderness sage (125/7) at level 90 at a cost of 100k, and is upgradable every 45 real days thereafter. It is recommended that you learn sage asap and keep on top of the wait timer, as this is often a significant barrier for aspiring sam-sans.
 
-- The trial of skill requires that you amass 60 [carnage](community/carnage-events.md) wins, with at least 5 of each type. Acquaint yourself with the carnage schedule, look out for rapid one-round line-ups on Saturdays, look out for free wins on holidays, look out for bonuses throughout the day. Fox hunts especially are quick to attend.
+- The trial of skill requires that you amass 60 [carnage](carnages/carnage-events.md) wins, with at least 5 of each type. Acquaint yourself with the carnage schedule, look out for rapid one-round line-ups on Saturdays, look out for free wins on holidays, look out for bonuses throughout the day. Fox hunts especially are quick to attend.
 
 - The trial of strength requires that you complete all 6 possible [lesser alliances](character/mythic-alliances.md) and all 3 possible [greater alliances](character/mythic-alliances.md). This is a major undertaking. At the least, it will provide you with all the karma you require for the mark. Tackling some alliances early on can make this task less daunting.
 

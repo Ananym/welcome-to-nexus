@@ -2,7 +2,7 @@
 
 If you're just starting out, this page won't matter to you yet! However, when you see people mention orbs, here's what's going on.
 
-Orbs are temporary items that cast spells without being consumed, providing significant advantages in combat and utility. There are several different categories of orb, with different costs and uses. No orbs can be used in [Carnages](community/carnage-events.md).
+Orbs are temporary items that cast spells without being consumed, providing significant advantages in combat and utility. There are several different categories of orb, with different costs and uses. No orbs can be used in [Carnages](carnages/carnage-events.md).
 
 ## Using Orbs
 

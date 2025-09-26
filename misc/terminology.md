@@ -62,7 +62,7 @@ _Expect this page to grow..._
 
 - FH
 
-  - [Fox Hunt](community/carnage-events.md)
+  - [Fox Hunt](carnages/carnage-events.md)
 
 - LMA
 
@@ -75,7 +75,7 @@ _Expect this page to grow..._
 
 - "Bonsu"
 
-  - Bonus [Carnage](community/carnage-events.md) event, i.e. held off-schedule
+  - Bonus [Carnage](carnages/carnage-events.md) event, i.e. held off-schedule
 
 - Sades
 
