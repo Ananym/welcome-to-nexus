@@ -44,9 +44,9 @@ Some ways to bolster your karma are only available once. These include:
 - Aiding [Chu Rua](https://www.nexusatlas.com/quests/churua.php)
 - Talking to Majhum about the Dusk Shaman during the [Nagnag armory quest](https://www.nexusatlas.com/quests/nagnagsshieldsquest.php) (reaching this point technically does not require completing your path's Nagnang Guild quest)
 - Weaving a magical net during the Wind armor quest
-- Specializing in a manufacturing skill
-- The nonrepeatable quests on Gogoon island, particularly [Zuhair's Important Letter](misc/gogoon.md)
-- Mythic alliances, of which you can complete 6 Lessers, 3 Majors, and 1 Sublime
+- Specializing in a [manufacturing skill](economy/crafting.md)
+- The nonrepeatable quests on Gogoon island, particularly [Zuhair's Important Letter](misc/gogoon.md) (grants many pirate coins)
+- [Mythic alliances](character/mythic-alliances.md), of which you can complete 6 Lessers, 3 Majors, and 1 Sublime
 
 In general, aiding Chu Rua, talking to Majhum, and finishing the Important Letter quest will give you enough karma / pirate coins to reach Ox, which is an important breakpoint for the watcher's blessing required by [NPC subpaths](character/npc-subpath.md). You may wish to delay your path celestial armor quests until after receiving this blessing, as those quests do consume karma to complete.
 
@@ -60,5 +60,5 @@ Other sources of karma are repeatable. These are generally small in value. Examp
 - Saying "Happy birthday" to Maya outside Kugnae's SunMoon clan (weekly)
 - Minor quests, randomly
 - While spending experience, randomly
-- Repeatable gathering quests on Gogoon
+- Repeatable gathering quests on Gogoon (grants pirate coins)
 - Some repeatable subpath community quests, e.g. the Monk Spiritual Journey quest

@@ -26,7 +26,11 @@ For the moment I'm only going to cover the one you came here for.
 
 Once in Gogoon, find and speak to Zuhair in the north side of the village, 66/106. Talk to him, agree to deliver his letter. (Saying No may involve a long cooldown period? I don't remember if this was addressed..)
 
-You now need to visit every NPC in the village in reverse alphabetical order, which I am going to shamefully copy and paste from [NexusAtlas](https://www.nexusatlas.com/quests/gogoon-npc-largequests.php):
+You now need to visit every NPC in the village in reverse alphabetical order and say "Important letter" out loud near them. They will take about two minutes to read the letter - then say "Important letter" again to take back the letter and proceed to the next guard.
+
+You can be a little lazier by shouting instead of just saying "Important letter", using the ! key, which will let you interact with guards off screen. You don't have to do this in one sitting, but there's no way to check where you got up to, so keep a note and don't lose your important letter!
+
+I am going to shamefully copy and paste the list of guards from [NexusAtlas](https://www.nexusatlas.com/quests/gogoon-npc-largequests.php):
 
 1. Zuhair (66,105) - Gives you an Important Letter
 2. Yaqub (34,114)
@@ -55,4 +59,4 @@ You now need to visit every NPC in the village in reverse alphabetical order, wh
 25. Bakile (6,10 inside Aiata's Tavern at 38,130)
 26. Atiqu (49,155)
 
-Each NPC will ask you to wait a few minutes before you can talk to them again to take the letter back. Each visit will net you one pirate coin, for a healthy 25 pirate coins once you sit through the whole thing. You should probably spend most if not all of this on [karma](character/karma.md).
+Each visit will net you one pirate coin, for a healthy 25 pirate coins once you sit through the whole thing. You should probably spend most if not all of this on [karma](character/karma.md).

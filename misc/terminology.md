@@ -103,7 +103,14 @@ _Expect this page to grow..._
   - Engraved items cannot be banked, and are available with \*\*, ||, or <> markings
 
 - CE
+
   - [Community events board](community/boards.md)
+
+- Pirate Coins
+
+  - Character-bound tokens received from quests that can be used to redeem items or karma
+  - Say "pirate coins" to a kingdom librarian to check or trade your pirate coins
+  - See [karma](character.md) and [Gogoon](misc/gogoon.md)
 
 ## Locations
 
