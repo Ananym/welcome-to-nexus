@@ -59,4 +59,4 @@ I am going to shamefully copy and paste the list of guards from [NexusAtlas](htt
 25. Bakile (6,10 inside Aiata's Tavern at 38,130)
 26. Atiqu (49,155)
 
-Each visit will net you one pirate coin, for a healthy 25 pirate coins once you sit through the whole thing. You should probably spend most if not all of this on [karma](character/karma.md).
+Each visit will net you one pirate coin, for a healthy 24 pirate coins once you sit through the whole thing. You should probably spend most if not all of this on [karma](character/karma.md).
