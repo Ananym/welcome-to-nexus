@@ -4,6 +4,9 @@ This page tracks content still to be written.
 I'm happy to take additional info for anything in this guide, including pages on the todolist!
 Ideally Nmail/discord Astrael with some bullet points (or full text if you're feeling brave)
 
+- Path-specific nagnang guild quests
+   Tips and avoiding breakages
+
 - Elixirs & Fox hunts
 
   Series of tips covering suggestions for improving your play in these events

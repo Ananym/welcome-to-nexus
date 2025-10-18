@@ -53,6 +53,7 @@
 
 - **Specific Quests**
 
+  - [Nagnag Armory (Shield quest)](quests/shield.md)
   - [Ee Strength](quests/ee-strength.md)
   - [Restore](quests/restore.md)
   - [Taik'pae's Etched Weapons](quests/etched-weapons.md)
