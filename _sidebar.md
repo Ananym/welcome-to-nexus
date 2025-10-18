@@ -45,6 +45,7 @@
 
 - **Economy**
 
+  - [Trading](economy/trading.md)
   - [Crafting](economy/crafting.md)
   - [Money](economy/money.md)
   - [Daily Coins](economy/daily-coins.md)
