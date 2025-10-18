@@ -131,6 +131,12 @@ _Expect this page to grow..._
   - High-end collaborative combat quest involved in taking [Sa-san](character/marks.md)
   - Located in Southern Koguryo, (52,7)
 
+- Yusa
+  - Yusa Pit, a public pk room with balancers enabled
+  - Need to remove subaccessories to enter
+  - Occasional social hangout for the pk crowd
+  - Find it in the Northwest corner of Buya's arena by east gate
+
 ## Items
 
 - SotB
