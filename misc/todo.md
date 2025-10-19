@@ -24,4 +24,12 @@ Ideally Nmail/discord Astrael with some bullet points (or full text if you're fe
 
   And implications / advice for attack rotations, stat buying, etc
 
+- "What is Nexus" landing page for nonplayers
+
+  Would be nice if we could link a media-filled page out to explain the game
+
+- Mythic boss /fall rooms
+
+  Would be great to have a properly verified data source for these, but it's a lot of work
+
 - ??? Suggest pages!
