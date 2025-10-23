@@ -128,14 +128,97 @@ _Expect this page to grow..._
   - But usually refers to the one to the west of kugnae
 
 - Houses
+
   - High-end collaborative combat quest involved in taking [Sa-san](character/marks.md)
   - Located in Southern Koguryo, (52,7)
 
 - Yusa
+
   - Yusa Pit, a public pk room with balancers enabled
   - Need to remove subaccessories to enter
   - Occasional social hangout for the pk crowd
   - Find it in the Northwest corner of Buya's arena by east gate
+
+- Sire
+  - Sire Pit, a public pk room without balancers
+  - Northeast corner of Buya's arena
+  - Less used than Yusa these days but still infamous
+
+## Positions
+
+- GM / God / Dreamweaver
+
+  - Gamemaster, Kru staff
+
+- Archons
+
+  - A team of special characters with various moderator powers.
+  - Various responsibilities
+  - Often volunteer positions
+  - Attempting to reveal an archon's player identity is illegal
+  - List of archons available on the in-game [Guide](commuinity/boards.md) board
+
+- Pawn
+
+  - Low rank archon / archon in training
+
+- Clan
+
+  - Group of players sharing a private clan hall, private chat channel
+  - Each clan is part of a specific kingdom
+  - Exception: "Horde" clan of the wilderness.
+
+- Army
+
+  - 'Special' clan representing a kingdom's dedicated military force
+  - Private barracks within the palace, has uniform equipment
+  - Responsibilities during kingdom events
+  - Only Buya and Kugnae currently have a fully implemented 'clan-style' army.
+
+- Primogen
+
+  - Head of a Clan
+
+- General
+
+  - Head of an Army
+
+- Ministry
+
+  - Team of player characters serving as political officials for a kingdom
+  - Responsible for kingdom-level roleplay and events
+
+- Tribunal
+
+  - Regular gathering of Clan leaders, ministry staff, royals, and kingdom archon.
+
+- Council
+
+  - High-ranking members of a clan
+  - Can have permission to access clan bank, grant event marks, admit new characters to the clan
+
+- Elder
+
+  - Head of a Player Subpath
+  - Some subpaths have their own title for their elder.
+
+- Guide
+
+  - High-ranking members of a player subpath
+  - Responsible for running internal quests, training new subpath walkers
+  - Many subpaths have their own term for their guides
+
+- Walker
+
+  - Standard member of a player subpath
+
+- Tutor
+
+  - Member of the Tutor team responsible for helping players to understand the game
+
+- Judge
+
+  - Member of the Judiciary team responsible for enforcing some of the in-game laws
 
 ## Items
 
@@ -171,6 +254,18 @@ _Expect this page to grow..._
   - Materials used to complete that quest
 
 - SoI, SoP
+
   - Scroll of invocation (invoke)
   - Scroll of protection (protects against curses)
   - [Consumables](basics/consumables.md) created by [Scribes](economy/crafting.md?id=scribing)
+
+- Red Pot
+
+  - Red Potion
+  - 100% heal on use, carry ten at a time, bought from the potion shop at 15k apiece
+
+- Item Protection
+
+  - [Kruna](economy/kruna.md) item
+  - Prevents a [Break-on-death](combat/death.md) item from being destroyed during death, destroying the protection instead
+  - Can be layered on an item multiple times
