@@ -1,9 +1,9 @@
 # Generate docs.txt for the Cloudflare worker
-# Concatenates all markdown files from site/ into a single file
+# Concatenates all markdown files from docs/ into a single file
 
 $scriptDir = Split-Path -Parent $MyInvocation.MyCommand.Path
 $repoRoot = Split-Path -Parent $scriptDir
-$siteDir = Join-Path $repoRoot "site"
+$siteDir = Join-Path $repoRoot "docs"
 $outputFile = Join-Path $repoRoot "worker\src\docs.txt"
 
 $output = ""

@@ -23,7 +23,7 @@ npm-debug.log*
 *.temp
 
 # Source files that shouldn't be in the docs
-site/Tutor.mht
+docs/Tutor.mht
 
 # Generated files
 worker/src/docs.txt
