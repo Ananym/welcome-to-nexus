@@ -3,74 +3,114 @@
 
   const WORKER_URL = CHAT_CONFIG.workerUrl;
 
+  // Conversation history for this session
+  let conversation = [];
+
   function initChat() {
     const container = document.getElementById('chat-container');
     if (!container) return; // Not on chat page
 
-    const questionEl = document.getElementById('chat-question');
-    const submitBtn = document.getElementById('chat-submit');
-    const responseEl = document.getElementById('chat-response');
+    const messagesEl = document.getElementById('chat-messages');
+    const inputEl = document.getElementById('chat-input');
+    const sendBtn = document.getElementById('chat-send');
 
     // Avoid double-binding
-    if (submitBtn.dataset.bound) return;
-    submitBtn.dataset.bound = 'true';
+    if (sendBtn.dataset.bound) return;
+    sendBtn.dataset.bound = 'true';
 
-    submitBtn.addEventListener('click', askQuestion);
-    questionEl.addEventListener('keydown', (e) => {
+    // Reset conversation when page loads
+    conversation = [];
+
+    // Auto-resize textarea
+    inputEl.addEventListener('input', () => {
+      inputEl.style.height = 'auto';
+      inputEl.style.height = Math.min(inputEl.scrollHeight, 120) + 'px';
+    });
+
+    // Send on click
+    sendBtn.addEventListener('click', sendMessage);
+
+    // Send on Enter (Shift+Enter for newline)
+    inputEl.addEventListener('keydown', (e) => {
       if (e.key === 'Enter' && !e.shiftKey) {
         e.preventDefault();
-        askQuestion();
+        sendMessage();
       }
     });
 
-    async function askQuestion() {
-      const question = questionEl.value.trim();
-      if (!question) return;
+    function addMessage(role, content, className = '') {
+      const msg = document.createElement('div');
+      msg.className = `chat-message ${role} ${className}`.trim();
+      msg.textContent = content;
+      messagesEl.appendChild(msg);
+      messagesEl.scrollTop = messagesEl.scrollHeight;
+      return msg;
+    }
 
-      responseEl.textContent = 'Thinking...';
-      responseEl.className = 'loading';
-      submitBtn.disabled = true;
+    function setInputEnabled(enabled) {
+      inputEl.disabled = !enabled;
+      sendBtn.disabled = !enabled;
+      if (enabled) {
+        inputEl.focus();
+      }
+    }
+
+    async function sendMessage() {
+      const text = inputEl.value.trim();
+      if (!text) return;
+
+      // Add user message to UI and conversation
+      addMessage('user', text);
+      conversation.push({ role: 'user', content: text });
+
+      // Clear input and disable
+      inputEl.value = '';
+      inputEl.style.height = 'auto';
+      setInputEnabled(false);
+
+      // Add loading message
+      const loadingMsg = addMessage('assistant', 'Thinking...', 'loading');
 
       try {
         const res = await fetch(WORKER_URL, {
           method: 'POST',
           headers: { 'Content-Type': 'application/json' },
-          body: JSON.stringify({ question })
+          body: JSON.stringify({ conversation })
         });
 
         if (!res.ok) {
-          let errorMsg = 'An error occurred';
+          let errorText = 'An error occurred';
           try {
             const err = await res.json();
-            errorMsg = err.error || errorMsg;
+            errorText = err.error || errorText;
           } catch {
             // Response wasn't JSON
           }
-          responseEl.textContent = errorMsg;
-          responseEl.className = 'error';
+          loadingMsg.textContent = errorText;
+          loadingMsg.className = 'chat-message assistant error';
+          // Remove failed exchange from conversation
+          conversation.pop();
           return;
         }
 
-        // Stream the response
-        responseEl.textContent = '';
-        responseEl.className = '';
+        // Get the response
+        const responseText = await res.text();
 
-        const reader = res.body.getReader();
-        const decoder = new TextDecoder();
+        // Update loading message with response
+        loadingMsg.textContent = responseText;
+        loadingMsg.className = 'chat-message assistant';
 
-        while (true) {
-          const { done, value } = await reader.read();
-          if (done) break;
-          const chunk = decoder.decode(value, { stream: true });
-          responseEl.textContent += chunk;
-        }
+        // Add to conversation history
+        conversation.push({ role: 'assistant', content: responseText });
 
       } catch (e) {
         console.error('Chat error:', e);
-        responseEl.textContent = 'Network error. Please check your connection and try again.';
-        responseEl.className = 'error';
+        loadingMsg.textContent = 'Network error. Please check your connection and try again.';
+        loadingMsg.className = 'chat-message assistant error';
+        // Remove failed exchange from conversation
+        conversation.pop();
       } finally {
-        submitBtn.disabled = false;
+        setInputEnabled(true);
       }
     }
   }

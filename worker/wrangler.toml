@@ -9,6 +9,6 @@ namespace_id = "1"
 simple = { limit = 5, period = 60 }
 
 [vars]
-ALLOWED_ORIGIN = "https://your-domain.com"
+ALLOWED_ORIGIN = "https://welcometonexus.net"
 
 # Set API key via: wrangler secret put GEMINI_API_KEY
