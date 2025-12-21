@@ -1,4 +1,4 @@
-- [Ask a Robot](chat.md)
+<a href="#/chat" class="robot-link">🤖 Ask a Robot</a>
 
 - **Getting Started**
 

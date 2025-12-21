@@ -41,10 +41,34 @@
     function addMessage(role, content, className = '') {
       const msg = document.createElement('div');
       msg.className = `chat-message ${role} ${className}`.trim();
-      msg.textContent = content;
+
+      // For assistant messages, convert file references to links
+      if (role === 'assistant' && !className.includes('loading')) {
+        msg.innerHTML = convertFileRefsToLinks(content);
+      } else {
+        msg.textContent = content;
+      }
+
       messagesEl.appendChild(msg);
       messagesEl.scrollTop = messagesEl.scrollHeight;
       return msg;
+    }
+
+    // Convert (path/to/file.md) references to clickable docsify links
+    function convertFileRefsToLinks(text) {
+      // Escape HTML first to prevent XSS
+      const escaped = text
+        .replace(/&/g, '&amp;')
+        .replace(/</g, '&lt;')
+        .replace(/>/g, '&gt;')
+        .replace(/"/g, '&quot;');
+
+      // Convert (folder/file.md) patterns to links
+      // Matches: (word/word.md) or (word/word-word.md) etc.
+      return escaped.replace(/\(([a-z0-9-]+\/[a-z0-9-]+\.md)\)/gi, (match, path) => {
+        const href = '#/' + path.replace(/\.md$/, '');
+        return `(<a href="${href}">${path}</a>)`;
+      });
     }
 
     function setInputEnabled(enabled) {
@@ -96,8 +120,8 @@
         // Get the response
         const responseText = await res.text();
 
-        // Update loading message with response
-        loadingMsg.textContent = responseText;
+        // Update loading message with response (with links)
+        loadingMsg.innerHTML = convertFileRefsToLinks(responseText);
         loadingMsg.className = 'chat-message assistant';
 
         // Add to conversation history

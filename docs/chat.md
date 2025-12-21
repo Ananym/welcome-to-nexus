@@ -1,12 +1,12 @@
 # Ask a Robot
 
-I gave all the text on this site to Gemini Flash so you can ask it questions.
-If it's struggling with your question, send an nmail to **Astrael** in-game.
+I gave all the text on this site to Gemini Flash so you can ask it questions. Flash isn't especially smart so don't expect too much.
+If it's struggling with your question and it could use more info, send an nmail to **Astrael** in-game.
 
 <div id="chat-container">
   <div id="chat-messages"></div>
   <div id="chat-input-area">
-    <textarea id="chat-input" maxlength="500" placeholder="Ask a question about Nexus..." rows="1"></textarea>
+    <textarea id="chat-input" maxlength="500" placeholder="Ask a question about NexusTK..." rows="1"></textarea>
     <button id="chat-send" title="Send">Send</button>
   </div>
 </div>
@@ -62,6 +62,15 @@ If it's struggling with your question, send an nmail to **Astrael** in-game.
     background: #f0f0f0;
     color: #333;
     border-bottom-left-radius: 4px;
+  }
+
+  .chat-message.assistant a {
+    color: #cd853f;
+    text-decoration: none;
+  }
+
+  .chat-message.assistant a:hover {
+    text-decoration: underline;
   }
 
   .chat-message.error {
