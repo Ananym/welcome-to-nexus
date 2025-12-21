@@ -65,7 +65,12 @@
 
       // Convert (folder/file.md) patterns to links
       // Matches: (word/word.md) or (word/word-word.md) etc.
+      // Excludes bonus-context/ paths (not on site)
       return escaped.replace(/\(([a-z0-9-]+\/[a-z0-9-]+\.md)\)/gi, (match, path) => {
+        // Don't link bonus-context files
+        if (path.startsWith('bonus-context/')) {
+          return match;
+        }
         const href = '#/' + path.replace(/\.md$/, '');
         return `(<a href="${href}">${path}</a>)`;
       });

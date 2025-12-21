@@ -10,9 +10,30 @@ Mythic alliances involve meeting a Mythic leader, accepting his request, then sl
 
 Finding the leader in most mythic caves involves falling into the guardroom by stepping onto a randomly selected tile in particular rooms. In most caves these tiles are one-use-only, and your allies will need to find another invisible fall tile. Once you arrive at the guardroom, you can make your way through a door to visit the leader. Mythic Rat is slightly different, in that you can reach the leader without needing to fall. Mythic Tiger is especially tricky as you can fall into many other rooms besides the guardroom, although these fall spots can last multiple uses.
 
-Once at the leader, say the name of that cave's enemy out loud to start a lesser alliance. The enemy pairings are rabbit - rooster, monkey - tiger, dog - dragon, rat - horse, snake - pig, ox - sheep. If you've finished all your lesser alliances and have reached the rank of il-san, you can instead say "Greater" to start a greater alliance.
+Once at the leader, say the name of that cave's enemy out loud to start a lesser alliance. If you've finished all your lesser alliances and have reached the rank of il-san, you can instead say "Greater" to start a greater alliance.
 
 In either case, the leader will direct you to slay bosses from enemy caves. For a lesser alliance, you'll need to kill three item bosses (avengers) and three key bosses (spirits) of the leader's directly opposing cave. You'll also need to return with four of that cave's unique item and eight of that cave's unique key.
+
+**Mythic Enemies:**
+
+- Rabbit ⚔️ Rooster 
+
+    (Most people ally with Rooster as the Rooster favor is valuable for Sa-san spells)
+- Monkey ⚔️ Tiger 
+
+    (Most people ally with Tiger as the Tiger favor is valuable for Sa-san spells)
+- Dog ⚔️ Dragon 
+
+    (Most people ally with Dragon as the Dragon favor is valuable for Sa-san spells)
+- Rat ⚔️ Horse 
+    
+    (Most people ally with Rat as Rat's unique cave layout makes reaching the leader straightforward)
+- Ox ⚔️ Sheep 
+    
+    (This one goes either way)
+- Pig ⚔️ Snake 
+
+    (Most people ally with Snake as the Snake favor is valuable for Sa-san spells)
 
 For a greater alliance, you'll need to invade two other caves chosen randomly from the pool of caves you're not allied with, in addition to the cave of the leader's natural enemy. The leader will now require five item and five key bosses from each cave - thirty bosses in total! Thankfully, greater alliances do not require you to sacrifice any keys or items.
 
