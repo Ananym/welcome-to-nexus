@@ -1,6 +1,6 @@
 # Ask a Robot
 
-I gave all the text on this site to Gemini Flash so you can ask it questions. Flash isn't especially smart so don't expect too much.
+I gave all the text on this site to Gemini Flash so you can ask it questions. It's also able to query an equipment database, but Flash isn't especially smart so don't expect too much.
 If it's struggling with your question and it could use more info, send an nmail to **Astrael** in-game.
 
 <div id="chat-container">

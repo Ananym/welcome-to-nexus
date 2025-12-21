@@ -12,3 +12,11 @@ simple = { limit = 5, period = 60 }
 ALLOWED_ORIGIN = "https://welcometonexus.net"
 
 # Set API key via: wrangler secret put GEMINI_API_KEY
+
+# D1 Database for item stats
+# Create with: wrangler d1 create nexus-items
+# Then update the database_id below
+[[d1_databases]]
+binding = "DB"
+database_name = "nexus-items"
+database_id = "6fe45ced-f360-4b14-b773-1ab0529b2b51"
