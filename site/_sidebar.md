@@ -1,3 +1,5 @@
+- [Ask a Robot](chat.md)
+
 - **Getting Started**
 
   - [Getting Around](basics/getting-around.md)

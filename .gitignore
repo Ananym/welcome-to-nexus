@@ -23,6 +23,12 @@ npm-debug.log*
 *.temp
 
 # Source files that shouldn't be in the docs
-Tutor.mht
+site/Tutor.mht
+
+# Generated files
+worker/src/docs.txt
+
+# Worker dependencies
+worker/node_modules/
 
 .claude/
