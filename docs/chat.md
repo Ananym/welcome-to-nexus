@@ -138,10 +138,13 @@ If it's struggling with your question and it could use more info, send an nmail 
   /* Mobile adjustments */
   @media (max-width: 600px) {
     #chat-container {
-      height: 70vh;
-      border-radius: 0;
-      border-left: none;
-      border-right: none;
+      height: auto;
+      max-height: none;
+      border-radius: 4px;
+    }
+
+    #chat-messages {
+      min-height: 150px;
     }
 
     .chat-message {
@@ -151,11 +154,14 @@ If it's struggling with your question and it could use more info, send an nmail 
     }
 
     #chat-input-area {
-      padding: 0.5rem;
+      padding: 0.5rem 0.75rem;
     }
 
     #chat-input {
       padding: 0.6rem;
+      field-sizing: content;
+      max-height: none;
+      overflow: hidden;
     }
 
     #chat-send {
