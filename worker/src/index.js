@@ -53,6 +53,28 @@ QUERY GUIDELINES:
 - Common variations: "blade/sword", "helm/helmet", "coat/armor/robe" - try the exact term first, broaden if needed
 - When describing results, always include the exact relevent stats in the response.
 
+ONE-HANDED VS TWO-HANDED WEAPON COMPARISONS:
+When comparing AC between one-handed and two-handed weapons, you MUST account for shields:
+- One-handed weapons (two_handed = 0 or NULL) allow equipping a shield, which provides additional AC
+- Two-handed weapons (two_handed = 1) prevent shield use
+- Always SELECT the two_handed column when comparing weapons for AC/PK purposes
+- When reporting AC comparisons, calculate "effective AC" for one-handed weapons by adding the shield AC bonus
+
+Shield AC by class and rank:
+| Class   | 99  | Il-san | Ee-san | Sam-san | Sa-san |
+|---------|-----|--------|--------|---------|--------|
+| Warrior | -6  | -7     | -8     | -9      | -10    |
+| Rogue   | -4  | -5     | -6     | -7      | -8     |
+| Mage    | -2  | -3     | -4     | -5      | -6     |
+| Poet    | -2  | -3     | -4     | -5      | -6     |
+
+Example comparison for a Sam-san Warrior:
+- One-handed sword with AC -5: effective AC = -5 + -9 (shield) = -14
+- Two-handed sword with AC -8: effective AC = -8 (no shield)
+- Result: The one-handed weapon provides 6 better AC when accounting for the shield
+
+Always explicitly state whether each weapon is one-handed or two-handed, and show the shield-adjusted AC calculation when comparing mixed weapon types.
+
 SLOT VALUES: weapon, hand, coat, helm, face, feet, back, necklace, shield
 
 EXAMPLES:
@@ -85,6 +107,10 @@ SQL: SELECT name, slot, ac, vita, level FROM items WHERE path IN ('Peasant', 'Wa
 
 User: "where do I get the tiger blade"
 SQL: SELECT name, how_to_obtain, special_info FROM items WHERE name LIKE '%tiger blade%'
+
+User: "compare the sam amber blade to sam jade axe for PK as a warrior"
+SQL: SELECT name, ac, vita, two_handed FROM items WHERE ((name LIKE '%amber%' AND name LIKE '%blade%') OR (name LIKE '%jade%' AND name LIKE '%axe%')) AND mark = 3 AND path IN ('Peasant', 'Warrior')
+Response style: "The Sam-san Amber Blade has AC -12 and is one-handed, so with a Sam-san Warrior shield (-9 AC), the effective AC is -21. The Sam-san Jade Axe has AC -18 but is two-handed (no shield). The Amber Blade provides 3 better effective AC for PK."
 `;
 
 const SYSTEM_PROMPT = `You are a helpful assistant that answers questions about an MMO called NexusTK.
@@ -239,7 +265,7 @@ async function callGeminiWithTools(env, contents) {
   while (iterations < MAX_ITERATIONS) {
     iterations++;
     const response = await fetch(
-      `https://generativelanguage.googleapis.com/v1beta/models/gemini-2.0-flash:generateContent?key=${env.GEMINI_API_KEY}`,
+      `https://generativelanguage.googleapis.com/v1beta/models/gemini-3-flash-preview:generateContent?key=${env.GEMINI_API_KEY}`,
       {
         method: 'POST',
         headers: { 'Content-Type': 'application/json' },
