@@ -44,7 +44,7 @@
 
       // For assistant messages, convert file references to links
       if (role === 'assistant' && !className.includes('loading')) {
-        msg.innerHTML = convertFileRefsToLinks(content);
+        msg.innerHTML = formatAssistantMessage(content);
       } else {
         msg.textContent = content;
       }
@@ -54,26 +54,43 @@
       return msg;
     }
 
-    // Convert (path/to/file.md) references to clickable docsify links
-    function convertFileRefsToLinks(text) {
+    // Convert filepath to readable title: "character/99-equipment.md" -> "99 Equipment"
+    function pathToTitle(path) {
+      const filename = path.split('/').pop().replace(/\.md$/, '');
+      return filename
+        .split('-')
+        .map(word => word.charAt(0).toUpperCase() + word.slice(1))
+        .join(' ');
+    }
+
+    // Format assistant message: escape HTML, parse markdown, convert file refs to links
+    function formatAssistantMessage(text) {
       // Escape HTML first to prevent XSS
-      const escaped = text
+      let html = text
         .replace(/&/g, '&amp;')
         .replace(/</g, '&lt;')
         .replace(/>/g, '&gt;')
         .replace(/"/g, '&quot;');
 
+      // Parse **bold** -> <strong>
+      html = html.replace(/\*\*([^*]+)\*\*/g, '<strong>$1</strong>');
+
+      // Parse bullet points: lines starting with * or - become •
+      html = html.replace(/^(\s*)[*-]\s+/gm, '$1• ');
+
       // Convert (folder/file.md) patterns to links
       // Matches: (word/word.md) or (word/word-word.md) etc.
-      // Excludes bonus-context/ paths (not on site)
-      return escaped.replace(/\(([a-z0-9-]+\/[a-z0-9-]+\.md)\)/gi, (match, path) => {
-        // Don't link bonus-context files
+      html = html.replace(/\(([a-z0-9-]+\/[a-z0-9-]+\.md)\)/gi, (match, path) => {
+        // Don't link bonus-context files (not on site)
         if (path.startsWith('bonus-context/')) {
           return match;
         }
         const href = '#/' + path.replace(/\.md$/, '');
-        return `(<a href="${href}">${path}</a>)`;
+        const title = pathToTitle(path);
+        return `(<a href="${href}">${title}</a>)`;
       });
+
+      return html;
     }
 
     function setInputEnabled(enabled) {
@@ -126,7 +143,7 @@
         const responseText = await res.text();
 
         // Update loading message with response (with links)
-        loadingMsg.innerHTML = convertFileRefsToLinks(responseText);
+        loadingMsg.innerHTML = formatAssistantMessage(responseText);
         loadingMsg.className = 'chat-message assistant';
 
         // Add to conversation history
