@@ -25,6 +25,16 @@ _These commands are not case sensitive at all_
 - Check how many total bank slots you are using: "What have I deposited?"
 - Withdraw an item: "Give my X back"
 - Withdraw several of an item: "Give my X number 5 back"
+- Deposit coins: "I will deposit X coins"
+- Withdraw coins: "Give my X coins back"
+
+## Smith
+
+- Repair all equipment: "Repair all" - be careful! This has no confirmation and can be expensive!
+
+## Shaman
+
+- After resurrecting, say "Thank you" for a full heal - this only works if you say it before your first tick of natural regeneration
 
 ## Other
 
