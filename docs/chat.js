@@ -78,16 +78,15 @@
       // Parse bullet points: lines starting with * or - become •
       html = html.replace(/^(\s*)[*-]\s+/gm, '$1• ');
 
-      // Convert (folder/file.md) patterns to links
-      // Matches: (word/word.md) or (word/word-word.md) etc.
-      html = html.replace(/\(([a-z0-9-]+\/[a-z0-9-]+\.md)\)/gi, (match, path) => {
+      // Convert folder/file.md patterns to links (handles multiple in one parentheses)
+      html = html.replace(/([a-z0-9-]+\/[a-z0-9-]+\.md)/gi, (match, path) => {
         // Don't link bonus-context files (not on site)
         if (path.startsWith('bonus-context/')) {
           return match;
         }
         const href = '#/' + path.replace(/\.md$/, '');
         const title = pathToTitle(path);
-        return `(<a href="${href}">${title}</a>)`;
+        return `<a href="${href}">${title}</a>`;
       });
 
       return html;
