@@ -14,7 +14,7 @@ NexusTK is a deeply social game. Modern MMO players are used to soloing as much 
 - Bless and Potence are useful during the early levels, but you won't notice much difference after your 99th.
 - Make sure you familiarize yourself with the different [consumables](combat/consumable-items.md) available.
 - Slash is realistically only a melee taunt, but still has its uses.
-- Berserk and Whirlwind will be underwhelming at first, but ramp up quickly as you gain vitality after 99. Make sure to align with Ming-ken or Ohaeng, as unaligned or Kwi-sin whirlwind is extremely risky!
+- Berserk and Whirlwind will be underwhelming at first, but ramp up quickly as you gain vitality after 99. Make sure to [align](character/choosing-an-alignment.md) with Ming-ken or Ohaeng, as unaligned or Kwi-sin whirlwind is extremely risky!
 - You will most likely want to skip learning the warrior self-heals, as consumable healing items are readily available and heal for much more.
 - The level 99 rages work differently from the furies. Rages can be recast after their cooldown to enhance the effects of the spell, granting a higher damage multiplier and a bigger armor class penalty. Each tier will require a higher mana cost to cast than the last. Chung Ryong's Rage 6 has a huge +50 AC penalty! Rage also amplifies the amount of durability lost on your weapons when swinging, making low-durability weapons harder to use at high ranks.
 
@@ -52,7 +52,7 @@ Warrior Rage Tier minimum mana costs:
 - Blind trap will prevent a monster from moving - useful if you have a weapon with range.
 - Snare trap causes a monster to take more damage, useful if you have no casters with you for stronger curses. Amnesia causes monsters to ignore you, useful while alone to take on targets one at a time.
 - Rogue heal spells are stronger than those of warriors, and some can target allies - though you may not necessarily need to learn these in a hurry, as [healing items](combat/consumable-items.md) are still much stronger.
-- At 99, you may wish to invest in a Polearm if you find yourself grouping with Mages. Weapons with range don't break invisibility, provided that you don't hit a target directly next to you. As the range also allows you to hit multiple targets, this can produce impressive damage output.
+- At 99, you may wish to invest in a [Polearm](mechanics/polearm-cheat.md) if you find yourself grouping with Mages. Weapons with range don't break invisibility, provided that you don't hit a target directly next to you. As the range also allows you to hit multiple targets, this can produce impressive damage output.
 - A rogue's level 99 cunning uses similar recast/tier mechanics as a warrior's rage, but does not penalize your armor or inflict extra durability damage.
 
 Rogue Cunning Tier minimum mana costs:

@@ -53,7 +53,7 @@ After completing your path-specific Nagnang guild quest, you can run the Nagnag 
 
 Subaccessories provide small amounts of stats and AC. Generally, all subaccessories within a rank offer the same AC while the small stats are inconsequential, so it barely matters which you use - buy the cheapest you can find! However, most subaccessories originate from past events and are fairly expensive. Do not feel obliged to invest in these.
 
-There is the Floret Pendant acquired from a Tangun quest for -1 AC, plus the repeat-questable but BoD Gruff Rings also for -1 AC. I wouldn't personally recommend bothering with these, it simply won't make enough of a difference to your experience to be worth the time.
+There is the Floret Pendant acquired from a Tangun quest for -1 AC, plus the repeat-questable but BoD (Break on Death) Gruff Rings also for -1 AC. I wouldn't personally recommend bothering with these, it simply won't make enough of a difference to your experience to be worth the time.
 
 ## Weapons
 
@@ -70,7 +70,7 @@ Rogues at higher marks often do invest in their Taik'pae etched blade, as the ro
 ### Enchantment
 
 Certain weapons, at certain points, can be enchanted to boost their power.
-These include the level 95 path weapons (spikes, bloods, charms, surges) and both PC and NPC path unique weapons. Enchant a weapon by accumulating 200m experience, then making it past the Forever Tree to meet [Bon-hwa](character/marks.md).
+These include the level 95 path weapons (spikes, bloods, charms, surges) and both PC and NPC path unique weapons. Enchant a weapon by accumulating 200m experience, then making it past the Forever Tree to meet [Bonhwa](character/marks.md).
 
 You can first do this at 'Enchanted' stats, kind of a midway milestone to il-san at 80k vitality or 40k mana. Higher enchantments are available after taking each mark. Weapons enchanted in this way are bonded to you, although it is also possible for base (non-marked) Enchanted weapons to drop rarely from strong mythic leaders.
 

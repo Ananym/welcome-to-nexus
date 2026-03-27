@@ -27,3 +27,5 @@ The minimum stats to enter each ATG tier are as follows:
 | 10   | 5m/2.5m vitality/mana                   |
 
 _Note: Sa-san stats doesn't get a dedicated tier_
+
+See also: [Hunting](combat/hunting.md) for path-specific hunting advice.

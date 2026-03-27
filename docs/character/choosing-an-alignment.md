@@ -28,3 +28,5 @@ There are three alignments to choose from:
 Choosing an alignment is not an arduous process - visit the shrine, complete the quiz, then visit your guildmaster and announce the name of your alignment out loud.
 
 This will, however, change your spell names to less straightforward terms - you'll need to relearn the ones you use! Websites like NexusAtlas can help you work this out.
+
+Changing your alignment later is technically possible, but arduous and ideally unnecessary. Choose carefully the first time.

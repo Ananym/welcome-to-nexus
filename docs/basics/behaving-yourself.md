@@ -15,7 +15,7 @@ NexusTK is a social environment - you will need to rely on others to succeed, an
 Don't spam chat if you need something.
 Don't immediately beg for coins or items - the community is generous, but you're more likely to find help if you demonstrate that you're willing to learn and gather for yourself.
 
-Don't make separate characters to be a nuisance - it's easy for Archons to punish your main characters too.
+Don't make separate characters to be a nuisance - it's easy for Archons (game moderators) to punish your main characters too.
 
 Try to avoid discussing real life over sage / world shouts, this can result in a warning if excessive.
 

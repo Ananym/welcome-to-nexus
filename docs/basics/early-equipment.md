@@ -10,7 +10,7 @@ Kingdom smith shops sell helms for males and helmets for females. These aren't l
 
 Warriors and rogues pick up their armor from the smiths, while mages and poets pick up theirs from the tailors and seamstresses. Once you've outgrown these, you can look into the celestial armor quests.
 
-Warriors also have access to powerful Tiger armor in the early levels. Speak to the kingdom tutors, Jadespear and Ironheart, to learn about the tiger. Then meet the tiger in his Buyan den near east gate, and greet him out loud by name - "Chongun". In exchange for materials, the tiger will forge stronger armor for you. Return as you gain levels to upgrade it.
+Warriors also have access to powerful Tiger armor in the early levels. Speak to the new player guide NPCs, Jadespear (Buya) and Ironheart (Kugnae), to learn about the tiger. Then meet the tiger in his Buyan den near east gate, and greet him out loud by name - "Chongun". In exchange for materials, the tiger will forge stronger armor for you. Return as you gain levels to upgrade it.
 
 ## Hand items
 

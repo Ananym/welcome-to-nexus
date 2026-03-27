@@ -46,7 +46,7 @@ Some ways to bolster your karma are only available once. These include:
 - Weaving a magical net during the Wind armor quest
 - Specializing in a [manufacturing skill](economy/crafting.md)
 - The nonrepeatable quests on Gogoon island, particularly [Zuhair's Important Letter](misc/gogoon.md) (grants many pirate coins)
-- [Mythic alliances](character/mythic-alliances.md), of which you can complete 6 Lessers, 3 Majors, and 1 Sublime
+- [Mythic alliances](character/mythic-alliances.md), of which you can complete 6 Lessers, 3 Greaters, and 1 Sublime
 
 In general, aiding Chu Rua, talking to Majhum, and finishing the Important Letter quest will give you enough karma/pirate coins to reach Ox, which is an important threshold for the Watcher's blessing required by [NPC subpaths](character/npc-subpath.md). You may wish to delay your celestial armor quests until after receiving this blessing, as those quests consume karma to complete.
 

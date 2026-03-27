@@ -28,7 +28,7 @@ At this point, return to your path's dog and say "Secret". You'll be asked to de
 
 You'll also need the blessing of a being known as the Watcher.
 
-For this, you'll need Ox karma. Some quests grant karma, as do Mythic Alliances. Pirate coins can also be traded in for karma at libraries. Monks, Geomancers, and Diviners can check your karma for you, or you can pay a small fee to certain NPCs.
+For this, you'll need [Ox karma](character/karma.md). Some quests grant karma, as do Mythic Alliances. Pirate coins can also be traded in for karma at libraries. Monks, Geomancers, and Diviners can check your karma for you, or you can pay a small fee to certain NPCs.
 
 Once you've reached Ox karma, visit the rabbit fields in the northwest of Buya, outside the walls. Walk around briefly. You'll soon catch the Watcher's eye. It's recommended to get this step done as soon as possible if you are definitely joining your totem path, as once you are blessed you can use that karma for the celestial armor quests.
 

@@ -26,6 +26,4 @@ If you're on good terms with your clan, they may be willing to lend you some equ
 
 Selling [Kruna](economy/kruna.md) store items to players using the gift system can get you plenty of coin for day-to-day expenses if you're not inclined to farm. However, your account must be at least three months old to gift Kruna, and this would be very expensive if you're trying to afford a high-value item.
 
-True wealth comes from patience - the most highly prized items are often temporary event rewards. If you make sure you complete every large game-wide event that comes past - ideally on multiple characters - the rewards are often worth a substantial amount further down the road.
-
-((Haha, remember when we had events?))
+True wealth comes from patience - the most highly prized items are often temporary event rewards. If you make sure you complete every large game-wide event that comes past - ideally on multiple characters - the rewards are often worth a substantial amount further down the road. ((Haha, remember when we had events?))

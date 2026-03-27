@@ -19,7 +19,7 @@ However, all players can support their team in a number of ways besides simply s
 
 When you first get into the arena, use the Ctrl+w Heroes board sorted by level to understand which players in the match are strongest within their path, and therefore most important to protect / eliminate.
 
-Learning how to survive takes priority -- you can do nothing while dead! Survival hinges on positioning: stay out of the way of threats unless you have a reason to be there. Make sure you're familiar with how to execute food-based healouts for yourself.
+Learning how to survive takes priority -- you can do nothing while dead! Survival hinges on positioning: stay out of the way of threats unless you have a reason to be there. Make sure you're familiar with how to execute food-based healouts (healing yourself out of death before the server's death check registers — see [Client / Server Behaviour](misc/client-server-behaviour.md#healouts)) for yourself.
 
 All paths have a targeted heal that can be used to healout teammates in danger. Try to keep your [Sticky targeting](combat/casting-spells.md) on a valuable teammate so you can help them quickly if they're under attack. This is one of the most useful things small warriors and rogues can do.
 

@@ -98,4 +98,4 @@ Acquire preparable food items, such as fish, (non-lean) beef, chicken, egg, whea
 
 ### Cheffing
 
-Must be accomplished in food prep. Chef mainly exists to create Noodles, which only have use for certain events. There are some other chef activities on gogoon.
+Must be accomplished in food prep. Chef mainly exists to create Noodles, which only have use for certain events. There are some other chef activities on [Gogoon](misc/gogoon.md).
