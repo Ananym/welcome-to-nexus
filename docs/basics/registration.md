@@ -1,6 +1,6 @@
 # Registration
 
-As you may have noticed by now, you do not need a NexusTK account to make a character. However, for the full experience, you will need to pay for registration.
+You don't need a NexusTK account to make a character. However, for the full experience, you'll need to pay for registration.
 
 ## Unregistered limitations
 
@@ -23,9 +23,9 @@ As you may have noticed by now, you do not need a NexusTK account to make a char
 
 ## Notes
 
-- Each account has a rigid limit of four character slots
+- Each account has a strict limit of four character slots
 - Only one character on each account can be in-game at a time
 - Your [Kruna](economy/kruna.md) balance is associated with your account
-- Accounts need to be three months old in order to gift kruna items
+- Accounts need to be three months old to gift kruna items
 - Adding a character to an account is irreversible
 - Do not lose access to the email attached to your account!

@@ -1,10 +1,10 @@
 # Kingdom Shops
 
-A comprehensive list of shops and services found in the kingdoms of NexusTK.
+A list of shops and services found in the kingdoms of NexusTK.
 
 ### Inns
-- Purchase yellow scrolls to return here
-- Purchase simple items and wine for mana recovery  
+- Buy yellow scrolls to return here
+- Buy simple items and wine for mana recovery  
 - Access your bank
 
 ### Butcher
@@ -62,22 +62,22 @@ A comprehensive list of shops and services found in the kingdoms of NexusTK.
 - Buy the special "Love" ring that allows teleporting to your partner's side
 
 ### Marketplaces
-- Facilitates mass exchanges between banks
+- Handles mass exchanges between banks
 - Also available at Kugnae gathering
 - Merchants occasionally hold public gatherings here
 
 ### Shamans
-- Restores your body after you perish
-- Follow your silver thread (F1/shift+F1) to be brought here instantly after death
+- Restores your body after you die
+- Follow your silver thread (Shift+F1) to be brought here instantly after death
 - Feature in several quests due to their storied lives
 
 
 ### Sunset Weaver, Shadow Dragon, Midnight Weaver
-- Mysterious figures capable of drawing out your true potential
+- Figures capable of drawing out your true potential
 - Trade experience directly for stat growth after reaching your 99th insight
 
 ### Libraries
-- Sells informational scrolls for some subpaths
+- Sells info scrolls for some subpaths
 - Features boards for histories, stories, and public records
 - Librarians trade pirate coins for karma or item rewards
 

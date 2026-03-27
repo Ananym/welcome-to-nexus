@@ -25,6 +25,6 @@ There are three alignments to choose from:
   Found in Arctic Village (56, 21). Tends to have spookier effects.
   For warriors, their whirlwind gets a slight damage boost, but continues to drop you to a flat 10 vitality, making it poorly compatible with living.
 
-Choosing an alignment is not an initially arduous process - visit the shrine, complete the quiz, then visit your guildmaster and announce the name of your alignment out loud.
+Choosing an alignment is not an arduous process - visit the shrine, complete the quiz, then visit your guildmaster and announce the name of your alignment out loud.
 
-This will, however, change the names of your spells to terms altogether less straightforward - you'll need to relearn the ones you use! Websites like NexusAtlas can help you work this out.
+This will, however, change your spell names to less straightforward terms - you'll need to relearn the ones you use! Websites like NexusAtlas can help you work this out.

@@ -4,7 +4,7 @@ As a new adventurer, you'll need to update your equipment regularly to keep pace
 
 ## Helms
 
-Kingdom smith shops sell helms for males and helmets for females. These aren't level restricted - buy the best you can afford. Beyond an earth helm, look into a totem helm or clan helm once you're [registered](basics/registration.md) for a slight upgrade.
+Kingdom smith shops sell helms for males and helmets for females. These aren't level restricted - buy the best you can afford. Past an earth helm, look into a totem helm or clan helm once you're [registered](basics/registration.md) for a slight upgrade.
 
 ## Armor
 
@@ -20,7 +20,7 @@ Warriors should immediately pick up a pair of Ambrosia at level 55, which will t
 
 Rogues likely want to stick to Whisper bracelets at 50 for armor class, although there are some riskier high damage options later on.
 
-Mages may want to pick up Holy Rings at 50 for the Will bonus which helps with static/paralysis rates, but it's not terribly important over purple rings. Poets similarly won't really notice any issues from sticking with purple rings the whole way.
+Mages may want to pick up Holy Rings at 50 for the Will bonus which helps with static/paralysis rates, but it's not important over purple rings. Poets similarly won't notice issues from sticking with purple rings the whole way.
 
 ## Weapons
 
@@ -30,11 +30,11 @@ Mages and Poets don't gain much from their weapons besides a little will and man
 
 ## Shields
 
-Shields offer defensive bonuses, though these are minor early on. You'll need to be registered to pursue a shield. You'll need to gain favor with the Nagnang guild for your path by completing a path-specific quest (warriors pick up their first shield this way), then embark on the Nagnag armory quest. People typically wait until level 97 to take this on, as this grants a stronger shield. Only rogues and expert mages are likely to be able to handle this quest alone!
+Shields offer defensive bonuses, though these are minor early on. You'll need to be registered to pursue a shield. Gain favor with the Nagnang guild for your path by completing a path-specific quest (warriors pick up their first shield this way), then embark on the Nagnang armory quest. People typically wait until level 97 to take this on, as this grants a stronger shield. Only rogues and expert mages are likely to handle this quest alone!
 
 ## Subaccessories
 
-Subaccessories are generally optional bonuses, but can make life slightly easier.
+Subaccessories are optional bonuses, but can make life slightly easier.
 
 Starting level 40, you can enter the Tangun spearman cave. By gathering materials here, you can complete a nearby quest to earn a Floret Pendant. You can only make one pendant.
 

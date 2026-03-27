@@ -2,11 +2,11 @@
 
 _Lmao don't_
 
-The current state of crafting is not a path to making money or useful items, and involves an enormous amount of time and resources to make much progress. It is entirely viable to completely ignore crafting beyond the bare minimum, and this does have to be my recommendation.
+The current state of crafting is not a path to making money or useful items, and involves a huge amount of time and resources to make much progress. It is entirely viable to ignore crafting beyond the bare minimum, and this does have to be my recommendation.
 
-There is one profession that produces an item with genuine value: the diadem, produced by jewellers, which boasts the strongest armor class of any helm. As this item is effectively best in slot and incredibly difficult to make, the demand/supply is there for it to hold its worth. Reaching the point of even attempting to craft one of these will cost many hundreds of millions of coins.
+There is one profession that produces an item with genuine value: the diadem, produced by jewellers, which has the strongest armor class of any helm. As this item is effectively best in slot and very difficult to make, the demand/supply is there for it to hold its worth. Reaching the point of even attempting to craft one will cost many hundreds of millions of coins.
 
-That said, investing in crafting to some degree is required for some pursuits, and it doesn't hurt to reach a level where you can produce basic goods that people often need like metal, cloth, fine steel daggers. Gaining experience in crafting involves repeatedly performing that skill - for manufacturing and refining, only successes count.
+That said, some investment in crafting is required for certain pursuits, and it doesn't hurt to reach a level where you can produce basic goods that people often need like metal, cloth, fine steel daggers. Gaining experience in crafting involves repeatedly performing that skill - for manufacturing and refining, only successes count.
 
 - You can only specialise in one manufacturing skill, others will be capped at a certain rank
 - You can only devote yourself to one refining skill, you must devote to practice a refining skill at all
@@ -14,7 +14,7 @@ That said, investing in crafting to some degree is required for some pursuits, a
 - Different paths advance at slightly different rates through the skills
 - Crafting during the game-hours of the day that match your totem will give you a (very) slight boost to crafting experience gain
 - [Kruna](economy/kruna.md) crafting bags exist to allow you to hold more materials at a time
-- Only 'successful' crafting attempts while manufacturing or refining actually grant crafting experience - so it is usually best to focus on the easiest options.
+- Only 'successful' crafting attempts while manufacturing or refining grant crafting experience - so it is usually best to focus on the easiest options.
 
 ## Gathering
 
@@ -40,7 +40,7 @@ There's no gathering skill for these. Kill sheep in the Wilderness for wool, var
 
 ## Manufacturing
 
-_The game considers these skills "Manufacturing", even though you are not manufacturing finished goods but instead refining raw materials into refined materials..._
+_The game calls these skills "Manufacturing", even though you are not manufacturing finished goods but refining raw materials into refined materials..._
 
 ### Smelting
 
@@ -86,7 +86,7 @@ Ascend Scribe's mountain in the vale and talk to the Sage. Scribing produces con
 
 ### Alchemy
 
-Ascend Scribe's mountain in the vale and talk to the Sage. Alchemy produces consumable potions from various materials, although largely not very valuable.
+Ascend Scribe's mountain in the vale and talk to the Sage. Alchemy produces consumable potions from various materials, although they are largely not very valuable.
 
 ## Cooking
 
@@ -98,4 +98,4 @@ Acquire preparable food items, such as fish, (non-lean) beef, chicken, egg, whea
 
 ### Cheffing
 
-Must be accomplished in food prep. Chef primarily exists to create Noodles, which only have utility for certain events. There are some other chef activities on gogoon.
+Must be accomplished in food prep. Chef mainly exists to create Noodles, which only have use for certain events. There are some other chef activities on gogoon.

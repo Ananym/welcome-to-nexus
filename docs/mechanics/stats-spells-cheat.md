@@ -2,11 +2,11 @@
 
 ## Core Stats
 
-**Might**: affects your chance to hit, miniscule flat damage bonus
+**Might**: affects your chance to hit, minuscule flat damage bonus
 
 **Grace**: affects your chance to dodge incoming swings
 
-**Will**: affects caster zap damage by a miniscule amount. Affects success rate of paralyse and confuse. Seemingly does nothing else.
+**Will**: affects caster zap damage by a minuscule amount. Affects success rate of paralyse and confuse. Seemingly does nothing else.
 
 For dam/hit, see the weapon damage sheet.
 
@@ -42,11 +42,11 @@ Dispel is not affected by protection. It has a flat 20% chance against all targe
 
 ## Harden Body
 
-Harden body is not affected by anything. It has a flat 50% chance in all cases, regardless of caster stats.
+Harden Body is not affected by anything. It has a flat 50% chance in all cases, regardless of caster stats.
 
 ## Paralyse
 
-Does seem to have a fail rate dependent on the caster's Will. Seems to reach 100% success shortly before the 130 will mark.
+Seems to have a fail rate dependent on the caster's Will. Seems to reach 100% success shortly before the 130 will mark.
 
 ## Invoke
 
@@ -56,9 +56,9 @@ Both poet and mage invoke aethers are meaningfully reduced by choosing any align
 
 Reduces all incoming damage by 50%, independent of the AC calculation.
 
-Baekho's cunning (specifically) offers a reduced effect, scaling with cunning stage. This does not stack with actual sanctuary, but cannot be dispelled.
+Baekho's cunning specifically offers a reduced effect, scaling with cunning stage. This does not stack with sanctuary, but cannot be dispelled.
 
-The warrior spell Hoche and Scrolls of protection additionally grant a very minor non-stacking sanctuary effect at 10% reduction.
+The warrior spell Hoche and Scrolls of Protection additionally grant a minor non-stacking sanctuary effect at 10% reduction.
 
 ## Rage and Durability
 
@@ -76,4 +76,4 @@ Vanilla berserk does 0.75*current vitality in damage with 12s aethers,
 
 Feral berserk does 0.85*current vitality in damage with 16s aethers.
 
-Vanilla berserk does more damage over time at the cost of being slightly less healing-efficient. I personally prefer vanilla berserk, but it comes entirely down to personal taste.
+Vanilla berserk does more damage over time at the cost of being slightly less healing-efficient. I personally prefer vanilla berserk, but it comes down to personal taste.

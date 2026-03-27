@@ -24,7 +24,7 @@ For the moment I'm only going to cover the one you came here for.
 
 ### Important Letter
 
-Once in Gogoon, find and speak to Zuhair in the north side of the village, 66/106. Talk to him, agree to deliver his letter. (Saying No may involve a long cooldown period? I don't remember if this was addressed..)
+Once in Gogoon, find and speak to Zuhair in the north side of the village, 66/106. Talk to him, agree to deliver his letter. (Saying No may involve a long cooldown period? Unclear if this was addressed.)
 
 You now need to visit every NPC in the village in reverse alphabetical order and say "Important letter" out loud near them. They will take about two minutes to read the letter - then say "Important letter" again to take back the letter and proceed to the next guard.
 
@@ -59,4 +59,4 @@ I am going to shamefully copy and paste the list of guards from [NexusAtlas](htt
 25. Bakile (6,10 inside Aiata's Tavern at 38,130)
 26. Atiqu (49,155)
 
-Each visit will net you one pirate coin, for a healthy 24 pirate coins once you sit through the whole thing. You should probably spend most if not all of this on [karma](character/karma.md).
+Each visit will net you one pirate coin, for a solid 24 pirate coins once you sit through the whole thing. You should probably spend most if not all of this on [karma](character/karma.md).

@@ -16,12 +16,12 @@ Daily coins are a crucial source of income for newer players. They can be collec
 
 ## Uses
 
-Daily coins are highly valuable because they are required to varying degrees by two different mark trials (ee culture and sa minor quests). Demand for daily coins gives these reliable value despite the relatively low time investment in acquiring them relative to other sources of income.
+Daily coins are highly valuable because they are required by two different mark trials (ee culture and sa minor quests). Demand for daily coins gives them reliable value despite the low time investment to acquire them compared to other sources of income.
 
 Daily coins are also used to access [Damaged Orbs](combat/orbs.md), and the experience bonuses that are available during periods of celebration.
 
 ## Tips
 
-- Consider raising multiple characters to level 50 as soon as is convenient to start amassing coins
-- Sell just enough to fund your adventures, hoard them for your own trials.
-- Consider making use of the auto registration bonus
+- Consider raising multiple characters to level 50 as soon as convenient to start amassing coins
+- Sell just enough to fund your adventures, hoard the rest for your own trials.
+- Consider using the auto registration bonus

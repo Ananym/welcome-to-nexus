@@ -4,7 +4,7 @@ Minor quests are randomly generated quests that involve you tracking down a spec
 
 - To accept a minor quest, say "quest" out loud to your path guildmaster (Clan NPCs or the Buya Incubator attendant can also help with this)
 - You can look up the location of your target at [NexusAtlas](https://nexusatlas.com/quests/minorquestlocations.php)
-- You can confirm the target's name in your status box with ';' while facing or Right click (shift+r to toggle right click look)
+- You can confirm the target's name in your status box with ';' while facing, or right-click (Shift+R to toggle right-click look)
 - Poets might struggle to deal with bigger targets by themselves
 - Slay the target, then return and say "complete"
 - Minor quests can be repeated every 11.5 hours, and have no time limit
@@ -25,6 +25,6 @@ Minor quests are randomly generated quests that involve you tracking down a spec
 
 - If you are trying to finish your Sa-san trials, you have the option of paying 4 [daily coins](economy/daily-coins.md) at the Incubator to skip your MQ timer.
 - This option will be available in the Incubator attendant's menu if your MQ cooldown is currently running.
-- These skipped-timer MQs will not reward experience, but will contribute to the 400 quests complete requirement.
+- These skipped-timer MQs will not reward experience, but will count toward the 400 quests completed requirement.
 - There may still be a limit on this feature related to the age of your character.
 - Alongside Ee culture, this is one of the uses that give daily coins their value.

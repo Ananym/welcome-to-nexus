@@ -6,17 +6,17 @@ Your next steps from here involve taking [Marks](character/marks.md), starting w
 
 ## Subpaths
 
-Make sure you investigate subpaths, as some paths - fighters in particular - require a subpath to function effectively after 99. You can choose between [Community-lead Subpaths](character/community-subpath.md), which involve training under a guide of that subpath, or your path's totem-focused [NPC Subpath](character/npc-subpath.md) which is not dependent on community interaction. You don't need to be level 99 to start training for a community subpath, but only level 99 players can join an NPC subpath.
+Make sure you investigate subpaths, as some paths - fighters in particular - require a subpath to function effectively after 99. You can choose between [Community-led Subpaths](character/community-subpath.md), which involve training under a guide of that subpath, or your path's totem-focused [NPC Subpath](character/npc-subpath.md) which is not dependent on community interaction. You don't need to be level 99 to start training for a community subpath, but only level 99 players can join an NPC subpath.
 
-To join an [NPC subpath](character/npc-subpath.md), or learn the warrior & rogue fighting techniques of a community subpath, you must sacrifice one billion experience, which you'll have already by the time you reach level 99. Be careful not to die or spend all your experience, or it may be a struggle to recover this amount!
+To join an [NPC subpath](character/npc-subpath.md), or learn the warrior and rogue fighting techniques of a community subpath, you must sacrifice one billion experience, which you'll already have by the time you reach level 99. Be careful not to die or spend all your experience, or it may be a struggle to recover this amount!
 
 If you do find yourself in this situation, you can pick up a Bringer's Gift by winning a [Riches carnage event](carnages/carnage-events.md). The Bringer's gift is available to anyone of the 99th insight and immediately awards 1b experience.
 
 ## Spending experience
 
-Specific NPCs can improve your stats at the cost of experience. Most clans will have an NPC to offer this function - otherwise there is one found in each kingdom (e.g. Kugnae 78/187).
+Specific NPCs can improve your stats for experience. Most clans have an NPC for this - otherwise there is one in each kingdom (e.g. Kugnae 78/187).
 
-Might Will and Grace are all relatively cheap. Warriors and rogues should significantly invest (100+) in Might immediately and maximize it soon after. Mages should maximize their Will immediately. (It's not clear whether Poets see any meaningful benefit from Will, but they might as well.) Grace is cheap enough that everyone might as well maximize it at some point, but there's no great rush.
+Might, Will, and Grace are all relatively cheap. Warriors and rogues should significantly invest (100+) in Might immediately and maximize it soon after. Mages should maximize their Will immediately. (It's not clear whether Poets see any meaningful benefit from Will, but they might as well.) Grace is cheap enough that everyone might as well maximize it at some point, but there's no great rush.
 
 The balance between vitality and mana investment is a personal choice, but common advice starting out for every path is enough vitality to not worry about dying and the rest into mana. Mana helps fighters hit higher breakpoints for their incremental Rage/Cunning spells, helps Poets keep casting and offer bigger Restores, helps mages hit harder. Mages can also commit to hunting in a group and focus on vitality early for a stress-free experience.
 

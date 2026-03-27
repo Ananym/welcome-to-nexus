@@ -10,9 +10,9 @@ Orbs cast spells when used as items, but can also be added to your number keys b
 
 ## Damaged Orbs
 
-These orbs are intended to allow players to achieve more while solo by giving each path access to spells from other paths. These cannot be used while in a group, and will reduce your experience income and item drop rate by half for each one you are carrying while ungrouped.
+These orbs let players achieve more while solo by giving each path access to spells from other paths. They cannot be used while in a group, and will halve your experience income and item drop rate for each one you are carrying while ungrouped.
 
-Acquired from the Incubator at Buya Gathering (north gate and head north). These cost 2 [Daily Coins](economy/daily-coins.md) and don't last very long.
+Acquired from the Incubator at Buya Gathering (north gate, then head north). These cost 2 [Daily Coins](economy/daily-coins.md) and don't last very long.
 
 Damaged orbs available to all include:
 
@@ -28,7 +28,7 @@ Some paths get more use out of these than others.
 
 ## Mage Orbs
 
-Mages specifically have access to a handful of completely free orbs that don't have the damaged drawbacks, effectively acting as additional spells. Mages should pick these up when they become useful, but they do need to be re-collected regularly.
+Mages have access to a handful of free orbs without the damaged drawbacks, effectively acting as additional spells. Mages should pick these up when they become useful, but they do need to be re-collected regularly.
 
 These include:
 
@@ -41,7 +41,7 @@ These include:
 
 For advanced players, Malgalod offers powerful orbs that cost coins and Malgal Insignias (gathered from Malgal soldiers).
 
-The cost for premium orbs scales with your rank. These are purchased from blue NPCs in Malgalod.
+The cost for premium orbs scales with your rank. These are bought from blue NPCs in Malgalod.
 
 | Level Range | Insignias Required | Coin Cost |
 | ----------- | ------------------ | --------- |

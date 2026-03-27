@@ -1,12 +1,12 @@
 # Polearm Cheat Sheet
 
-Polearms are a class of weapons that hit targets up to two tiles away. A polearm swung without any other effects will hit the tile two steps ahead of you, and additionally one of the two tiles either side of the tile in front of you, at a 50/50 chance. This only holds while the tile in front of you is empty.
+Polearms are a class of weapons that hit targets up to two tiles away. A polearm swung without any other effects will hit the tile two steps ahead of you, and additionally one of the two tiles either side of the tile in front of you, at a 50/50 chance. This applies only while the tile in front of you is empty.
 
-When combined with flank/backstab effects allowing you to attack in multiple directions, this allows you to hit a great number of enemies around you. Rogues also benefit specifically because their invisibility effect is not removed if the polearm only hits targets at range.
+When combined with flank/backstab effects allowing you to attack in multiple directions, this allows you to hit a great number of enemies around you. Rogues also benefit because their invisibility is not broken if the polearm only hits targets at range.
 
 ## Range Bonus
 
-Flamespears and featherlights do not have 'range bonuses'. Among the regular polearms, only the Military (Sam) Polearm has a range bonus. The MPA deals 2x damage to only the four orthogonal foes at range - not the diagonals. This sounds good, but the MPA's damage is so low that doubling it is not very impressive.
+Flamespears and featherlights do not have 'range bonuses'. Among the regular polearms, only the Military (Sam) Polearm has a range bonus. The MPA deals 2x damage to only the four orthogonal foes at range - not the diagonals. This sounds good, but the MPA's damage is so low that doubling it is not impressive.
 
 ## Hit Chance
 

@@ -1,6 +1,6 @@
 # Carnage Events
 
-The Carnage department hosts a number of competitive games for the community, both on a regular schedule and randomly throughout the day. You can find the schedule posted on the boards outside the various Kingdom arenas and Buyan stables.
+The Carnage department hosts several competitive games for the community, both on a regular schedule and randomly throughout the day. You can find the schedule posted on the boards outside the various kingdom arenas and Buyan stables.
 
 ## Riches
 
@@ -14,9 +14,9 @@ Similar to a Riches, but without material prizes. A common type of Bloodlust is 
 
 ## Elixir War
 
-A unique game played with bows and dye arrows. The objective is to obtain the enemy team's elixir from their base and bring it to the centre. This is done by stepping on the opponent's colored base tile, then reaching the centre and (h)anding an acorn to the central NPC - make sure you have one! If you are struck by an enemy arrow, you will be dyed in the enemy colours - if you take a step while dyed, you are out. However, an ally can shoot you to restore your dye to normal.
+A unique game played with bows and dye arrows. The objective is to grab the enemy team's elixir from their base and bring it to the center. Step on the opponent's colored base tile, then reach the center and (h)and an acorn to the central NPC -- make sure you have one! If you are struck by an enemy arrow, you will be dyed in the enemy colors -- if you take a step while dyed, you are out. However, an ally can shoot you to restore your dye to normal.
 
-Winning an elixir war will earn you either dye potions or Elixir tokens, which can be exchanged for cosmetic bows. You must be registered and at least level 51 to enter elixir wars, and they are held in Nagnang's arena.
+Winning an elixir war earns you either dye potions or Elixir tokens, which can be exchanged for cosmetic bows. You must be registered and at least level 51 to enter elixir wars, and they are held in Nagnang's arena.
 
 ## Fox Hunt
 
@@ -24,4 +24,4 @@ A fast-paced game played on horseback. One member from each team volunteers as c
 
 Fox hunts offer item prizes, with a slightly different selection to Riches. You can also acquire Fox hunt tokens, which can be exchanged for cosmetic mounts. Fox hunts are held in the Buyan stables, just southwest of east gate.
 
-While bloodlusts and elixirs don't offer prizes of monetary value, the legend marks earned from winning are vital for passing the trial of skill for your third mark.
+While Bloodlusts and Elixir Wars don't offer prizes of monetary value, the legend marks earned from winning are vital for passing the trial of skill for your third mark.

@@ -1,11 +1,11 @@
 # Getting Around
 
-Experienced adventurers can traverse the kingdoms in the blink of an eye. Here are some tips on navigating the world.
+Experienced adventurers can cross the kingdoms in the blink of an eye. Here are some tips on navigating the world.
 
 ## Navigation
 
 * **Map system**
-  Press 'm' to open the map, which shows your current area, NPC locations, and doorways to other areas. Some doorways that use non-standard logic won't show up on the map.
+  Press 'm' to open the map, which shows your current area, NPC locations, and doorways to other areas. Some doorways with non-standard logic won't show up on the map.
 
 * **World map access**  
   Reach the world map through the kingdom gatherings past the North gate of each kingdom. Kugnae's gathering is in a small building off to the side of the road straight north.

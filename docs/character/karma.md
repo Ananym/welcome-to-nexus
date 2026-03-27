@@ -12,9 +12,9 @@ Your karma can fall as well as rise. If you drop to Snake tier, NPCs may refuse 
 
 ## Karma Chart
 
-Because the reading of karma is an imprecise art, this chart of karma levels isn't perfect. However, it should give you an idea of the effort required between where you are and where you want to be.
+Because reading karma is an imprecise art, this chart of karma levels isn't perfect. However, it should give you an idea of the effort required to get from where you are to where you want to be.
 
-The smallest unit of karma recognised by the community is the pirate coin, as pirate coins can be directly exchanged for karma with librarians. Pirate coins are acquired through quests on [Gogoon](misc/Gogoon.md) island, as well as some temporary events.
+The smallest unit of karma recognised by the community is the pirate coin, as pirate coins can be directly exchanged for karma with librarians. Pirate coins are acquired through quests on [Gogoon](misc/gogoon.md) island, as well as some temporary events.
 
 New characters appear to start at the low end of Cat, so this is taken as zero.
 
@@ -42,13 +42,13 @@ You will also see other guides and players talk about 'points' of karma - this r
 Some ways to bolster your karma are only available once. These include:
 
 - Aiding [Chu Rua](https://www.nexusatlas.com/quests/churua.php)
-- Talking to Majhum about the Dusk Shaman during the [Nagnag armory quest](https://www.nexusatlas.com/quests/nagnagsshieldsquest.php) (reaching this point technically does not require completing your path's Nagnang Guild quest)
+- Talking to Majhum about the Dusk Shaman during the [Nagnag Armory quest](https://www.nexusatlas.com/quests/nagnagsshieldsquest.php) (reaching this point does not technically require completing your path's Nagnang Guild quest)
 - Weaving a magical net during the Wind armor quest
 - Specializing in a [manufacturing skill](economy/crafting.md)
 - The nonrepeatable quests on Gogoon island, particularly [Zuhair's Important Letter](misc/gogoon.md) (grants many pirate coins)
 - [Mythic alliances](character/mythic-alliances.md), of which you can complete 6 Lessers, 3 Majors, and 1 Sublime
 
-In general, aiding Chu Rua, talking to Majhum, and finishing the Important Letter quest will give you enough karma / pirate coins to reach Ox, which is an important breakpoint for the watcher's blessing required by [NPC subpaths](character/npc-subpath.md). You may wish to delay your path celestial armor quests until after receiving this blessing, as those quests do consume karma to complete.
+In general, aiding Chu Rua, talking to Majhum, and finishing the Important Letter quest will give you enough karma/pirate coins to reach Ox, which is an important threshold for the Watcher's blessing required by [NPC subpaths](character/npc-subpath.md). You may wish to delay your celestial armor quests until after receiving this blessing, as those quests consume karma to complete.
 
 ### Repeatable Karma Sources
 

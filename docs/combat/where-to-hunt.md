@@ -1,13 +1,13 @@
 # Where to Hunt
 
 For the most part, you should allow the requirements of your spells to govern where you hunt as you progress through the early levels.
-Many of the normal kingdom caves have equivalents in Tangun, and Tangun also has a few unique caves of its own. You can reach Tangun by talking to the innkeepers. Monsters in Tangun are generally slow to kill but the overall experience rate will usually be better than regular Kingdom caves, and some items are easier to find here.
+Many of the normal kingdom caves have equivalents in Tangun, and Tangun also has a few unique caves of its own. You can reach Tangun by talking to the innkeepers. Monsters in Tangun are generally slow to kill, but the overall experience rate will usually be better than regular kingdom caves, and some items are easier to find here.
 
-At times you may want to visit Mythic Nexus through the world map, which offers a variety of hunting caves at different levels. The normal monsters here drop only ambers (and less so than the aklak training grounds) but the bosses drop a variety of useful items. Mythic Nexus starts with Mythic Rabbit in the northeast, accessible from level 25.
+At times you may want to visit Mythic Nexus through the world map, which offers hunting caves at different levels. The normal monsters here drop only ambers (and fewer than the Aklak training grounds), but the bosses drop a variety of useful items. Mythic Nexus starts with Mythic Rabbit in the northeast, accessible from level 25.
 
 However, for the most part, when focusing on pure experience the correct cave is one of the Ancient Training Grounds. The most popular of these is west off Kugnae's west gate. This is a tiered cave and covers many levels. You can enter tier 1 at level 11, but you are unlikely to be able to fight effectively there until level 35ish.
 
-ATG has some mechanics allowing you to hunt with allies of different strengths. You're able to enter your highest tier plus the two tiers underneath. Entering a lower tier will penalize your stats and experience gain. However, it can often be more effective to hunt in a lower-than-highest tier due to the lower monster armor and vitality.
+ATG has mechanics that let you hunt with allies of different strengths. You can enter your highest tier plus the two tiers below it. Entering a lower tier will penalize your stats and experience gain. However, it can often be more effective to hunt in a lower tier due to the lower monster armor and vitality.
 
 ?> **Opinion Alert**: The way this system has been implemented has been deeply unhealthy for the game, as it encourages staying in ATG5 as long as physically possible using microtransactions to store experience - and even taking a higher mark and reducing your stats to remain in the desired tier. This style of hunting predominantly using your fighter's lower caves is extremely dull and creates hunting dead-zones at higher ranks. This sucks for everyone involved except for Kru, who benefit from all the extra envelope sales.
 

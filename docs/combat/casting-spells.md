@@ -14,15 +14,15 @@ You can also assign snippets of text to speak by pressing ; on the slots. Prefix
 
 There are several ways to target in NexusTK.
 
-By default, cast your spell, use the arrow keys to cycle the reticule to your target, then press enter. Press Esc to cancel the cast. Press Home while targeting to snap the reticule back to yourself.
+By default, cast your spell, use the arrow keys to move the reticle to your target, then press Enter. Press Esc to cancel the cast. Press Home while targeting to snap the reticle back to yourself.
 
-To target by mouse, it's recommended that you turn on "Simple Click" in the options tab. Cast your spell then click on your target. It's possible to cast the same spell in succession by holding the spell button and clicking multiple times on multiple targets. You can walk by holding right click - it may help to disable "Right click look" with Shift+R to avoid inspecting creatures and items instead of walking.
+To target by mouse, it's recommended that you turn on "Simple Click" in the options tab. Cast your spell, then click on your target. You can cast the same spell repeatedly by holding the spell button and clicking on multiple targets. You can walk by holding right click - it may help to disable "Right click look" with Shift+R to avoid inspecting creatures and items instead of walking.
 
 There are some helper functions to make targeting more convenient.
 
 **Sticky Targeting** is on 'v' by default, but can be swapped to tab with Shift-F11.
 
-To use sticky targeting, press the key, move the reticule to your target, and press the key again. All spells you cast will automatically use this target until you cancel with esc. Once cancelled, you can double tap the key again to instantly return to the same target. This is useful for protecting a specific person at a moment's notice.
+To use sticky targeting, press the key, move the reticle to your target, and press the key again. All spells you cast will use this target until you cancel with Esc. Once cancelled, you can double-tap the key to instantly return to the same target. This is useful for protecting a specific person at a moment's notice.
 
 **Cycle Targeting** is on tab by default, but can be swapped to 'v' with Shift-F11.
 
@@ -30,6 +30,6 @@ Press the key and your target will snap to an enemy.
 
 If you hold ctrl while pressing, your target will snap to an ally instead.
 
-All spells cast will automatically use this target until you cancel with esc. You can continue pressing the key to cycle between all available targets of that type automatically.
+All spells cast will use this target until you cancel with Esc. You can keep pressing the key to cycle through all available targets of that type.
 
 Target settings can be found via the Menu button. These let you change the way targets are selected during default targeting with arrow keys. You can adjust Shift+arrow to target only other player characters, for instance.

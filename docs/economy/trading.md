@@ -8,7 +8,7 @@ For everyday items, people often announce what they're looking for using the Sag
 
 (If you're shouting about buying an item, do yourself a favor and stand somewhere where you're easy to find! Staying in sight can encourage people to help you who might not have bothered to whisper. Similarly avoid shouting that you're buying something then immediately going AFK, in case someone just drops the item for you and you miss it.)
 
-You can also browse the [Buy and Sell boards](community/boards.md) boards for longer term information on what people want or have to offer.
+You can also browse the [Buy and Sell boards](community/boards.md) for longer term information on what people want or have to offer.
 
 As world shouts and buy/sell posts are both mirrored to the unofficial NTK discord, searching there can be a good way to find information on who's selling what, or what price some item typically goes for.
 
@@ -30,6 +30,6 @@ If you need to trade bigger quantities than normally fit into your inventory at 
 
 ## Parcels and Checks
 
-While not typically used for commerce, parcels are another way of transferring items. Visit your own kingdom's Messenger NPC to send and receive parcelled items (Clans often have their own messanger NPC too). Sending a parcel will cost 2x the normal deposit cost of an item. Parcels don't hang around forever! If the item isn't collected within 30 days, it will be destroyed.
+While not typically used for commerce, parcels are another way of transferring items. Visit your own kingdom's Messenger NPC to send and receive parcelled items (Clans often have their own messenger NPC too). Sending a parcel will cost 2x the normal deposit cost of an item. Parcels don't hang around forever! If the item isn't collected within 30 days, it will be destroyed.
 
-To transfer money using this system, you buy and parcel Checks in fixed increments. Checks are also available and convertable back to gold at messenger NPCs. This is often used for write-in community events.
+To transfer money using this system, you buy and parcel Checks in fixed increments. Checks are also available and convertible back to gold at messenger NPCs. This is often used for write-in community events.

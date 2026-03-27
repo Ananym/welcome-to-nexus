@@ -42,7 +42,7 @@ This guide covers where to find the various items commonly needed to learn spell
 - **Light Fox Fur**: Kugnae and Tangun fox caves
 - **Fox blade, fox tail**: Nine-tails fox bosses in all fox caves
 
-_You will need to experiment which cave is fastest for your level and path. I expect Tangun to be fastest for most things at higher levels when your damage output is higher, while at earlier levels the kingdom caves may be faster._
+_You'll need to experiment with which cave is fastest for your level and path. Tangun is likely fastest for most things at higher levels when your damage output is higher, while at earlier levels the kingdom caves may be faster._
 
 ## Mythic Items
 
@@ -55,7 +55,7 @@ _You will need to experiment which cave is fastest for your level and path. I ex
 
 ## Mountain Ginseng
 
-- **Mountain Ginseng**: Buya and Kugnae Rabbit Caves, from the Tick and Mantis bosses deep inside the cave. Most clan members can also sell you one.
+- **Mountain Ginseng**: Buya and Kugnae Rabbit Caves, from the Tick and Mantis bosses deep inside. Most clan members can also sell you one.
 
 ## Haunted House Weapons
 

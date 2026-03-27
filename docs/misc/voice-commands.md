@@ -1,6 +1,6 @@
 # Voice Commands
 
-The most common NPC functions - buying, selling, and bank management - can be accessed without using the menu by saying phrases out loud. The phrases are a little oddly formed.
+The most common NPC functions - buying, selling, and bank management - can be accessed without the menu by saying phrases out loud. The phrases are a little oddly formed.
 
 ## Buying and Selling
 

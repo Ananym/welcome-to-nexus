@@ -1,6 +1,6 @@
 # Keyboard Shortcuts
 
-Master these essential keyboard shortcuts to improve your gameplay efficiency in NexusTK.
+Essential keyboard shortcuts to improve your gameplay in NexusTK.
 
 ## Communication
 
@@ -18,7 +18,7 @@ Master these essential keyboard shortcuts to improve your gameplay efficiency in
 ### Picking Up Items
 - **Comma (,)** : Pick up an item
 - **Shift+Comma** : Pick up every item beneath you
-- **Ctrl+Comma** : Pick up items from the surrounding area from creatures you recently killed
+- **Ctrl+Comma** : Pick up items from the surrounding area dropped by creatures you recently killed
 
 ### Managing Items
 - **d** : Drop an item

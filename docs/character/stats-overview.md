@@ -18,11 +18,11 @@ _Please appreciate that NexusTK's core systems were designed in ~1996 for a very
 
 **Grace** improves your ability to dodge incoming blows.
 
-**Will** improves your ability to cast certain spells without failing (and very very slightly increases the damage of your basic zap attack spells).
+**Will** improves your ability to cast certain spells without failing (and very slightly increases the damage of your basic zap attack spells).
 
 **Protection** gives offensive spells a chance to fail when used against you. This appears to be 10% per point of protection, capping at 70%, so there is no advantage going beyond 7 protection.
 
-**Regen/Healing** directly improves the amount of vitality you regenerate over time by a percentage. 1 regen improves your natural regeneration by 1%. There is no equivalent for mana. This stat is usually not significant outside of niche solo scenarios.
+**Regen/Healing** improves the amount of vitality you regenerate over time by a percentage. 1 regen improves your natural regeneration by 1%. There is no equivalent for mana. This stat is usually not significant outside of niche solo scenarios.
 
 ## Stat Priorities
 
@@ -38,4 +38,4 @@ Once you reach your 99th insight, you can very easily raise your might, will, an
 
 Once you start taking marks like Il-san and beyond, you gain access to stronger ingresses and stronger weapons. The values of Dam on gear don't scale nearly as quickly, so it becomes quickly irrelevant.
 
-Might, will, and grace, generally don't do any noticeable good in the amounts found on gear - although mages may appreciate large will bonuses while levelling to improve their casting success rate.
+Might, Will, and Grace generally don't do any noticeable good in the amounts found on gear - although mages may appreciate large Will bonuses while levelling to improve their casting success rate.

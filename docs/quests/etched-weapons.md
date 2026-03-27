@@ -1,10 +1,10 @@
 # Etched Weapons
 
-The Etched Weapons are generally decent weapons that can be reliably acquired via repeatable quest, allowing players to equip themselves without needing to deal with a huge price tag. However, the quest itself involves a ten day real time wait and some tedious steps. Some trade-loving players will sell you a full set of the required items for a lump sum. The weapons themselves (acquired this way) cannot be traded.
+The Etched Weapons are decent weapons that can be reliably acquired via repeatable quest, letting players equip themselves without dealing with a huge price tag. However, the quest involves a ten day real time wait and some tedious steps. Some trade-loving players will sell you a full set of the required items for a lump sum. The weapons themselves cannot be traded.
 
 Like almost all weapons worth using, these will Break on Death and require [kruna](economy/kruna.md) item protections to hunt with.
 
-It is possible to partially complete the quest, then take your next -san mark, then complete the final step to receive a weapon for your new mark - this saves you having to spend the ten day wait with an old weapon. However, it's not advised to sit in this state forever, as some have reported their quest progress being cleared eventually.
+It is possible to partially complete the quest, then take your next -san mark, then complete the final step to receive a weapon for your new mark - this saves you from spending the ten day wait with an old weapon. However, it's not advised to sit in this state forever, as some have reported their quest progress being cleared eventually.
 
 ## When do I need one?
 
@@ -31,7 +31,7 @@ Find Taik'pae on the top floor(??) of his tent on the east shore of Kinung (83, 
   - 1 Grilled Beef - [Preparing Beef](economy/crafting?id=food-preparation)
   - 1 Noodles - [Chefs](economy/crafting?id=cheffing)
   - 2 Salt blocks - Drop and pick up [cloth](economy/crafting?id=weaving) across Dae shore, over and over
-- Say "Ingredients" again, wait 30 real minutes, say "Ingredients again"
+- Say "Ingredients" again, wait 30 real minutes, say "Ingredients" again
 - Take the special to Taik'pae to complete the first step
 
 - Taik'pae will ask for:
@@ -71,7 +71,7 @@ Tips:
 - Hot coal itself cannot be banked.
 - Some distance northwest of Taik'pae's tent is a market NPC who offers withdrawals.
 - Find the spot closest to Taik'pae's tent where you can reach this NPC by shouting, e.g. 78,72
-- Personally, I like withdrawing one coal/dust at a time. More keypresses, but by avoiding dealing with quantity, every iteration is identical and more mindless.
+- Personally, I prefer withdrawing one coal/dust at a time. More keypresses, but by avoiding dealing with quantity, every iteration is identical and more mindless.
 - Clear slot a and b in inventory
 - Set text macros to "/s Give my Coal back" and "/s Give my Flash dust back"
 - Hit both macros, make your hot coal (use tab to move button selection to 'ok' without needing the mouse)

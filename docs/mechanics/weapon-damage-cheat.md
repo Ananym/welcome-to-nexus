@@ -12,7 +12,7 @@ Only 'S' value is used - 'L' value has no known purpose.
 
 You can only ever have one fury multiplier and one ingress multiplier active at a time.
 
-Because Dam's flat bonus is not multiplied by ingress, its effect quickly becomes insignificant as weapon damage and ingress values increase throughout progression. Rogues have lower ingress values and higher multipliers, so they get slightly more mileage out of Dam.
+Because Dam's flat bonus is not multiplied by ingress, its effect quickly becomes negligible as weapon damage and ingress values increase throughout progression. Rogues have lower ingress values and higher multipliers, so they get slightly more mileage out of Dam.
 
 This table shows the damage boost from equipping a Skull of the Beast on various characters in standard gear:
 
@@ -62,11 +62,11 @@ Warrior Hit Chance % = 67.7781 + 0.4448 * def AC + -0.2260 * def grace + 0.3499 
 
 Rogue Hit Chance % = 84.8479 + 0.4448 * def AC + -0.2260 * def grace + 0.3499 * atk might + 0.8858 * atk hit
 
-These are of course not the correct numbers, but they very closely match the results for all scenarios I was personally able to test.
+These are not the exact numbers, but they closely match the results for all scenarios I was able to test.
 
 Common monsters, e.g. ATG6+ creatures, have an AC of -76. By the above regression, a warrior with zero hit and 130 might will still always hit a scourged creature (101%). As such, more hit will not increase your damage in this standard case, and in my experience this holds true.
 
-Against mobs with abnormal AC values, such as mythic bosses or sentries, hit may be more of a factor. Similarly, if you're solo'ing without scourge, even against ATG5 and below, hit may be useful if you notice yourself missing.
+Against mobs with abnormal AC values, such as mythic bosses or sentries, hit may be more of a factor. Similarly, if you're soloing without scourge, even against ATG5 and below, hit may be useful if you notice yourself missing.
 
 Additionally, while levelling, before might has been maxed, additional sources of might and hit make significant differences to hit chance. The warrior bless (and greater blessing) spells grant a small boost to hit chance.
 

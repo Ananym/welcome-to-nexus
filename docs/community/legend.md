@@ -4,11 +4,11 @@
 
 If you click on a player character and flip through their status window pages, you'll find their Legend. Players accumulate Legend Marks that serve to record their deeds in the Kingdoms.
 
-These marks themselves are entirely cosmetic, although some of them represent accomplishments that have other rewards. Many players do, to some degree, enjoy collecting rare or interesting marks.
+These marks are cosmetic, although some represent accomplishments that have other rewards. Many players enjoy collecting rare or interesting marks.
 
 Legend marks are, generally, permanent.
 
-Legend marks aren't neatly categorised in game, but usually come from one of these major sources:
+Legend marks aren't neatly categorized in game, but usually come from one of these sources:
 
 ## Quest marks
 
@@ -16,7 +16,7 @@ Many standard quests you will complete while developing your character will incl
 
 ## Event marks
 
-Many marks originate from historic events, in which case, 'you had to be there'. There won't be any way to acquire these after the fact. Participate when (if) we get a new game-wide event to earn one of these.
+Many marks originate from historic events, in which case, 'you had to be there'. There is no way to acquire these after the fact. Participate when (if) we get a new game-wide event to earn one of these.
 
 ## Subpath Quest marks
 
@@ -28,8 +28,8 @@ Some subpaths will apply their own marks if you turn up or win one of their comm
 
 ## Praise marks
 
-Among the most highly regarded marks, these show that a subpath or ministry has internally decided that a player has demonstrated a value that said institution holds highly. There is no reliable way to acquire these.
+Among the most highly regarded marks, these show that a subpath or ministry has decided that a player has demonstrated a value that the institution holds highly. There is no reliable way to acquire these.
 
 ## Red marks
 
-When people say 'red marks' they are referring to jail marks and/or subpath derogatory marks, although other marks that happen to be red exist. Break the laws and you may earn a jail mark, which is a deeply unwelcome addition to your character and very hard to remove. Subpaths can also apply their own negative mark if they feel you truly deserve it, although these are very rare to acquire these days.
+When people say 'red marks' they are referring to jail marks and/or subpath derogatory marks, though other marks that happen to be red exist. Break the laws and you may earn a jail mark, which is a deeply unwelcome addition to your character and very hard to remove. Subpaths can also apply their own negative mark if they feel you truly deserve it, though these are rare these days.

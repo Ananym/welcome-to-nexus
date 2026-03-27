@@ -11,11 +11,11 @@ Most people don't bother with the level 67 shields, and will instead take their 
 
 ## Quest Party
 
-While rogues and expert mages can reliably complete the run to the end of the armory by themselves, warriors and poets will most likely need to party up in order to make it safely. As there are only two tiers and the quest doesn't take very long, don't be afraid to ask for help! People are often quite happy to run it with you just for something to do. Just make doubly sure you do in fact have all the required items before you get stuck in.
+While rogues and expert mages can reliably complete the run to the end of the armory by themselves, warriors and poets will most likely need to party up to make it safely. As there are only two tiers and the quest doesn't take very long, don't be afraid to ask for help! People are often quite happy to run it with you just for something to do. Just make doubly sure you do in fact have all the required items before you get stuck in.
 
 ## Required Items
 
-To complete the quest, you need Nagnang Compasses, Stilts, and a Lockpick. You can borrow all of these, but it's likely best that you make your own during the course of the quest. Unless you have a permanent lightsource like a Lucky Lantern, you will also likely want to make a temporary Lantern.
+To complete the quest, you need Nagnang Compasses, Stilts, and a Lockpick. You can borrow all of these, but it's best to make your own during the quest. Unless you have a permanent lightsource like a Lucky Lantern, you will also likely want to make a temporary Lantern.
 
 ### Nagnang Compasses
 
@@ -27,7 +27,7 @@ To complete the quest, you need Nagnang Compasses, Stilts, and a Lockpick. You c
 
 - Gather 10 ginko wood and 10 wool
 - Say "Twine" to the wilderness weaver to turn the wool into twine
-- Once are able to talk to the farm ghost during the quest, say "Bridge" to make the stilts
+- Once you are able to talk to the farm ghost during the quest, say "Bridge" to make the stilts
 
 ### Lockpick
 
@@ -43,8 +43,8 @@ To complete the quest, you need Nagnang Compasses, Stilts, and a Lockpick. You c
 
 ### Shield Materials
 
-Once at the end of the quest, you'll need to provide materials to have your shield constructed.
-All shields use a level 95 weapon in their construction, but for the marked shields these weapons will need to be [Enchanted](character/99-equipment.md?id=enchantment) to the appropriate mark first. Note that since these level 95 weapons will all Break on Death, dying during the run through the armory is not an option. All shields also require a small pile of coins, from 24k at 99 to 384k at Sa-san.
+Once at the end of the quest, you'll need to provide materials to have your shield built.
+All shields use a level 95 weapon in their construction, but for the marked shields these weapons must be [Enchanted](character/99-equipment.md?id=enchantment) to the appropriate mark first. Note that since these level 95 weapons all Break on Death, dying during the run through the armory is not an option. All shields also require a small pile of coins, from 24k at 99 to 384k at Sa-san.
 
 Sa-san shields also require Sa-san shield shards, dropped from the Malevolent Clan Houses. A full set of these shards takes a lot of work to farm and is quite valuable.
 
@@ -55,7 +55,7 @@ Sa-san shields also require Sa-san shield shards, dropped from the Malevolent Cl
 
 ## Reaching the Farm
 
-Once you've assembled your required items, you'll need to be able to reach the farm. You'll need to enter the Dark Forest from Nagnang, 79/2, north of the palace. The Dark Forest is a confusing place, with the idea being that using compasses will eventually lead you to the exit.
+Once you've assembled your required items, you'll need to reach the farm. Enter the Dark Forest from Nagnang, 79/2, north of the palace. The Dark Forest is a confusing place, with the idea being that using compasses will eventually lead you to the exit.
 
 There's a common trick, however - you can instead wander randomly in and out of a room exit until you reach the designated 'end' room, where using a single compass will point you east to the farm. That room can be recognised by its 'plus' shaped path, with map as below:
 
@@ -75,7 +75,7 @@ With Stilts in hand one way or the other, step into the shore on the west side o
 
 On the opposite shore, make your way east, across the bridge to Benitnath's island. Inside his shop, click on him and listen, then say "Sewers". Afterwards, you can enter the sewers through a passage in the northeast corner of his shop. It's at this point that you will want your lantern.
 
-The sewers are pitch black and hard to navigate without a lightsource. Make sure you have "Shadows" turned on in the options for your lightsource to work. Judicious use of the 'm'ap can make the sewers much easier to navigate. For the most part the sewers are linear, although in the one instance where there are multiple exits from a room, you want the furthest one away from the room's entrance. Making it through the sewer's dozen rooms will deposit you outside the armory.
+The sewers are pitch black and hard to navigate without a light source. Make sure you have "Shadows" turned on in the options for your light source to work. Judicious use of the 'm'ap can make the sewers much easier to navigate. The sewers are mostly linear, although in the one instance where there are multiple exits from a room, you want the furthest one from the room's entrance. Making it through the sewer's dozen rooms will deposit you outside the armory.
 
 ## The Armory
 
@@ -83,4 +83,4 @@ Head East until you reach an eastward-facing gate. Walk up to it and you'll be p
 
 From the main hall, each path needs to pursue a different direction to reach their shield-granting NPC. Warriors go southwest, poets go north, rogues go northeast, mages go southeast. In practice you can't easily split up here as warriors and poets are unlikely to be able to solo their own routes, so you may have to double back or make two trips if both of you are making shields.
 
-The paths are linear, so after some tricky foes you will eventually find your final NPC. Provided you have completed your path-specific Nagnang Guild quest, these NPCs will take your materials and forge you a new bonded shield.
+The paths are linear, so after some tricky foes you will eventually find your final NPC. If you have completed your path-specific Nagnang Guild quest, these NPCs will take your materials and forge you a new bonded shield.

@@ -110,7 +110,7 @@ _Expect this page to grow..._
 
   - Character-bound tokens received from quests that can be used to redeem items or karma
   - Say "pirate coins" to a kingdom librarian to check or trade your pirate coins
-  - See [karma](character.md) and [Gogoon](misc/gogoon.md)
+  - See [karma](character/karma.md) and [Gogoon](misc/gogoon.md)
 
 ## Locations
 
@@ -152,11 +152,11 @@ _Expect this page to grow..._
 
 - Archons
 
-  - A team of special characters with various moderator powers.
+  - A team of special characters with various moderator powers
   - Various responsibilities
   - Often volunteer positions
   - Attempting to reveal an archon's player identity is illegal
-  - List of archons available on the in-game [Guide](commuinity/boards.md) board
+  - List of archons available on the in-game [Guide](community/boards.md) board
 
 - Pawn
 
@@ -214,7 +214,7 @@ _Expect this page to grow..._
 
 - Tutor
 
-  - Member of the Tutor team responsible for helping players to understand the game
+  - Member of the Tutor team responsible for helping players understand the game
 
 - Judge
 
@@ -257,7 +257,7 @@ _Expect this page to grow..._
 
   - Scroll of invocation (invoke)
   - Scroll of protection (protects against curses)
-  - [Consumables](basics/consumables.md) created by [Scribes](economy/crafting.md?id=scribing)
+  - [Consumables](combat/consumable-items.md) created by [Scribes](economy/crafting.md?id=scribing)
 
 - Red Pot
 
