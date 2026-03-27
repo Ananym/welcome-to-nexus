@@ -1,4 +1,4 @@
-# Path Tips
+# Carnage Tips
 
 This page will cover some absolute basics of playing in carnages.
 

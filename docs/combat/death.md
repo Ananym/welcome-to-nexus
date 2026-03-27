@@ -21,3 +21,5 @@ As for the damaged but surviving gear, most items can be repaired for gold at a 
 The other major consequence of death is experience loss. Before level 99, this loss is small and will not seriously set you back. However, [after level 99](character/beyond-99th.md), you will lose half of all experience you are carrying. This can be a big blow at the end of an otherwise productive hunting session. Make sure you trade in your experience for stats regularly after 99.
 
 Similarly, if you are carrying any Kruna Experience Envelopes, half of these will be destroyed during death.
+
+[Kruna](economy/kruna.md) consumable convenience items exist to mitigate these losses if you have reason to be especially cautious.

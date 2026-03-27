@@ -16,6 +16,22 @@ That said, some investment in crafting is required for certain pursuits, and it 
 - [Kruna](economy/kruna.md) crafting bags exist to allow you to hold more materials at a time
 - Only 'successful' crafting attempts while manufacturing or refining grant crafting experience - so it is usually best to focus on the easiest options.
 
+Crafting ranks:
+
+| # | Rank |
+|---|------|
+| 1 | Novice |
+| 2 | Apprentice |
+| 3 | Accomplished |
+| 4 | Adept |
+| 5 | Talented |
+| 6 | Skilled |
+| 7 | Expert |
+| 8 | Master |
+| 9 | Grand Master |
+| 10 | Champion |
+| 11 | Legendary |
+
 ## Gathering
 
 ### Woodcutting

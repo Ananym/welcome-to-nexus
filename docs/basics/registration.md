@@ -23,6 +23,7 @@ You don't need a NexusTK account to make a character. However, for the full expe
 
 ## Notes
 
+- Once a character has been added to an account, you will be unable to log into that character while the account's registration has lapsed
 - Each account has a strict limit of four character slots
 - Only one character on each account can be in-game at a time
 - Your [Kruna](economy/kruna.md) balance is associated with your account

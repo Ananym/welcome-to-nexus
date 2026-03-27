@@ -16,7 +16,7 @@ Experienced adventurers can cross the kingdoms in the blink of an eye. Here are 
 ## Travel Methods
 
 * **Gateway**
-  The Gateway spell from the tutorial takes you to gates corresponding to your current location. Gating within a kingdom takes you to that kingdom's gates. Gating from Tangun, Wilderness, or Vale takes you to Mythic Nexus.
+  The Gateway spell from the tutorial takes you to gates corresponding to your current location. Gating within a kingdom takes you to that kingdom's gates. Gating from Tangun, Wilderness, or Vale takes you to Mythic Nexus, from which you can reach the world map by going straight north.
 
 * **Innkeepers**
   Talk to innkeepers or clan greeters for transport (20 coin fee). Say 'Kugnae', 'Buya', 'Nagnang', 'Tangun', or 'Clan' out loud or via menu. Quick Mythic Nexus shortcut: visit Tangun and immediately cast Gateway.
@@ -33,5 +33,5 @@ Experienced adventurers can cross the kingdoms in the blink of an eye. Here are 
   Anyone can ride horses roaming the kingdoms. A reliable source is the northwest corner of Kugnae. Face the horse and press 'r'.
 
 * **Permanent mounts**
-  [Registered](basics/registration.md) characters can hold permanent mount-summoning items from the [Kruna store](economy/kruna.md). Some are tradable and highly valued, but work exactly the same. Clans or friends may give or lend you a basic mount.
+  [Registered](basics/registration.md) characters can hold permanent mount-summoning items from the [Kruna store](economy/kruna.md). Some are tradable and highly valued cosmetically, but all work exactly the same. Clans or friends may give or lend you a basic mount.
 
